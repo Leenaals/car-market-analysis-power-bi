@@ -1,0 +1,2001 @@
+make,model,seating_capacity,transmission_type,fuel_tank_capacity,body,rating,starting_price,ending_price,max_torque_nm,max_torque_rpm,max_power_bhp,max_power_rp
+Kia,Sorento,7,automatic,41,SUV,4.8,20371,25241,168,3798,294,6420
+Kia,Sorento,7,automatic,45,SUV,4.1,19274,26601,295,2389,357,6375
+BMW,3 Series,5,automatic,73,Sedan,4.8,27105,33645,405,3558,186,5025
+Volvo,S60,5,automatic,68,Sedan,4.2,24736,31156,407,3288,170,5358
+BMW,6 Series Gran Coupe,5,automatic,59,Sedan,3.8,57833,73816,273,1914,176,5168
+Nissan,Altima,5,automatic,50,Sedan,3.9,9098,13428,140,1780,183,4942
+BMW,M5,5,automatic,64,Sedan,3.8,52986,73795,361,1950,225,5626
+Chevrolet,Cruze,5,automatic,79,Sedan,3.8,8436,12274,268,3286,299,5718
+Audi,A4,5,automatic,56,Sedan,4.7,28435,40958,443,1533,204,4826
+Chevrolet,Camaro,5,automatic,60,Convertible,4.9,15067,22514,316,2067,129,6966
+Audi,A6,5,automatic,71,Sedan,4.4,41489,62534,365,1408,154,4133
+Kia,Optima,5,automatic,43,Sedan,4.4,15270,18783,495,3033,351,6346
+Ford,Fusion,5,automatic,42,Sedan,4.4,10959,13584,277,3410,116,6509
+Kia,Sorento,7,automatic,72,SUV,3.8,17292,25935,450,1919,194,5289
+Chevrolet,Cruze,5,automatic,69,Sedan,3.7,9585,12876,419,2207,238,4963
+Nissan,Altima,5,automatic,60,Sedan,4.2,12394,14983,275,1410,296,6824
+Hyundai,Sonata,5,Manual,43,Sedan,4.6,3860,5145,319,3958,361,4137
+Audi,Q5,7,automatic,79,SUV,3.8,37464,51334,181,2732,289,6123
+Chevrolet,Camaro,5,automatic,73,Coupe,3.8,14235,18638,334,3058,179,5041
+BMW,6 Series,5,automatic,43,Convertible,4.9,63447,70696,345,1571,257,4217
+Chevrolet,Impala,5,automatic,47,Sedan,4.5,5990,7641,330,3461,363,4617
+BMW,5 Series,5,automatic,46,Sedan,3.9,26362,32206,170,3925,316,4025
+Chevrolet,Camaro,5,automatic,61,Convertible,3.9,13091,17921,401,3787,390,4791
+Audi,A3,5,automatic,75,Sedan,4.9,20557,25676,362,1946,160,5014
+BMW,6 Series,5,automatic,65,Convertible,3.7,54251,70780,492,3511,194,5293
+Hyundai,Sonata,5,automatic,64,Sedan,4.3,7131,10807,332,2734,202,4075
+Volvo,XC70,5,automatic,51,Wagon,3.9,27113,34132,370,2774,169,4080
+Volvo,XC70,5,automatic,43,Wagon,4.5,28638,40880,342,1895,245,6741
+BMW,X5,7,automatic,80,SUV,4.1,30439,36734,269,3474,258,5181
+Chevrolet,Camaro,5,automatic,77,Coupe,3.9,17572,24661,261,2276,153,4974
+Chevrolet,Cruze,5,automatic,62,Sedan,3.8,9775,13633,174,2192,385,4437
+Audi,SQ5,7,automatic,51,SUV,4.9,42913,50350,195,2854,152,6070
+Kia,Sorento,7,automatic,47,SUV,5.0,18078,24037,150,1390,369,5231
+Audi,S5,5,automatic,71,Coupe,4.8,39668,51023,461,1499,310,4276
+Kia,Sorento,7,automatic,75,SUV,3.6,17942,24196,212,1215,101,5146
+Buick,Verano,5,Automatic,73,Sedan,4.7,7960,11922,394,2167,286,4421
+Chevrolet,Suburban,7,automatic,65,SUV,4.9,48577,62902,359,2207,305,5367
+BMW,3 Series,5,automatic,75,Sedan,3.6,27514,39058,369,3224,364,4921
+BMW,M5,5,automatic,47,Sedan,4.1,56651,78730,322,2656,218,6812
+BMW,3 Series,5,automatic,71,Sedan,3.9,22601,30794,294,2841,236,5718
+Cadillac,ELR,5,automatic,62,Coupe,3.7,41737,48147,126,1622,230,6206
+Hyundai,Sonata,5,automatic,60,Sedan,3.9,9207,10745,356,3924,134,4459
+BMW,6 Series,5,automatic,78,Convertible,3.5,58817,71649,493,3078,130,5152
+Volvo,V60,5,automatic,59,Wagon,4.2,24770,33621,234,3743,156,6386
+Chevrolet,Cruze,5,Automatic,61,Sedan,4.4,1808,2300,292,2294,361,4459
+BMW,X6,7,automatic,50,SUV,4.0,47073,58529,468,2606,152,5639
+Volvo,V60,5,automatic,62,Wagon,4.3,25633,38326,240,3889,393,5597
+Chevrolet,Cruze,5,automatic,67,Sedan,4.5,11652,16304,282,2635,221,5901
+Acura,ILX,5,automatic,58,Sedan,3.8,17757,23442,239,1258,201,5440
+Kia,Sorento,7,automatic,79,SUV,4.6,17925,23651,161,1295,296,4153
+Volvo,V60,5,automatic,71,Wagon,4.4,26063,34465,202,1665,184,4963
+Nissan,Altima,5,automatic,51,Sedan,4.3,10668,14242,335,3375,336,4452
+BMW,6 Series Gran Coupe,5,automatic,77,Sedan,4.1,58180,82745,198,1367,294,4461
+Nissan,Altima,5,automatic,79,Sedan,3.9,9455,12090,447,3198,251,5424
+Kia,K900,5,automatic,67,Sedan,4.4,32178,42101,279,1694,299,5148
+Kia,Sorento,7,automatic,76,SUV,4.7,18689,22497,469,2745,144,6469
+Chevrolet,Malibu,5,automatic,68,Sedan,4.0,8047,12281,159,1473,167,4022
+Lexus,RX 350,7,automatic,65,SUV,4.7,36116,42716,220,3756,176,6784
+Kia,Sorento,7,automatic,40,SUV,3.9,16328,21425,388,3028,284,4773
+BMW,M5,5,automatic,74,Sedan,4.8,63940,91567,487,1452,185,4089
+Kia,K900,5,automatic,78,Sedan,4.6,36672,43685,481,2601,96,6757
+Audi,A3,5,automatic,72,Sedan,4.9,16143,19372,152,2171,221,5129
+Nissan,Versa,5,manual,61,Sedan,4.9,9083,13702,359,2021,351,4158
+Chevrolet,Camaro,5,automatic,61,Coupe,3.8,17385,24633,127,3771,268,6133
+Hyundai,Elantra,5,automatic,49,Sedan,4.8,9110,13416,459,1883,350,6028
+Kia,Sorento,7,automatic,59,SUV,3.7,17205,24671,272,3989,348,6590
+Chevrolet,Camaro,5,automatic,48,Coupe,4.7,17352,20672,301,3614,269,4339
+Audi,A3,5,automatic,62,Sedan,4.7,21558,27226,355,2206,313,6090
+BMW,6 Series,5,automatic,76,Convertible,3.8,56639,78348,381,3810,381,6678
+Nissan,Versa Note,5,automatic,46,Hatchback,3.9,8446,11452,212,2948,164,6624
+Audi,A8,5,automatic,40,Sedan,3.6,42460,64412,274,1298,125,5831
+BMW,X1,7,automatic,41,SUV,4.4,24709,32245,126,1855,328,4536
+BMW,nan,5,automatic,47,Sedan,3.8,58525,80317,305,3709,163,4205
+Chevrolet,Camaro,5,automatic,74,Coupe,4.4,12144,15649,403,3213,351,6496
+Volvo,V60,5,automatic,69,Wagon,3.8,22499,33839,214,3910,144,6813
+BMW,6 Series,5,automatic,57,Coupe,3.7,57087,71581,394,3784,380,6279
+Chevrolet,Camaro,5,automatic,43,Coupe,4.4,12105,15722,441,2230,291,5285
+BMW,6 Series Gran Coupe,5,automatic,50,Sedan,4.1,47124,69610,330,3343,293,5591
+Kia,Sorento,7,automatic,67,SUV,3.8,18132,26926,305,2079,317,5486
+Kia,Sorento,7,automatic,75,SUV,4.7,20125,24314,183,3938,268,5024
+Buick,Enclave,7,automatic,43,SUV,3.7,20554,30705,186,2847,169,4391
+BMW,M5,5,automatic,75,Sedan,4.1,54083,76311,131,1451,308,4342
+BMW,M5,5,automatic,66,Sedan,3.8,53299,84610,236,1518,130,6025
+Audi,TTS,5,automatic,40,Coupe,3.7,28738,40920,459,3048,316,6127
+Hyundai,Elantra,5,automatic,73,Sedan,4.7,9980,13178,244,1582,229,5286
+BMW,4 Series,5,automatic,61,Coupe,3.7,35992,43681,121,3512,343,5546
+Kia,Sorento,7,automatic,42,SUV,5.0,19749,23068,391,3529,252,4733
+Chevrolet,Cruze,5,automatic,58,Sedan,4.7,12040,15448,473,2462,356,6872
+Chevrolet,Cruze,5,automatic,65,Sedan,4.3,12207,14315,154,1993,265,5051
+Chevrolet,Silverado 2500HD,5,Automatic,55,Crew Cab,3.7,30162,43122,413,3718,380,6121
+Kia,Sorento,7,automatic,55,SUV,3.8,19289,24696,269,1701,105,4084
+Hyundai,Elantra,5,automatic,48,Sedan,4.9,9427,10812,470,2767,397,4480
+Hyundai,Elantra,5,automatic,55,Sedan,4.4,11692,17097,158,3422,218,6238
+Acura,MDX,7,automatic,53,SUV,4.7,37165,49814,137,3369,304,6387
+Ford,Fusion,5,automatic,63,Sedan,3.7,9737,14534,156,3190,308,6123
+BMW,6 Series,5,automatic,69,Convertible,4.2,60563,73526,253,2565,144,5062
+Chevrolet,Cruze,5,automatic,64,Sedan,4.0,9149,12795,382,1316,134,4226
+Chevrolet,Silverado 1500,5,automatic,54,Crew Cab,4.6,25028,37637,169,3191,305,5697
+Chevrolet,Cruze,5,automatic,77,Sedan,4.7,11642,15976,187,3921,219,6328
+Kia,Sorento,7,automatic,43,SUV,4.7,18249,23275,382,2366,214,5802
+Chevrolet,Cruze,5,automatic,51,Sedan,5.0,2810,3544,187,3973,345,5449
+Volvo,V60,5,automatic,48,Wagon,4.4,26711,38056,455,2812,317,6027
+Chevrolet,Camaro,5,manual,48,Coupe,4.4,15847,23647,259,2117,159,4230
+Nissan,Altima,5,automatic,43,Sedan,4.7,8419,11949,210,2188,269,5567
+BMW,6 Series,5,automatic,50,Convertible,3.9,53636,71914,314,3279,197,4143
+Hyundai,Elantra,5,automatic,50,Sedan,3.6,4787,6177,351,2199,200,6980
+BMW,5 Series,5,automatic,57,Sedan,4.8,38182,57366,166,2927,119,6479
+BMW,6 Series,5,automatic,76,Convertible,3.8,52972,76263,327,1345,208,4851
+Kia,Sorento,7,automatic,53,SUV,3.8,18506,24700,268,2443,354,4618
+Cadillac,SRX,7,automatic,55,SUV,4.0,25248,33746,345,3015,339,5479
+BMW,X5,7,automatic,58,SUV,3.7,53263,68842,190,2639,167,6778
+Hyundai,Elantra,5,automatic,50,Sedan,3.6,8307,11148,331,3956,109,4091
+Chevrolet,Cruze,5,Manual,61,Sedan,4.2,9460,15159,157,1826,171,4607
+Chevrolet,Silverado 1500,5,automatic,50,Crew Cab,4.8,27488,35664,416,3382,289,4930
+Kia,Sorento,7,automatic,77,SUV,4.7,18072,24158,226,1476,264,6943
+Kia,Sorento,7,automatic,80,SUV,4.5,19134,24672,470,3060,338,5978
+Acura,ILX,5,automatic,56,Sedan,4.7,16882,23269,345,3100,239,4892
+Kia,Sorento,7,automatic,75,SUV,3.9,18063,23632,199,2260,152,6601
+Volvo,V60,5,automatic,47,Wagon,3.7,24154,32930,182,2464,169,4359
+Chevrolet,Camaro,5,automatic,54,Coupe,3.5,8393,10776,327,1462,190,4518
+Chevrolet,Cruze,5,automatic,60,Sedan,4.4,11660,15533,267,3449,130,6726
+Hyundai,Elantra,5,automatic,69,Sedan,4.3,5971,7577,147,3480,139,4351
+Infiniti,G Coupe,5,automatic,43,G Coupe,4.1,21558,31692,190,2687,124,4802
+Infiniti,G Sedan,5,automatic,51,G Sedan,4.2,25515,30131,432,1471,292,4612
+Infiniti,G Sedan,5,automatic,76,G Sedan,4.7,21160,27696,231,1365,177,6307
+Infiniti,G Coupe,5,automatic,42,G Coupe,4.6,23662,28637,239,1493,383,4170
+Infiniti,G Coupe,5,automatic,80,G Coupe,3.8,24318,30900,352,1518,190,4130
+Infiniti,G Sedan,5,automatic,72,G Sedan,3.8,20092,25273,435,3428,171,5083
+Infiniti,G Sedan,5,automatic,75,G Sedan,4.6,21969,26155,347,3770,233,5673
+Infiniti,FX,7,automatic,69,SUV,4.3,27636,39462,193,2110,139,5295
+Infiniti,G Sedan,5,automatic,47,G Sedan,4.9,18305,23901,439,3943,250,4359
+Hyundai,Santa Fe,7,automatic,49,SUV,4.5,23074,32674,264,2242,332,5397
+Hyundai,Genesis,5,automatic,68,Sedan,3.7,24761,30916,238,3059,167,5756
+Hyundai,Equus,5,automatic,55,Sedan,4.0,22077,30769,361,2148,365,5265
+Infiniti,G Sedan,5,automatic,73,G Sedan,4.2,22989,27418,160,2898,261,6097
+Hyundai,Elantra,5,automatic,60,Sedan,4.5,9517,11428,333,2226,223,6773
+Hyundai,Santa Fe,7,automatic,51,SUV,4.4,25351,33625,252,2718,381,5001
+Hyundai,Elantra,5,automatic,76,Sedan,4.9,10108,11610,402,2786,352,4513
+Infiniti,G Coupe,5,automatic,71,G Coupe,4.6,24664,30426,274,2156,361,5847
+Hyundai,Elantra,5,automatic,74,Sedan,4.8,7042,10508,431,1295,144,4168
+Infiniti,G Sedan,5,automatic,68,G Sedan,4.6,20105,28470,136,1454,136,4158
+Infiniti,G Coupe,5,automatic,58,G Coupe,4.0,22125,30760,318,3521,377,6709
+Hyundai,Sonata,5,automatic,77,Sedan,4.8,9584,14079,148,3025,218,6707
+Hyundai,Elantra,5,manual,77,Sedan,5.0,11268,12981,261,2013,356,5864
+Hyundai,Sonata,5,automatic,62,Sedan,3.7,10768,12621,330,2217,330,6957
+Hyundai,Elantra,5,automatic,55,Sedan,3.7,9804,13256,171,3684,232,6512
+Hyundai,Sonata Hybrid,5,automatic,72,Sedan,3.6,15626,20969,301,2140,173,6813
+Infiniti,G Sedan,5,automatic,73,G Sedan,4.3,21534,27318,396,1574,316,4641
+Hyundai,Sonata Hybrid,5,automatic,53,Sedan,4.9,15180,20286,357,1343,349,6627
+Hyundai,Santa Fe,7,automatic,72,SUV,4.0,16281,23374,410,2978,101,4223
+Infiniti,G Sedan,5,automatic,78,G Sedan,4.3,18439,24125,487,2580,162,4315
+Infiniti,G Sedan,5,automatic,57,G Sedan,4.8,21843,25355,500,1888,120,5982
+Infiniti,G Sedan,5,automatic,71,G Sedan,4.4,19093,25771,433,2047,340,4908
+Infiniti,G Sedan,5,automatic,49,G Sedan,3.5,20930,26950,390,2997,141,4339
+Infiniti,G Coupe,5,automatic,43,G Coupe,3.8,21438,34067,188,2464,180,6642
+Infiniti,G Sedan,5,automatic,46,G Sedan,4.7,18918,27951,143,2571,338,5328
+Hyundai,Sonata,5,automatic,57,Sedan,4.6,10942,15152,371,2173,163,5990
+Hyundai,Santa Fe,7,automatic,65,SUV,4.9,22411,28247,214,1838,198,5721
+Hyundai,Sonata,5,automatic,56,Sedan,3.8,10108,13811,238,2973,352,4287
+Hyundai,Sonata,5,automatic,45,Sedan,4.4,14261,20932,219,2901,355,5906
+Hyundai,Elantra,5,automatic,47,Sedan,4.6,9589,12843,403,3354,316,6273
+Hyundai,Sonata Hybrid,5,automatic,76,Sedan,4.9,15917,22129,397,2344,358,4276
+Hyundai,Elantra,5,automatic,76,Sedan,4.5,5843,7386,494,2796,344,4875
+Infiniti,G Sedan,5,automatic,58,G Sedan,4.8,20963,26799,294,1837,261,4386
+Infiniti,G Sedan,5,automatic,78,G Sedan,4.5,18890,26679,406,3565,323,5322
+Infiniti,G Sedan,5,automatic,66,G Sedan,4.2,20872,25227,388,2419,278,4833
+Infiniti,G Sedan,5,automatic,60,G Sedan,3.7,20864,25156,217,1724,341,5364
+Infiniti,G Sedan,5,automatic,78,G Sedan,3.6,18559,27118,368,3988,245,6648
+Infiniti,G Sedan,5,automatic,69,G Sedan,4.0,17200,25053,394,1524,358,5733
+Hyundai,Elantra,5,automatic,79,Sedan,4.6,9679,11791,256,2912,113,5182
+Hyundai,Santa Fe,7,automatic,74,SUV,4.9,22012,26450,256,1619,230,4179
+Infiniti,G Sedan,5,automatic,55,G Sedan,4.8,21783,30325,365,2755,108,6405
+Infiniti,G Sedan,5,automatic,78,G Sedan,4.9,22648,25907,355,3372,344,5220
+Hyundai,Sonata,5,automatic,46,Sedan,4.5,15353,19050,301,1875,199,6901
+Infiniti,G Sedan,5,automatic,72,G Sedan,3.5,19151,23594,312,2262,167,6829
+Hyundai,Accent,5,automatic,55,Sedan,4.6,7197,9475,124,2059,337,4637
+Infiniti,G Sedan,5,automatic,43,G Sedan,4.7,20477,27427,255,2191,285,5437
+Hyundai,Veloster,5,automatic,56,Hatchback,3.9,13095,18486,165,2658,378,6011
+Infiniti,G Coupe,5,automatic,80,G Coupe,4.5,22403,32058,198,2561,205,5448
+Hyundai,Accent,5,automatic,76,Sedan,4.0,3272,3777,468,3335,140,5612
+Hyundai,Elantra Coupe,5,automatic,48,Elantra Coupe,4.4,14562,16994,490,3984,106,5747
+Infiniti,G Coupe,5,automatic,79,G Coupe,3.7,23092,32887,425,3114,250,6393
+Infiniti,G Sedan,5,automatic,63,G Sedan,4.3,21864,32203,376,2083,397,4644
+Infiniti,G Sedan,5,automatic,52,G Sedan,3.7,20122,30502,203,2061,196,4504
+Infiniti,G Sedan,5,automatic,67,G Sedan,3.6,21766,31636,389,3261,146,5057
+Infiniti,G Sedan,5,automatic,57,G Sedan,3.6,17812,27039,408,1967,196,6089
+Infiniti,G Sedan,5,automatic,54,G Sedan,4.6,17203,24145,391,2031,315,4789
+Hyundai,Sonata,5,automatic,68,Sedan,3.9,6123,7748,281,1992,286,6267
+Infiniti,G Sedan,5,automatic,72,G Sedan,4.9,19319,24078,354,3307,356,6915
+Infiniti,G Sedan,5,automatic,56,G Sedan,4.2,20800,28423,188,2553,137,5804
+Infiniti,G Sedan,5,automatic,66,G Sedan,4.3,15904,20571,240,1809,300,5310
+Hyundai,Sonata,5,automatic,80,Sedan,4.5,11794,16331,127,2440,255,6400
+Infiniti,G Sedan,5,automatic,65,G Sedan,3.8,17152,22258,419,2561,341,5461
+Hyundai,Sonata Hybrid,5,automatic,52,Sedan,4.0,14869,23092,130,3728,363,5599
+Hyundai,Accent,5,automatic,46,Hatchback,3.7,10670,12720,227,2023,398,4373
+Hyundai,Elantra,5,automatic,72,Sedan,4.7,9858,13109,235,3505,303,4321
+Infiniti,G Sedan,5,automatic,70,G Sedan,3.6,21483,28871,179,3019,98,5124
+Infiniti,FX,7,automatic,45,SUV,4.7,21801,34163,406,3513,115,5841
+Hyundai,Elantra,5,automatic,45,Sedan,5.0,7835,9763,495,2581,246,6710
+Infiniti,G Sedan,5,automatic,58,G Sedan,3.6,19546,28024,201,3521,108,5855
+Infiniti,G Sedan,5,automatic,54,G Sedan,4.4,22469,30655,462,2368,260,5340
+Hyundai,Accent,5,automatic,46,Sedan,4.9,8817,10361,497,3411,297,5589
+Hyundai,Azera,5,automatic,80,Sedan,3.6,17893,21801,440,3564,207,5636
+Hyundai,Santa Fe,7,automatic,50,SUV,4.8,23814,30430,321,2549,112,5897
+Hyundai,Elantra,5,automatic,54,Sedan,3.5,6088,8372,448,2411,157,4546
+Hyundai,Sonata Hybrid,5,automatic,80,Sedan,4.7,14057,15920,242,1474,138,4222
+Infiniti,G Sedan,5,automatic,56,G Sedan,4.1,14779,23622,406,2957,336,5714
+Hyundai,Elantra,5,automatic,63,Sedan,4.7,8138,11264,288,1684,336,6152
+Infiniti,G Coupe,5,automatic,41,G Coupe,4.0,19996,23638,226,2041,253,6107
+Infiniti,G Coupe,5,automatic,43,G Coupe,4.8,21196,27862,154,1715,115,6060
+Infiniti,G Sedan,5,automatic,41,G Sedan,3.6,17933,26053,486,3599,306,4169
+Infiniti,G Sedan,5,automatic,48,G Sedan,3.9,18987,25677,281,3368,346,4941
+Hyundai,Tucson,7,automatic,49,SUV,4.7,15713,22671,141,2374,99,4319
+Infiniti,G Sedan,5,automatic,79,G Sedan,5.0,21721,25992,386,3009,226,4313
+Infiniti,G Sedan,5,automatic,41,G Sedan,4.8,17856,22909,379,1834,273,6657
+Hyundai,Sonata,5,automatic,73,Sedan,4.9,11225,15701,474,1556,275,6837
+Hyundai,Elantra,5,automatic,59,Sedan,4.5,14404,18870,302,3610,274,4244
+Hyundai,Azera,5,automatic,51,Sedan,5.0,17650,27202,406,2609,222,5439
+Infiniti,G Sedan,5,automatic,43,G Sedan,4.7,23526,32447,367,3977,205,6057
+Infiniti,G Sedan,5,automatic,63,G Sedan,4.5,21989,31108,276,1569,279,6187
+Infiniti,G Sedan,5,automatic,41,G Sedan,4.8,18530,23925,229,3546,316,4778
+Hyundai,Sonata Hybrid,5,automatic,61,Sedan,4.7,16606,21223,414,3211,247,5229
+Infiniti,G Sedan,5,automatic,54,G Sedan,4.8,17017,19735,430,2179,316,6878
+Hyundai,Azera,5,automatic,50,Sedan,4.4,20835,27272,158,2558,397,4210
+Infiniti,G Coupe,5,automatic,63,G Coupe,4.2,24121,30105,305,1337,188,5430
+Hyundai,Sonata,5,automatic,53,Sedan,4.4,9520,13454,382,3428,256,4483
+Infiniti,G Sedan,5,automatic,76,G Sedan,3.9,19307,28372,337,2799,387,4339
+Hyundai,Genesis,5,automatic,73,Sedan,4.0,22507,32616,312,3117,233,5864
+Hyundai,Equus,5,automatic,65,Sedan,4.7,23728,32272,275,3931,265,6963
+Infiniti,G Sedan,5,automatic,60,G Sedan,3.6,22408,31084,250,3986,292,6676
+Hyundai,Sonata,5,automatic,61,Sedan,4.2,10432,13835,413,2473,348,6072
+Hyundai,Elantra,5,automatic,43,Sedan,3.7,7306,10828,441,2722,96,6943
+Hyundai,Elantra,5,automatic,62,Sedan,4.5,10137,11601,348,2352,238,6595
+Infiniti,G Sedan,5,automatic,80,G Sedan,4.5,19332,27221,171,1807,239,6441
+Infiniti,G Sedan,5,automatic,76,G Sedan,3.8,19184,25087,387,1489,188,4222
+Infiniti,G Sedan,5,automatic,77,G Sedan,4.0,19509,28162,392,2993,98,4823
+Hyundai,Elantra,5,automatic,59,Sedan,4.6,3742,5714,163,2701,335,5321
+Infiniti,G Sedan,5,automatic,67,G Sedan,4.4,18907,27861,339,1680,141,6529
+Hyundai,Veloster,5,automatic,74,Hatchback,4.7,14830,18621,244,3220,246,4446
+Infiniti,G Sedan,5,automatic,58,G Sedan,4.9,20681,28187,387,2481,181,4824
+Infiniti,G Sedan,5,automatic,76,G Sedan,4.3,19709,26575,410,2755,193,5905
+Hyundai,Sonata Hybrid,5,automatic,61,Sedan,4.5,13261,18839,394,2166,110,4606
+Infiniti,G Sedan,5,automatic,51,G Sedan,4.9,18238,22794,366,2365,271,5123
+Infiniti,G Sedan,5,automatic,64,G Sedan,4.2,21638,30344,140,1810,108,4947
+Hyundai,Sonata,5,automatic,74,Sedan,3.7,6866,9036,192,2191,374,6681
+Infiniti,G Coupe,5,automatic,67,G Coupe,5.0,20214,29067,466,3870,339,5668
+Infiniti,G Sedan,5,automatic,57,G Sedan,3.6,19842,26575,158,2253,389,5981
+Hyundai,Elantra,5,automatic,78,Sedan,4.2,8643,10771,479,2928,294,4061
+Infiniti,G Coupe,5,automatic,47,G Coupe,4.2,22178,27399,377,1308,121,4526
+Hyundai,Azera,5,automatic,75,Sedan,4.2,19480,26013,423,1242,385,6942
+Hyundai,Sonata Hybrid,5,automatic,66,Sedan,4.2,15784,21703,198,3109,274,6474
+Infiniti,G Sedan,5,automatic,73,G Sedan,4.9,20823,25396,413,2485,400,4209
+Hyundai,Accent,5,automatic,76,Sedan,3.6,6637,8278,174,3724,254,5091
+Infiniti,G Sedan,5,automatic,67,G Sedan,4.7,16869,24723,199,2973,252,6963
+Hyundai,Accent,5,automatic,58,Hatchback,4.2,10576,13589,408,3659,183,6036
+Hyundai,Elantra,5,automatic,55,Sedan,4.9,10142,13368,396,2421,199,6787
+Infiniti,G Sedan,5,automatic,58,G Sedan,3.7,18684,24491,362,2266,393,5303
+Hyundai,Sonata,5,automatic,72,Sedan,4.6,8121,10989,138,3193,383,6000
+Hyundai,Sonata,5,automatic,69,Sedan,3.6,9911,14384,175,2419,212,5252
+Infiniti,G Coupe,5,automatic,51,G Coupe,4.3,22467,33050,227,3279,336,4528
+Infiniti,G Sedan,5,automatic,46,G Sedan,4.0,23807,28167,422,1597,319,5135
+Infiniti,G Sedan,5,automatic,56,G Sedan,4.6,19661,26182,304,1701,120,4469
+Hyundai,Sonata,5,automatic,72,Sedan,3.8,14070,19656,136,1999,185,4750
+Infiniti,G Coupe,5,automatic,52,G Coupe,4.9,21331,32130,341,3297,379,6208
+Hyundai,Genesis,5,automatic,52,Sedan,3.9,18306,23970,287,3952,216,6351
+Hyundai,Santa Fe,7,automatic,79,SUV,3.6,18539,23302,435,1946,261,4811
+Hyundai,Sonata,5,automatic,66,Sedan,3.5,10266,15051,480,3913,251,6005
+Hyundai,Elantra,5,automatic,80,Sedan,4.4,9713,13832,256,1649,129,4605
+Infiniti,G Sedan,5,automatic,41,G Sedan,4.2,20109,27987,333,3469,114,4789
+Hyundai,Genesis,5,automatic,69,Sedan,4.5,18552,24635,163,1235,299,5944
+Hyundai,Elantra,5,automatic,75,Sedan,4.8,9602,14477,304,1805,184,6012
+Hyundai,Elantra,5,automatic,50,Sedan,4.2,10763,14320,446,1818,283,5736
+Infiniti,G Coupe,5,automatic,47,G Coupe,4.9,21969,29041,499,2496,306,5519
+Infiniti,G Sedan,5,automatic,77,G Sedan,3.8,19819,27911,310,3192,299,5641
+Hyundai,Santa Fe,7,automatic,46,SUV,4.2,23245,29730,347,2669,372,5541
+Hyundai,Elantra Coupe,5,automatic,57,Elantra Coupe,4.6,2355,3103,227,3876,138,4494
+Infiniti,G Sedan,5,automatic,65,G Sedan,5.0,22951,27344,346,1890,320,5916
+Hyundai,Elantra,5,automatic,48,Sedan,4.1,9223,13669,356,3435,265,6677
+Hyundai,Equus,5,automatic,74,Sedan,3.8,33655,44111,264,3932,219,5112
+Hyundai,Elantra,5,automatic,80,Sedan,3.8,10840,12510,308,2417,299,5565
+Infiniti,G Sedan,5,automatic,64,G Sedan,4.3,19852,30464,362,2799,387,5174
+Hyundai,Sonata Hybrid,5,Automatic,46,Sedan,4.2,12747,20240,144,1944,215,4272
+Infiniti,G Sedan,5,automatic,74,G Sedan,3.8,21710,28868,455,2863,245,4355
+Hyundai,Accent,5,automatic,43,Hatchback,4.4,10784,14641,436,1491,386,4753
+Infiniti,G Sedan,5,automatic,70,G Sedan,3.6,19562,26637,194,2840,113,4963
+Infiniti,G Sedan,5,automatic,42,G Sedan,3.6,22141,33368,417,2324,353,5196
+Infiniti,G Sedan,5,automatic,64,G Sedan,4.0,20825,29640,241,2690,336,4849
+Infiniti,G Sedan,5,automatic,54,G Sedan,4.8,21915,30343,466,1836,378,5335
+Hyundai,Sonata Hybrid,5,automatic,44,Sedan,3.8,14440,17395,159,1894,348,6360
+Hyundai,Sonata,5,automatic,62,Sedan,4.2,12369,17573,265,3106,378,5906
+Infiniti,G Sedan,5,automatic,48,G Sedan,4.1,21682,28525,121,1941,380,6643
+Infiniti,G Sedan,5,automatic,80,G Sedan,4.6,19521,23919,413,3737,207,6072
+Infiniti,G Sedan,5,automatic,80,G Sedan,4.0,22658,25247,386,3250,153,6956
+Infiniti,G Sedan,5,automatic,75,G Sedan,4.6,19572,27518,149,1721,237,6159
+Hyundai,Elantra,5,automatic,48,Sedan,5.0,6759,8437,482,3148,134,5849
+Hyundai,Elantra,5,automatic,79,Sedan,4.1,11350,17695,375,3249,205,5846
+Infiniti,G Sedan,5,automatic,62,G Sedan,4.9,17858,26849,195,3224,378,4569
+Hyundai,Veloster,5,automatic,61,Hatchback,4.7,9381,14196,267,3078,243,5382
+Hyundai,Elantra,5,automatic,62,Sedan,4.9,7752,10981,163,2358,121,5528
+Hyundai,Sonata,5,automatic,80,Sedan,3.8,12608,15462,288,2699,288,4925
+Hyundai,Sonata,5,automatic,54,Sedan,4.6,8687,13058,442,2766,136,4137
+Hyundai,Santa Fe,7,automatic,73,SUV,4.9,20111,28638,427,2817,363,6567
+Infiniti,G Sedan,5,automatic,42,G Sedan,4.7,17589,24933,491,3067,252,6945
+Hyundai,Genesis Coupe,5,automatic,70,Genesis Coupe,4.3,21418,26256,424,2705,90,4747
+Hyundai,Sonata Hybrid,5,automatic,47,Sedan,4.2,17412,23655,369,2200,299,6806
+Hyundai,Santa Fe,7,automatic,41,SUV,4.3,15460,19590,483,3396,399,5146
+Hyundai,Genesis,5,automatic,43,Sedan,4.3,23861,31529,295,3958,285,5930
+Infiniti,G Sedan,5,automatic,68,G Sedan,4.0,21529,31063,218,3462,193,6304
+Hyundai,Sonata,5,automatic,58,Sedan,4.6,11012,14415,307,3807,323,6516
+Hyundai,Sonata,5,automatic,58,Sedan,4.5,9499,13680,495,2699,358,5423
+Hyundai,Accent,5,manual,54,Hatchback,3.8,8331,11346,125,3119,371,6927
+Infiniti,G Sedan,5,automatic,79,G Sedan,3.6,19992,29670,150,3909,95,4412
+Infiniti,G Sedan,5,automatic,63,G Sedan,4.3,18850,26276,375,3207,115,5865
+Infiniti,G Sedan,5,automatic,47,G Sedan,4.2,21386,26656,157,3312,355,5983
+Infiniti,G Sedan,5,automatic,75,G Sedan,4.1,20387,23938,355,3746,130,4897
+Hyundai,Tucson,7,automatic,51,SUV,4.7,14305,19463,456,1259,196,5231
+Hyundai,Sonata Hybrid,5,automatic,51,Sedan,4.8,16170,24997,312,3269,268,6729
+Infiniti,G Sedan,5,automatic,70,G Sedan,3.7,18974,23239,401,1491,115,6345
+Hyundai,Elantra,5,automatic,45,Sedan,4.4,10366,13740,266,1629,397,5719
+Hyundai,Elantra,5,automatic,67,Sedan,4.8,11312,16027,198,3194,190,5482
+Infiniti,G Sedan,5,automatic,61,G Sedan,3.6,20269,23942,308,2365,260,5565
+Hyundai,Sonata Hybrid,5,automatic,48,Sedan,4.6,16556,23529,413,3808,287,4617
+Infiniti,G Coupe,5,automatic,42,G Coupe,4.7,25163,33329,345,2769,222,6419
+Infiniti,G Sedan,5,automatic,73,G Sedan,4.0,22436,30373,258,1581,318,5111
+Infiniti,G Sedan,5,automatic,59,G Sedan,4.6,23236,27579,336,2366,356,4123
+Infiniti,G Sedan,5,automatic,48,G Sedan,4.9,22379,26844,500,2122,201,6746
+Infiniti,G Sedan,5,automatic,60,G Sedan,3.8,19613,29879,380,2278,260,6012
+Hyundai,Elantra,5,automatic,54,Sedan,4.8,14707,17603,448,2801,208,4576
+Infiniti,G Coupe,5,automatic,45,G Coupe,4.8,20982,29035,498,2772,341,5344
+Infiniti,G Coupe,5,automatic,50,G Coupe,4.3,20749,30051,323,3326,216,5646
+Infiniti,G Sedan,5,automatic,45,G Sedan,4.7,22704,29152,129,3766,240,4589
+Hyundai,Genesis,5,automatic,49,Sedan,4.7,11125,16026,298,3697,103,5002
+Infiniti,G Sedan,5,automatic,68,G Sedan,4.7,20183,30685,453,2172,104,4624
+Hyundai,Sonata,5,automatic,72,Sedan,4.4,11602,14906,382,1484,180,4732
+Infiniti,G Sedan,5,automatic,45,G Sedan,3.5,21205,33033,441,1237,92,6474
+Hyundai,Sonata,5,automatic,50,Sedan,5.0,10076,14911,428,1503,253,5576
+Infiniti,G Sedan,5,automatic,50,G Sedan,4.7,24268,30484,252,3841,333,6181
+Hyundai,Sonata,5,automatic,66,Sedan,4.6,9279,10859,293,3438,363,4003
+Hyundai,Santa Fe,7,automatic,40,SUV,3.9,17916,24439,253,2225,102,4093
+Hyundai,Accent,5,automatic,45,Sedan,3.8,6154,7569,427,1628,139,4679
+Infiniti,G Sedan,5,automatic,43,G Sedan,4.7,22692,26488,254,1443,140,4342
+Hyundai,Sonata,5,automatic,71,Sedan,4.6,11621,14369,430,2567,299,5884
+Infiniti,G Sedan,5,automatic,74,G Sedan,4.6,22237,29087,204,1459,151,5561
+Hyundai,Elantra,5,automatic,40,Sedan,3.9,9162,14179,309,2543,391,5423
+Infiniti,G Coupe,5,automatic,53,G Coupe,3.6,25081,31733,422,2851,354,6712
+Infiniti,G Sedan,5,automatic,73,G Sedan,3.8,19347,25618,227,2688,313,5284
+Infiniti,G Sedan,5,automatic,46,G Sedan,4.1,20801,27243,196,1914,139,5471
+Infiniti,G Coupe,5,automatic,65,G Coupe,4.2,20363,26603,278,3539,233,4775
+Infiniti,G Sedan,5,automatic,57,G Sedan,4.6,20685,27331,313,2982,127,5002
+Hyundai,Elantra,5,automatic,73,Sedan,3.8,4718,5862,276,3539,391,6949
+Infiniti,G Sedan,5,automatic,71,G Sedan,4.3,21648,29289,124,1819,90,5584
+Hyundai,Sonata,5,automatic,53,Sedan,4.5,14418,19556,434,1893,175,4368
+Hyundai,Elantra,5,automatic,41,Sedan,4.2,6753,8466,120,3471,244,5274
+Hyundai,Sonata,5,automatic,40,Sedan,4.3,11343,15610,467,3416,96,5998
+Jeep,Wrangler,7,manual,46,SUV,3.7,31585,39380,303,2179,254,4594
+Kia,Optima,5,automatic,77,Sedan,4.5,15790,18308,297,2038,249,5006
+Nissan,Altima,5,automatic,67,Sedan,3.6,11786,16122,357,2086,239,4821
+Mercedes-Benz,S-Class,5,automatic,66,Sedan,4.9,42509,55168,231,2214,248,4637
+Nissan,Altima,5,automatic,48,Sedan,4.5,10936,14252,456,2750,258,5225
+Lexus,GS 350,5,automatic,67,Sedan,3.8,27819,40748,249,2435,261,6304
+Mitsubishi,Outlander,7,automatic,63,SUV,3.8,12560,17255,127,1607,374,5131
+Kia,Optima,5,automatic,68,Sedan,3.7,13495,19776,438,3282,304,6796
+Mercedes-Benz,C-Class,5,automatic,61,Coupe,4.8,21686,31072,440,1825,191,4163
+Kia,Optima,5,automatic,49,Sedan,4.6,18227,24250,426,2385,391,4014
+Nissan,Altima,5,automatic,65,Sedan,4.9,9758,15579,157,1278,143,5644
+Nissan,Altima,5,automatic,46,Sedan,3.6,10967,16090,124,2714,184,6720
+Infiniti,G Sedan,5,automatic,55,G Sedan,3.6,19690,27966,163,2874,312,4319
+Nissan,Altima,5,automatic,66,Sedan,3.6,11910,14875,130,2742,121,6882
+Jeep,Wrangler,7,automatic,56,SUV,3.9,22126,32289,460,1385,265,4475
+Mazda,Mazda2,5,automatic,47,Hatchback,3.7,8509,11596,289,3656,314,6695
+Nissan,Altima,5,automatic,58,Sedan,4.2,11970,15987,150,2319,294,5317
+Kia,Rio,5,automatic,40,Sedan,4.8,7816,10901,467,3866,371,4675
+Mercedes-Benz,C-Class,5,automatic,54,Sedan,4.1,20141,27556,270,3775,200,5316
+Kia,Optima,5,automatic,76,Sedan,4.1,10632,12989,379,1512,195,5720
+Nissan,Altima,5,automatic,76,Sedan,4.6,9813,12989,409,2827,190,4182
+Mazda,Mazda2,5,automatic,72,Hatchback,4.7,7500,9722,295,3128,268,4290
+Infiniti,M,5,automatic,43,Sedan,4.7,29557,37868,411,1530,334,5188
+Kia,Optima,5,automatic,63,Sedan,3.6,13280,17996,399,1971,173,6481
+Nissan,370Z,5,automatic,68,Convertible,3.5,25413,36983,151,2111,355,5366
+Kia,Soul,5,automatic,77,Wagon,3.8,9390,11836,425,1699,377,5136
+Kia,Sorento,7,automatic,63,SUV,4.8,10773,16047,367,1791,129,6667
+Kia,Rio,5,automatic,78,Sedan,3.5,8848,10911,204,1488,313,6089
+Kia,Soul,5,manual,58,Wagon,3.9,6191,8219,222,1646,127,6495
+Mitsubishi,Outlander Sport,7,automatic,79,SUV,4.3,13245,16518,348,2796,273,6739
+Mercedes-Benz,C-Class,5,automatic,80,Sedan,3.9,17953,24399,226,3468,269,4192
+Mercedes-Benz,SLK-Class,5,automatic,44,Convertible,4.1,30371,44712,268,1456,194,6431
+Lexus,ES 350,5,automatic,45,Sedan,4.6,25948,29749,277,3531,297,6895
+Mercedes-Benz,E-Class,5,automatic,70,Sedan,4.3,27803,36748,323,2510,263,5435
+Mazda,Mazda3,5,automatic,43,Sedan,3.6,8796,12305,299,1930,267,4549
+MINI,Cooper Clubman,5,automatic,60,Hatchback,4.8,11756,15684,453,1560,229,5540
+MINI,Cooper,5,automatic,55,Hatchback,4.5,13953,16002,487,1262,132,4161
+Mercedes-Benz,S-Class,5,Manual,80,Sedan,4.8,44301,69406,297,2234,358,4276
+Mazda,CX-9,7,automatic,55,SUV,4.4,16680,26165,403,3910,383,4763
+Infiniti,G Sedan,5,automatic,51,G Sedan,4.8,18471,23820,365,2136,375,6062
+Nissan,Altima,5,automatic,56,Coupe,4.1,7436,9256,154,2896,383,5280
+Kia,Forte,5,automatic,63,Sedan,4.7,7375,11807,235,1684,325,4300
+Mazda,CX-9,7,automatic,68,SUV,4.4,16896,23255,395,1454,321,5675
+Kia,Sorento,7,automatic,64,SUV,4.2,17230,25517,253,1486,114,6583
+Nissan,Altima,5,automatic,67,Sedan,3.7,11863,17370,264,1302,308,6524
+Nissan,Altima,5,automatic,72,Sedan,3.9,12089,16467,326,2556,361,4024
+Nissan,Altima,5,automatic,67,Sedan,5.0,12574,15575,227,1781,154,4774
+Jeep,Compass,7,automatic,75,SUV,5.0,12967,16891,199,1413,356,6367
+Nissan,370Z,5,automatic,55,Coupe,4.8,18287,23581,449,2624,195,4412
+Nissan,Altima,5,automatic,56,Coupe,3.6,14171,17629,231,3655,252,5773
+Mazda,Mazda3,5,automatic,59,Sedan,4.0,8662,11696,319,2063,364,4402
+Infiniti,JX,7,automatic,55,SUV,4.3,27441,40679,191,1593,232,6314
+Infiniti,G Sedan,5,automatic,75,G Sedan,4.4,23538,29194,207,2753,316,5565
+Lexus,RX 350,7,automatic,50,SUV,3.8,25213,36383,496,2047,194,5504
+Infiniti,G Sedan,5,automatic,71,G Sedan,4.8,19734,25901,221,2951,279,6589
+Kia,Optima,5,automatic,72,Sedan,4.3,18627,24199,177,2062,336,6641
+Nissan,Altima,5,automatic,43,Sedan,4.8,11913,15936,278,2339,170,5492
+Kia,Rio,5,manual,71,Hatchback,3.6,12920,17583,405,1674,301,6747
+Nissan,Altima,5,automatic,67,Sedan,3.7,10886,14564,490,2295,290,4172
+Lexus,RX 450h,7,automatic,59,SUV,3.6,25544,35232,308,1204,184,6991
+Nissan,Altima,5,automatic,52,Sedan,4.2,11763,15433,284,3325,201,6652
+Kia,Soul,5,manual,61,Wagon,4.3,5893,8089,474,1670,209,5139
+Land Rover,LR4,7,automatic,50,SUV,4.4,33634,45625,342,2342,342,4993
+Kia,Optima,5,automatic,60,Sedan,4.6,8636,11761,384,2497,228,5216
+Mazda,Mazda5,5,automatic,53,Minivan,3.7,10973,14538,407,3373,106,6733
+Kia,Rio,5,automatic,49,Hatchback,4.2,5131,7982,375,2645,206,6198
+Nissan,Altima,5,automatic,72,Sedan,3.7,12816,16649,224,2305,311,5827
+Infiniti,G Sedan,5,automatic,64,G Sedan,5.0,19481,26212,241,1559,106,5007
+Mazda,Mazda3,5,automatic,49,Sedan,3.8,9094,12364,361,1895,344,4075
+Infiniti,G Coupe,5,automatic,73,G Coupe,4.0,22181,33704,196,3538,112,5307
+Infiniti,M,5,automatic,72,Sedan,4.0,29720,40160,440,3692,395,4407
+Kia,Forte,5,automatic,48,Sedan,4.4,7208,10860,143,3681,240,4347
+Mazda,CX-9,7,automatic,67,SUV,4.4,16194,22884,279,3692,116,5348
+Nissan,Altima,5,automatic,47,Coupe,3.9,10878,14289,310,1976,288,5063
+Kia,Optima,5,automatic,66,Sedan,4.6,13241,17702,271,2582,374,4527
+MINI,Cooper,5,automatic,69,Hatchback,4.0,12783,15228,469,1782,127,4937
+Mazda,Mazda5,5,automatic,69,Minivan,3.5,11455,15400,291,2454,297,6721
+Lexus,GS 350,5,automatic,76,Sedan,4.4,30232,35493,393,2217,135,6756
+Kia,Rio,5,automatic,64,Sedan,4.7,3519,4297,272,3251,321,5227
+Land Rover,Range Rover Evoque,7,automatic,60,SUV,4.4,29387,39782,253,2375,280,4343
+MINI,Cooper,5,automatic,45,Hatchback,4.1,2131,3115,386,2437,274,4634
+Nissan,Altima,5,automatic,43,Sedan,4.0,11818,15159,164,1339,94,4512
+Infiniti,G Sedan,5,automatic,64,G Sedan,4.8,18028,28502,338,1806,304,4858
+Kia,Rio,5,manual,63,Sedan,3.9,5205,6045,491,2874,228,5842
+Kia,Rio,5,automatic,68,Sedan,3.7,7111,9542,364,3801,400,4022
+Jeep,Compass,7,automatic,67,SUV,3.7,11839,13864,432,3835,161,4956
+Mitsubishi,Outlander,7,automatic,67,SUV,4.6,11767,15677,390,1265,400,4533
+Infiniti,G Sedan,5,manual,40,G Sedan,4.3,23123,30021,306,1633,226,5340
+Mercedes-Benz,C-Class,5,automatic,51,Coupe,3.7,24234,29369,261,3644,103,6468
+Infiniti,G Coupe,5,automatic,76,G Coupe,4.4,19958,27347,286,3389,278,5394
+Lexus,LS 460,5,automatic,41,Sedan,4.1,57979,70375,341,1919,95,6848
+Mercedes-Benz,S-Class,5,automatic,43,Sedan,4.9,43530,57107,461,1855,203,6015
+Kia,Optima,5,automatic,54,Sedan,3.8,14369,16981,191,2859,356,6774
+Mitsubishi,Outlander,7,automatic,63,SUV,4.5,12230,18205,452,3189,272,4731
+Mercedes-Benz,GLK-Class,7,automatic,65,SUV,3.6,22532,26950,142,2225,355,6049
+Nissan,Altima,5,automatic,51,Sedan,4.3,10858,13770,220,3995,288,6847
+Jeep,Wrangler,7,automatic,42,SUV,4.3,22287,29273,495,2200,136,6059
+Kia,Sportage,7,automatic,76,SUV,4.1,14104,17485,129,3828,309,6124
+Nissan,Altima,5,automatic,51,Sedan,3.6,10613,13330,191,2042,201,6047
+Kia,Optima,5,automatic,43,Sedan,4.6,12891,16100,421,2083,345,6159
+Jeep,Grand Cherokee,7,automatic,74,SUV,4.2,21500,28792,490,3146,215,4949
+Mercedes-Benz,C-Class,5,automatic,52,Coupe,3.5,18320,24211,438,1332,201,5675
+Kia,Optima,5,automatic,49,Sedan,3.6,15430,19852,305,2454,147,4267
+Kia,Forte,5,automatic,64,Sedan,4.4,2370,3313,478,3047,289,5263
+Kia,Optima,5,automatic,79,Sedan,3.9,15550,18177,476,1273,152,4186
+Kia,Optima,5,automatic,71,Sedan,4.7,12454,14635,273,1899,164,6842
+Kia,Optima,5,Automatic,51,Sedan,4.3,12444,18152,288,1922,348,4985
+Infiniti,G Sedan,5,automatic,46,G Sedan,3.9,16884,24424,480,2199,384,5384
+Infiniti,G Sedan,5,automatic,80,G Sedan,4.0,20878,27737,331,3753,359,4923
+Mercedes-Benz,E-Class,5,automatic,75,Sedan,4.2,31965,40859,192,3194,242,5286
+Mercedes-Benz,S-Class,5,automatic,57,Sedan,4.0,52854,63921,159,2168,155,6815
+Lincoln,MKX,7,automatic,69,SUV,4.4,20629,29586,124,1784,311,5528
+Land Rover,Range Rover Evoque,7,automatic,45,SUV,4.4,25679,36342,317,1331,265,6880
+Mazda,Mazda5,5,automatic,61,Minivan,3.9,13127,18071,448,1564,173,5139
+lincoln,mkt,5,automatic,60,nan,4.0,14415,19237,209,2311,123,5124
+Infiniti,G Sedan,5,manual,79,G Sedan,3.8,26154,35583,218,1379,276,5700
+Lexus,GS 350,5,automatic,40,Sedan,3.8,29540,39254,399,3128,164,4928
+Jaguar,XF,5,automatic,42,Sedan,3.6,23820,31490,407,1870,202,6064
+Mercedes-Benz,C-Class,5,automatic,45,Sedan,4.7,20750,26522,317,2444,224,6192
+Kia,Soul,5,automatic,73,Wagon,4.2,5671,6871,350,1873,156,5966
+Kia,Optima,5,automatic,75,Sedan,4.7,11482,17336,240,3067,206,5621
+Nissan,Altima,5,automatic,64,Sedan,4.2,11121,16589,487,3553,240,5277
+Nissan,Altima,5,automatic,42,Sedan,4.9,12386,14806,238,3377,133,6618
+Mercedes-Benz,C-Class,5,automatic,75,Coupe,4.9,20266,27335,265,3200,293,5767
+Kia,Optima,5,automatic,72,Sedan,3.7,14034,18777,261,3407,336,4497
+Mercedes-Benz,GL-Class,7,automatic,49,SUV,4.8,38537,58896,249,3707,106,4220
+Mazda,Mazda5,5,automatic,62,Minivan,4.8,10510,16062,450,1482,178,4531
+Kia,Sportage,7,automatic,64,SUV,3.9,14360,18037,337,2895,286,6155
+Mercedes-Benz,GL-Class,7,automatic,73,SUV,4.5,38323,59672,253,1252,214,6421
+Jaguar,XF,5,automatic,62,Sedan,3.5,23543,33258,135,3865,283,4668
+Kia,Rio,5,automatic,52,Hatchback,4.7,10453,14270,303,2546,92,6349
+Mercedes-Benz,M-Class,7,automatic,47,SUV,3.6,39841,54294,358,2342,105,6973
+MINI,Cooper Countryman,5,automatic,54,Wagon,5.0,14887,19704,299,3517,118,6048
+Infiniti,G Sedan,5,automatic,46,G Sedan,3.7,19221,26511,176,2391,280,6857
+Kia,Sorento,7,automatic,71,SUV,4.5,12107,17013,216,3367,254,5177
+Mercedes-Benz,S-Class,5,automatic,45,Sedan,3.6,47186,66305,425,3340,169,4313
+Nissan,Altima,5,automatic,75,Coupe,4.3,12491,16724,312,2446,348,4745
+Kia,Sorento,7,automatic,58,SUV,4.9,11633,14592,205,3138,120,6212
+Nissan,Altima,5,automatic,74,Coupe,4.3,11274,14588,267,1388,278,5869
+Mercedes-Benz,M-Class,7,Automatic,80,SUV,3.6,30804,38523,328,2767,389,6748
+Land Rover,Range Rover Evoque,7,automatic,44,SUV,4.9,34330,50174,171,3949,233,6697
+Kia,Forte,5,automatic,59,Sedan,4.5,7786,9968,412,3896,208,4580
+Kia,Optima,5,automatic,75,Sedan,3.6,11499,15316,408,2959,142,6381
+Mercedes-Benz,S-Class,5,automatic,49,Sedan,3.8,44970,54197,185,3116,397,6775
+Nissan,Altima,5,automatic,44,Sedan,4.7,11059,17287,124,3749,354,4506
+Jeep,Wrangler,7,automatic,75,SUV,3.6,21209,28419,421,1767,285,5353
+Land Rover,Range Rover Evoque,7,automatic,79,SUV,5.0,25746,35277,350,3047,385,4029
+Mazda,CX-9,7,automatic,56,SUV,3.8,17294,22393,447,3610,154,5612
+Mazda,Mazda2,5,automatic,78,Hatchback,3.6,2440,2994,499,1736,275,6961
+Mercedes-Benz,S-Class,5,automatic,41,Sedan,4.9,37638,57361,457,3200,255,4072
+Nissan,Altima,5,automatic,40,Sedan,4.0,12133,14791,293,2785,285,6310
+Infiniti,G Sedan,5,automatic,59,G Sedan,5.0,16250,22155,137,3076,154,6786
+Infiniti,G Sedan,5,automatic,78,G Sedan,4.0,18776,25737,347,1225,145,6788
+Infiniti,M,5,automatic,51,Sedan,3.5,28611,39485,152,3231,320,6835
+Mercedes-Benz,C-Class,5,automatic,74,Coupe,3.5,21232,26717,154,2307,182,6354
+Mazda,Mazda3,5,automatic,78,Sedan,3.6,10305,14863,258,1426,103,4721
+Infiniti,G Sedan,5,automatic,71,G Sedan,4.5,14308,19195,370,2413,361,6857
+Kia,Optima,5,automatic,55,Sedan,3.9,17997,24614,458,3813,219,6284
+Mercedes-Benz,C-Class,5,automatic,77,Coupe,4.4,20437,27181,307,2718,228,6722
+Lexus,RX 350,7,automatic,72,SUV,4.3,30530,44953,155,1504,231,5856
+Nissan,Altima,5,automatic,79,Sedan,4.0,10095,13050,173,1336,370,4236
+Mercedes-Benz,C-Class,5,automatic,62,Sedan,3.7,17539,27352,335,2297,127,6865
+Mazda,Mazda5,5,automatic,67,Minivan,4.2,10705,15465,339,2299,288,6873
+Mitsubishi,Lancer,5,automatic,69,Sedan,3.7,17180,22409,293,2996,338,5162
+Infiniti,G Coupe,5,manual,68,G Coupe,4.0,24138,33612,198,1896,256,5426
+MINI,Cooper Clubman,5,automatic,77,Hatchback,4.7,12025,14956,193,2764,93,6086
+Mercedes-Benz,S-Class,5,automatic,76,Sedan,4.2,54303,73372,291,3239,173,6280
+Mazda,Mazda5,5,automatic,71,Minivan,4.2,13061,17564,143,1487,389,6652
+Mercedes-Benz,C-Class,5,automatic,71,Sedan,4.1,18490,26356,158,2540,191,6975
+Kia,Optima,5,automatic,68,Sedan,4.2,19388,28398,219,3308,276,6898
+Nissan,Altima,5,automatic,41,Sedan,3.7,12253,14354,225,2435,133,6426
+Infiniti,M,5,automatic,69,Sedan,4.6,26420,33207,250,1684,288,4139
+Nissan,Altima,5,automatic,57,Sedan,4.7,11889,15128,297,1320,358,6224
+Mercedes-Benz,C-Class,5,automatic,47,Coupe,3.8,29643,39567,283,2659,119,5159
+Kia,Forte,5,automatic,42,Sedan,4.1,8931,12413,420,3531,162,5912
+Kia,Rio,5,automatic,66,Sedan,3.8,8491,10386,392,1833,253,5893
+Infiniti,G Sedan,5,automatic,70,G Sedan,4.5,17364,21545,218,3396,125,5568
+Kia,Optima,5,automatic,54,Sedan,4.4,14273,19148,341,2966,364,5919
+Land Rover,Range Rover Sport,7,automatic,71,SUV,4.2,48644,66882,377,2981,342,5099
+Lexus,ES 350,5,automatic,60,Sedan,4.7,27004,31583,152,3202,363,4645
+Mercedes-Benz,E-Class,5,automatic,71,Sedan,4.5,28591,33132,299,2429,180,6695
+Mercedes-Benz,E-Class,5,automatic,64,Coupe,3.6,27216,40028,281,3777,390,6531
+Lexus,GS 350,5,automatic,46,Sedan,3.8,26781,34172,354,2294,179,6182
+Infiniti,M,5,automatic,60,Sedan,3.6,26942,40667,417,1955,129,5847
+Kia,Optima,5,automatic,58,Sedan,3.7,18688,21071,475,3062,363,4174
+Mitsubishi,Outlander,7,automatic,54,SUV,4.1,12144,17524,357,1499,92,4956
+Mitsubishi,Lancer,5,automatic,59,Sedan,3.7,9381,10820,322,3571,180,6447
+Infiniti,G Sedan,5,automatic,55,G Sedan,4.9,16820,23049,260,2881,130,5882
+Mercedes-Benz,E-Class,5,automatic,42,Sedan,4.6,30113,41072,227,1628,200,5434
+Infiniti,G Sedan,5,automatic,56,G Sedan,4.2,18036,23548,203,2269,285,6906
+Lexus,GS 350,5,automatic,48,Sedan,4.9,32616,39400,140,3550,120,4444
+Mercedes-Benz,C-Class,5,automatic,67,Sedan,4.9,37414,46785,357,2460,299,6038
+MINI,Cooper,5,automatic,54,Hatchback,3.9,10160,13720,309,2024,163,6228
+Volkswagen,Passat,5,automatic,50,Sedan,4.1,7564,8953,329,2557,231,4211
+Nissan,Altima,5,automatic,70,Sedan,3.5,12014,17947,450,2678,390,4836
+Toyota,Corolla,5,automatic,45,Sedan,4.7,7709,11436,377,3010,386,5593
+Volvo,XC60,7,automatic,42,SUV,5.0,20162,29686,191,1817,280,4235
+Toyota,Sienna,5,automatic,45,Minivan,3.9,16391,22256,150,1977,345,4517
+Nissan,Juke,5,automatic,50,Hatchback,4.8,12782,16114,425,3692,240,4909
+Toyota,Yaris,5,automatic,72,Hatchback,4.9,6863,8955,481,2111,226,6138
+Nissan,Sentra,5,Manual,76,Sedan,3.8,8200,10423,227,3801,196,4751
+Nissan,Rogue,7,automatic,73,SUV,4.3,2500,3161,277,2844,249,6563
+Nissan,NV,5,automatic,63,Van,4.5,12766,17536,198,1721,105,6218
+Toyota,Corolla,5,automatic,50,Sedan,4.5,12766,17646,127,2760,155,4017
+Toyota,Corolla,5,automatic,52,Sedan,4.6,4146,5754,170,1309,393,5449
+Volkswagen,CC,5,automatic,50,Sedan,4.5,14305,20567,178,2603,289,6505
+Nissan,Leaf,5,automatic,42,Hatchback,5.0,14001,16220,156,3443,378,6433
+Volvo,XC60,7,automatic,68,SUV,4.4,18658,26219,176,2408,309,5921
+Toyota,Camry,5,automatic,52,Sedan,4.8,11034,17088,204,1788,246,6611
+Toyota,Camry,5,automatic,65,Sedan,4.9,18147,26171,168,3334,323,5849
+Toyota,Tacoma,5,automatic,64,Double Cab,4.1,18116,26500,200,2664,394,4776
+Toyota,Corolla,5,automatic,54,Sedan,4.4,9763,13779,449,1357,158,6259
+Volkswagen,Jetta,5,automatic,75,Sedan,3.9,10748,13332,374,3644,347,5073
+Subaru,Impreza WRX,5,manual,45,Sedan,3.9,20835,27803,312,2710,90,5193
+Nissan,Altima,5,automatic,50,Sedan,3.5,16820,21965,235,2381,275,5911
+Toyota,FJ Cruiser,7,automatic,55,SUV,4.1,21539,26113,249,2332,205,4586
+Nissan,Versa,5,Manual,52,Sedan,4.3,3786,5040,301,1471,333,6137
+Subaru,Impreza WRX,5,manual,51,Sedan,3.9,17432,23881,397,1349,219,4748
+Toyota,Corolla,5,automatic,55,Sedan,3.9,8885,11149,356,3731,123,4450
+Volkswagen,Beetle,5,automatic,60,Hatchback,4.8,10048,13526,428,1518,265,5769
+Nissan,Rogue,7,Automatic,54,SUV,3.6,11085,16302,484,2877,118,4579
+Toyota,Avalon,5,automatic,69,Sedan,4.2,17011,24281,350,3713,324,6549
+Scion,FR-S,5,automatic,60,Coupe,4.2,8831,13042,474,2445,374,5228
+Nissan,NV200,5,automatic,48,Minivan,3.9,13209,18538,393,3344,182,4677
+Nissan,Altima,5,automatic,66,Sedan,4.5,11793,18801,482,1369,262,4503
+Toyota,RAV4,7,automatic,66,SUV,4.7,5946,7583,296,3066,355,4181
+Volkswagen,Passat,5,automatic,54,Sedan,4.4,3998,5601,240,1628,310,5155
+Nissan,Rogue,7,automatic,41,SUV,4.3,8896,14286,354,3533,105,5414
+Nissan,Quest,5,Automatic,69,Minivan,3.6,23722,32396,198,2898,322,5940
+Volkswagen,Beetle,5,automatic,56,Hatchback,4.6,9901,13468,380,2302,205,6205
+Volkswagen,Jetta,5,automatic,80,Sedan,3.6,13730,19749,418,1368,100,6360
+Toyota,Tundra,5,automatic,46,CrewMax Cab,4.3,16364,23431,266,1507,168,6735
+Nissan,Altima,5,automatic,78,Sedan,3.5,13830,18697,204,2564,340,4077
+Toyota,FJ Cruiser,7,automatic,57,SUV,4.3,25518,32509,218,2631,212,5898
+Nissan,Rogue,7,Automatic,50,SUV,3.6,12742,19059,198,3687,382,4763
+Scion,tC,5,manual,53,Hatchback,3.7,12302,18652,284,2804,153,5809
+Nissan,Altima,5,automatic,54,Sedan,4.8,15379,19594,155,3221,164,5318
+Nissan,Maxima,5,automatic,53,Sedan,4.1,19927,28944,282,2081,202,6211
+Porsche,Cayenne,7,automatic,74,SUV,4.5,40697,54189,240,3163,391,4763
+Nissan,Sentra,5,Manual,46,Sedan,4.3,9687,13771,123,3683,366,4724
+Porsche,911,5,automatic,75,Convertible,4.7,80726,112004,169,3071,189,4977
+Volkswagen,Passat,5,automatic,73,Sedan,4.8,12115,16783,266,3046,323,5556
+Volkswagen,Jetta,5,automatic,52,Sedan,3.9,10086,14513,495,3547,370,6558
+Nissan,Altima,5,automatic,68,Sedan,3.7,10623,14474,337,1268,291,5994
+Nissan,Xterra,7,automatic,49,SUV,3.5,17187,22184,296,3010,328,6243
+Nissan,Versa,5,automatic,72,Sedan,3.9,7716,10462,278,3810,186,6228
+Nissan,Rogue,7,automatic,79,SUV,3.8,12448,14541,280,3846,363,5873
+Nissan,Sentra,5,automatic,43,Sedan,3.5,11252,14394,246,2855,179,5377
+Toyota,Tundra,5,automatic,51,CrewMax Cab,5.0,19021,21456,167,3670,123,6117
+Volkswagen,Passat,5,automatic,68,Sedan,3.6,12819,15237,178,4000,196,5233
+Nissan,Sentra,5,Automatic,61,Sedan,5.0,10282,14052,265,3476,247,5180
+Nissan,Xterra,7,automatic,70,SUV,4.3,16974,23291,159,1620,179,5440
+Toyota,Prius,5,automatic,44,Hatchback,4.9,12314,17909,349,3872,361,6673
+Nissan,Versa,5,automatic,80,Sedan,4.8,8685,11143,286,1217,261,5509
+Volvo,S80,5,automatic,63,Sedan,4.3,21419,27562,414,1758,269,4261
+Nissan,Frontier,5,automatic,70,Crew Cab,4.6,20238,26697,267,1926,152,6890
+Nissan,Sentra,5,automatic,77,Sedan,4.3,12982,18426,455,3282,241,4325
+Nissan,Altima,5,automatic,52,Sedan,3.6,14630,21284,123,2311,112,6061
+Porsche,Boxster,5,automatic,49,Convertible,4.8,44293,54810,376,2253,131,5784
+Nissan,Sentra,5,automatic,80,Sedan,3.7,10574,13459,243,2231,233,5569
+Volkswagen,Jetta,5,automatic,60,Sedan,4.4,9501,13388,339,2230,222,6279
+Toyota,Camry Hybrid,5,automatic,42,Sedan,4.1,17670,26962,183,3350,276,5939
+Nissan,Sentra,5,automatic,67,Sedan,4.2,10520,13129,231,2792,374,5611
+Nissan,Frontier,5,Automatic,80,Crew Cab,3.7,17190,24038,405,3609,295,5062
+Toyota,Corolla,5,automatic,41,Sedan,5.0,8536,11406,165,3624,332,5033
+Scion,xB,5,automatic,68,Wagon,4.9,12482,16768,445,2485,348,6181
+Toyota,FJ Cruiser,7,automatic,65,SUV,4.4,22932,30676,484,1276,138,6863
+Nissan,Versa,5,Manual,44,Sedan,4.2,9843,13424,121,3160,112,6754
+Nissan,Versa,5,Manual,53,Sedan,4.7,7203,10207,218,2772,205,5043
+Nissan,Cube,5,automatic,58,Wagon,4.1,11108,14326,383,2405,340,6611
+Toyota,Tacoma,5,automatic,57,Access Cab,3.8,14910,20714,388,3793,260,6031
+Scion,FR-S,5,automatic,75,Coupe,4.2,16567,22836,383,3366,375,6163
+Volkswagen,Jetta SportWagen,5,automatic,47,Wagon,3.6,10177,13718,134,3397,233,6912
+Toyota,Corolla,5,automatic,57,Sedan,4.5,11044,14927,346,1766,332,4967
+Nissan,Sentra,5,automatic,55,Sedan,4.5,11418,13600,134,2598,294,4468
+Nissan,Rogue,7,automatic,46,SUV,3.6,13286,19192,162,1846,387,5056
+Volkswagen,Beetle,5,automatic,78,Hatchback,4.5,10040,13924,143,1363,286,4105
+Toyota,4Runner,7,automatic,63,SUV,4.0,24520,29406,201,2298,280,5804
+Toyota,Sequoia,7,automatic,79,SUV,4.1,29134,38359,198,2167,330,5158
+Nissan,Versa,5,automatic,51,Sedan,3.6,8367,10614,164,3195,324,6689
+Nissan,Maxima,5,automatic,65,Sedan,4.3,1767,2275,475,2239,315,6039
+Volvo,S60,5,automatic,62,Sedan,4.3,16169,23184,471,3922,241,6271
+Toyota,Prius,5,automatic,54,Hatchback,4.5,13486,19453,151,1530,321,4629
+Subaru,Legacy,5,automatic,56,Sedan,4.3,8521,11750,130,3847,322,5105
+Nissan,Leaf,5,automatic,67,Hatchback,3.7,13848,17810,178,2058,301,6934
+Nissan,Versa,5,Manual,73,Sedan,4.0,7171,9262,325,1312,155,5336
+Nissan,Quest,5,automatic,51,Minivan,4.6,18912,28797,289,3510,329,4867
+Volkswagen,Passat,5,automatic,71,Sedan,3.9,10399,13529,212,1563,304,4984
+Nissan,Armada,7,automatic,76,SUV,4.1,17315,24607,397,3617,289,5773
+Nissan,Rogue,7,Automatic,70,SUV,4.0,14718,23183,227,3890,142,4797
+Toyota,Venza,5,automatic,76,Wagon,4.0,15277,19148,140,3162,245,5234
+Volkswagen,Jetta,5,automatic,42,Sedan,4.9,10801,12812,425,3902,137,6339
+Nissan,Rogue,7,Manual,42,SUV,4.9,14121,18583,295,2022,318,6824
+Nissan,Sentra,5,automatic,41,Sedan,4.7,11480,14221,273,3352,297,4163
+Nissan,Altima,5,Manual,59,Sedan,4.9,13773,15501,164,3198,350,4239
+Volkswagen,Jetta,5,Manual,58,Sedan,3.7,6044,7697,479,3261,100,4398
+Nissan,Cube,5,automatic,40,Wagon,3.5,10648,15189,335,1809,359,6466
+Toyota,Tacoma,5,automatic,44,Double Cab,3.9,20717,27328,122,2441,135,5856
+Nissan,Murano,7,Manual,78,SUV,3.9,19959,26227,186,3852,153,4920
+Porsche,Cayenne,7,automatic,47,SUV,4.9,46472,64657,443,3935,175,5356
+Volkswagen,Beetle,5,automatic,70,Hatchback,4.2,10760,14974,444,2702,321,4366
+Nissan,Sentra,5,automatic,41,Sedan,4.9,8850,13905,193,2318,209,4684
+Nissan,Pathfinder,7,automatic,68,SUV,4.0,17099,23717,484,2434,335,4562
+Nissan,Sentra,5,automatic,45,Sedan,4.4,9052,11977,288,2564,301,6195
+Toyota,Corolla,5,automatic,74,Sedan,4.6,9488,14374,282,1575,351,6417
+Nissan,Rogue,7,automatic,46,SUV,4.7,14723,19015,274,3969,111,5973
+Nissan,Sentra,5,automatic,48,Sedan,4.9,9640,12709,261,3289,369,5630
+Nissan,Sentra,5,Manual,48,Sedan,4.1,10007,13629,448,2434,177,4504
+Toyota,Yaris,5,automatic,58,Hatchback,4.2,8689,11716,352,1655,390,6381
+Nissan,Rogue,7,automatic,73,SUV,4.2,16663,19368,213,2374,255,6470
+Nissan,Sentra,5,automatic,65,Sedan,4.2,10793,14411,265,2091,200,5266
+Porsche,Panamera,5,automatic,47,Sedan,4.6,54750,66330,282,2227,302,5881
+Volkswagen,Beetle,5,automatic,79,Hatchback,3.5,21902,31267,448,1886,384,4370
+Nissan,Altima,5,automatic,73,Sedan,4.3,13016,17044,152,3722,326,4843
+Volkswagen,Passat,5,automatic,68,Sedan,4.7,11936,15383,199,2339,129,5914
+Nissan,Altima,5,Manual,68,Sedan,4.9,11622,14820,246,2182,182,5805
+Toyota,Corolla,5,automatic,79,Sedan,4.8,10121,13389,158,2417,127,4094
+Nissan,Frontier,5,automatic,71,King Cab,3.9,7419,9567,156,3225,395,6856
+Subaru,Forester,7,automatic,74,SUV,4.0,11475,17383,260,3369,283,6739
+Volkswagen,Beetle,5,automatic,44,Hatchback,4.3,9617,14987,482,3575,269,6985
+Nissan,Sentra,5,automatic,52,Sedan,4.3,8796,13499,264,2485,304,4038
+Toyota,Venza,5,automatic,68,Wagon,4.4,14576,18547,392,3820,185,5077
+Nissan,Sentra,5,Manual,48,Sedan,4.7,8585,11368,467,1703,173,5767
+Volkswagen,CC,5,automatic,47,Sedan,4.3,11908,16545,135,1889,283,5268
+Toyota,Prius,5,automatic,47,Hatchback,3.8,12468,16392,320,1273,141,6570
+Toyota,Venza,5,automatic,79,Wagon,3.8,15168,22671,226,1231,184,5755
+Toyota,Highlander,7,automatic,62,SUV,3.6,24941,34467,184,2381,391,6378
+Nissan,Altima,5,automatic,77,Sedan,4.7,15211,22793,309,3364,394,6501
+Nissan,Versa,5,automatic,51,Sedan,4.0,9800,13403,373,2947,102,6386
+Toyota,Avalon,5,automatic,57,Sedan,3.8,14698,18570,357,1685,232,4977
+Nissan,Altima,5,automatic,76,Sedan,3.9,14615,18352,436,3922,110,6581
+Volkswagen,Passat,5,automatic,44,Sedan,4.8,9735,13550,478,3731,138,4461
+Volkswagen,Jetta,5,automatic,47,Sedan,4.1,10650,15173,399,2633,214,4405
+Subaru,Impreza,5,automatic,44,Hatchback,4.9,17414,19604,220,3717,227,6196
+Nissan,Versa,5,Manual,68,Sedan,4.8,5046,6542,241,2013,146,5865
+Nissan,Altima,5,automatic,49,Sedan,4.5,13793,20384,427,3386,212,5834
+Volkswagen,Passat,5,automatic,69,Sedan,4.5,11049,16453,209,3251,313,6579
+Volkswagen,Passat,5,automatic,55,Sedan,4.7,10396,13728,126,2336,325,5835
+Toyota,Tacoma,5,automatic,78,Double Cab,4.8,24636,33725,426,1399,179,5186
+Nissan,Xterra,7,automatic,49,SUV,3.6,15616,20308,478,2716,258,5609
+Subaru,Impreza WRX,5,manual,46,Sedan,4.8,23525,35666,453,3473,348,5411
+Nissan,Cube,5,automatic,54,Wagon,4.8,11240,14437,308,2582,284,5052
+Toyota,Sienna,5,automatic,79,Minivan,4.3,14255,17454,202,1614,383,5479
+Nissan,Maxima,5,automatic,53,Sedan,4.8,913,1139,239,1967,369,4186
+Toyota,Camry,5,automatic,79,Sedan,4.4,12452,17667,293,2358,91,6955
+Toyota,Camry,5,automatic,75,Sedan,4.3,13654,17756,150,1891,393,6035
+Nissan,Versa,5,manual,58,Sedan,4.3,7732,10510,359,1591,271,5865
+Nissan,Versa,5,automatic,49,Sedan,4.0,3578,5136,139,1937,227,6018
+Porsche,Panamera,5,automatic,61,Sedan,3.6,53782,74728,346,2316,379,6139
+Nissan,Sentra,5,automatic,42,Sedan,3.9,9064,11542,146,2455,366,4821
+Toyota,Camry,5,automatic,55,Sedan,3.6,14887,19194,366,2018,122,5498
+Scion,FR-S,5,manual,51,Coupe,4.2,16059,20482,462,1915,362,6977
+Nissan,Sentra,5,automatic,55,Sedan,4.3,10763,12060,174,3154,114,5370
+Nissan,Altima,5,automatic,41,Sedan,3.6,14349,18860,328,3912,327,6974
+Volkswagen,Passat,5,automatic,56,Sedan,4.2,16520,22559,177,1322,356,4656
+Nissan,Sentra,5,automatic,73,Sedan,3.5,8513,11547,373,2295,207,5408
+Nissan,Murano,7,automatic,69,SUV,4.3,13366,21422,123,3496,389,5438
+Nissan,Sentra,5,automatic,46,Sedan,4.7,9078,11537,380,3327,242,6552
+Nissan,Murano,7,automatic,55,SUV,3.9,17609,26188,385,2560,376,4716
+Porsche,Boxster,5,automatic,77,Convertible,4.5,34801,49521,235,2332,185,5860
+Toyota,Corolla,5,automatic,47,Sedan,3.6,3439,5070,202,1228,317,6438
+Toyota,Camry Hybrid,5,automatic,44,Sedan,4.8,15234,18885,134,2789,333,6722
+Toyota,Yaris,5,automatic,47,Hatchback,5.0,6528,8082,179,1228,120,5969
+Nissan,Versa,5,Automatic,44,Sedan,4.8,7526,10680,484,2377,104,6566
+Toyota,Corolla,5,automatic,55,Sedan,4.8,10085,13400,306,1541,214,5152
+Toyota,Corolla,5,automatic,70,Sedan,4.2,9394,12415,486,1210,185,6206
+Nissan,Sentra,5,automatic,65,Sedan,3.6,9810,12262,362,2029,293,5223
+Toyota,Tacoma,5,automatic,72,Double Cab,4.3,24770,28267,394,2336,116,4060
+Toyota,FJ Cruiser,7,automatic,42,SUV,3.9,24413,28681,495,1948,371,5327
+Nissan,Versa,5,automatic,44,Sedan,3.9,8972,11228,430,3284,253,4010
+Nissan,Sentra,5,automatic,50,Sedan,4.3,10167,12380,268,1424,132,6923
+Toyota,Prius,5,automatic,73,Hatchback,5.0,13221,18451,164,1378,119,6819
+Nissan,Versa,5,Automatic,46,Sedan,3.6,7926,10518,176,3946,155,5399
+Toyota,Tacoma,5,automatic,57,Double Cab,4.5,19732,22622,343,1857,327,6680
+Toyota,Sienna,5,automatic,49,Minivan,4.8,17712,24347,133,2302,317,4542
+Volkswagen,Beetle,5,automatic,64,Hatchback,4.4,11234,14065,137,2859,209,4911
+Toyota,Corolla,5,automatic,57,Sedan,4.8,7279,8702,465,2736,119,4960
+Nissan,Sentra,5,automatic,79,Sedan,3.9,9638,13287,330,2878,264,4409
+Nissan,Rogue,7,automatic,44,SUV,4.6,12235,19367,429,3441,220,6805
+Volvo,S60,5,automatic,70,Sedan,4.1,17834,24252,134,1466,217,5855
+Nissan,Versa,5,automatic,70,Sedan,3.9,7652,10574,293,2506,295,5896
+Nissan,Murano,7,automatic,63,SUV,4.5,15208,20803,131,1620,241,6168
+Nissan,Pathfinder,7,automatic,66,SUV,4.2,18174,28769,357,1702,162,4551
+Volkswagen,Passat,5,automatic,62,Sedan,4.0,10034,13431,406,2421,340,6058
+Nissan,Murano,7,automatic,61,SUV,4.3,20462,26968,498,2554,212,4335
+Nissan,Quest,5,Manual,63,Minivan,4.2,17409,23573,232,3355,357,5447
+Toyota,Camry,5,automatic,52,Sedan,4.4,9092,13366,183,2168,183,6935
+Nissan,Maxima,5,automatic,44,Sedan,4.4,16897,25789,127,2386,342,5020
+nan,nan,5,automatic,73,nan,3.7,38101,58422,414,2974,310,5262
+bmw,750i,5,automatic,50,nan,4.6,31790,37264,327,2854,256,6401
+BMW,6 Series,5,automatic,66,Convertible,4.6,41405,56335,499,1485,328,4296
+Acura,TSX,5,automatic,48,Sedan,4.2,15074,20559,325,1747,353,4085
+BMW,6 Series,5,Manual,80,Convertible,4.3,40317,58910,416,2082,163,5152
+nan,nan,5,automatic,71,nan,3.6,43395,53410,468,2987,112,6511
+Audi,A6,5,automatic,50,Sedan,4.3,23819,34811,401,3331,187,5876
+BMW,6 Series,5,automatic,65,Coupe,4.6,36797,50423,306,3369,226,5086
+BMW,5 Series,5,automatic,42,Sedan,4.1,27311,36927,224,2308,197,5620
+BMW,6 Series,5,automatic,71,Convertible,4.6,43517,54862,332,3070,346,4177
+BMW,5 Series,5,automatic,79,Sedan,4.8,24503,31558,163,3842,171,5714
+BMW,6 Series,5,automatic,69,Coupe,4.6,35669,57056,207,3127,292,5085
+BMW,7 Series,5,automatic,47,Sedan,3.8,21766,31598,491,3865,232,4937
+BMW,7 Series,5,automatic,69,Sedan,3.5,31106,44562,375,1499,243,5232
+BMW,3 Series,5,automatic,70,Convertible,4.7,33019,44725,199,1522,312,6144
+BMW,3 Series,5,automatic,61,Convertible,5.0,22536,32550,273,3013,329,6242
+BMW,6 Series,5,automatic,61,Convertible,3.6,42254,61728,278,1854,266,5086
+BMW,1 Series,5,automatic,64,Coupe,4.2,22103,30252,252,2164,361,4922
+BMW,6 Series,5,automatic,75,Coupe,4.6,37426,50545,131,1473,298,4248
+Acura,TL,5,automatic,42,Sedan,3.6,18994,23499,438,3910,185,4005
+BMW,5 Series,5,automatic,74,Sedan,4.0,44447,55536,160,3683,246,5200
+BMW,7 Series,5,automatic,52,Sedan,4.4,30007,38075,366,2754,205,6185
+BMW,6 Series,5,automatic,50,Convertible,4.0,40002,60787,491,2900,119,6475
+BMW,3 Series,5,automatic,50,Convertible,4.1,24087,29370,334,3414,391,5115
+nan,nan,5,automatic,69,nan,3.7,35891,49657,471,1231,119,5885
+Acura,TL,5,automatic,62,Sedan,4.9,17804,22951,301,1302,199,4711
+BMW,5 Series,5,automatic,77,Sedan,3.7,27499,34769,395,3048,264,6454
+BMW,7 Series,5,automatic,42,Sedan,4.0,34219,44259,220,1456,285,6369
+bmw,750li,5,automatic,46,nan,4.1,41742,57313,303,2393,115,5915
+BMW,5 Series,5,automatic,72,Sedan,3.8,21763,31900,337,2225,283,5167
+Audi,S4,5,automatic,40,Sedan,3.6,28973,37629,299,1478,366,5744
+Audi,A7,5,automatic,41,Sedan,4.4,33868,45011,343,1906,160,4127
+BMW,3 Series,5,automatic,73,Coupe,3.6,27493,41110,402,2149,382,6885
+BMW,5 Series,5,automatic,67,Sedan,4.2,29806,37699,452,2499,294,5814
+BMW,5 Series,5,automatic,75,Sedan,5.0,32258,43263,345,2088,252,4020
+BMW,5 Series,5,automatic,61,Sedan,3.7,24131,31993,226,1658,242,4016
+BMW,6 Series,5,automatic,64,Convertible,4.6,38565,44957,396,3671,172,4052
+BMW,3 Series,5,automatic,77,Sedan,4.1,21448,31009,283,3897,200,4570
+BMW,5 Series,5,automatic,43,Sedan,4.5,28035,35164,345,1672,130,4054
+Audi,A5,5,automatic,64,Coupe,4.5,23678,30093,361,2882,174,6638
+BMW,5 Series,5,automatic,61,Sedan,4.2,27020,35154,210,3474,206,5395
+BMW,5 Series,5,automatic,77,Sedan,4.5,21689,29026,298,1977,108,6576
+Acura,TL,5,automatic,60,Sedan,4.4,18689,22395,124,3288,303,5439
+BMW,5 Series,5,automatic,67,Sedan,4.6,32335,39121,164,1251,331,6111
+BMW,3 Series,5,automatic,54,Coupe,3.9,31448,41021,362,3675,215,5515
+BMW,5 Series,5,automatic,73,Sedan,3.7,26963,35322,185,1652,290,6943
+BMW,1 Series,5,automatic,60,Convertible,4.8,19751,24196,357,3340,244,4948
+Acura,TSX,5,automatic,78,Sedan,3.6,16793,20344,307,2027,304,6842
+BMW,3 Series,5,automatic,74,Convertible,3.9,26647,33569,360,2734,320,4841
+BMW,3 Series,5,automatic,78,Convertible,4.6,25714,28939,453,3291,146,5713
+Acura,TSX,5,automatic,71,Sedan,3.5,16168,19807,317,3756,114,6716
+bmw,750i,5,automatic,77,nan,3.7,27696,36007,231,2263,289,5270
+bmw,750li,5,automatic,65,nan,4.1,43487,51762,281,1384,273,6727
+BMW,3 Series,5,automatic,48,Convertible,4.7,22645,34754,376,3185,345,5292
+BMW,3 Series,5,automatic,69,Convertible,4.4,25446,30391,269,2766,308,6223
+BMW,3 Series,5,automatic,50,Convertible,3.8,25376,39116,194,3692,203,6145
+nan,nan,5,automatic,52,nan,4.9,50916,63820,148,3889,281,4568
+bmw,750i,5,automatic,69,nan,4.6,29055,39602,319,3524,123,6212
+BMW,6 Series,5,automatic,66,Convertible,3.8,46300,59396,485,3874,130,5864
+BMW,7 Series,5,automatic,59,Sedan,4.4,35016,49575,398,1715,108,4278
+Acura,TL,5,automatic,76,Sedan,4.9,16503,25399,262,2238,322,5842
+nan,nan,5,automatic,61,nan,4.0,40062,49265,242,1375,395,5150
+BMW,6 Series,5,automatic,79,Convertible,3.7,32949,49505,395,1682,252,5240
+Acura,TSX,5,automatic,48,Sedan,4.9,16589,21912,433,1352,260,4858
+BMW,1 Series,5,manual,76,Coupe,3.7,16057,20377,246,1297,380,4589
+BMW,7 Series,5,automatic,79,Sedan,5.0,34176,45411,317,1658,167,6810
+Acura,RDX,7,Automatic,43,SUV,3.8,19253,28104,324,1982,241,6680
+BMW,M3,5,automatic,63,Convertible,4.3,36053,44869,436,2854,280,4813
+BMW,3 Series,5,automatic,79,Sedan,3.9,24222,33398,265,2150,298,5609
+BMW,5 Series,5,automatic,80,Sedan,4.2,35542,52958,262,1711,207,6291
+BMW,6 Series,5,automatic,73,Convertible,5.0,44800,54494,384,1632,120,5287
+BMW,3 Series,5,automatic,51,Coupe,3.8,18254,25369,286,3200,125,4551
+bmw,750li,5,automatic,77,nan,3.7,45385,53927,188,2416,270,5743
+BMW,6 Series,5,automatic,52,Convertible,4.8,39429,57157,147,2132,314,6612
+BMW,6 Series,5,automatic,69,Convertible,4.1,39578,55448,334,2337,178,6745
+BMW,6 Series,5,automatic,61,Convertible,4.6,37092,54789,276,2543,356,4940
+BMW,6 Series,5,automatic,60,Convertible,4.5,45826,65078,245,1210,237,6098
+bmw,750i,5,automatic,66,nan,4.6,28583,39429,430,3537,245,6502
+BMW,1 Series,5,automatic,79,Convertible,4.7,32787,42491,147,3643,149,6098
+MINI,Cooper Coupe,5,manual,71,Hatchback,4.3,12458,17412,243,3949,282,5766
+Audi,A5,5,automatic,41,Coupe,4.3,25163,28562,270,1808,324,5181
+BMW,5 Series,5,automatic,47,Sedan,4.8,25180,35956,327,1631,311,4826
+BMW,3 Series,5,Manual,77,Sedan,4.8,12421,18336,197,3708,278,6779
+BMW,5 Series,5,automatic,78,Sedan,4.3,25546,31256,180,2714,134,4475
+BMW,M3,5,automatic,58,Convertible,4.2,36888,48106,332,3931,314,5492
+BMW,7 Series,5,automatic,63,Sedan,3.7,30832,34814,499,1367,179,6780
+BMW,3 Series,5,manual,73,Coupe,3.8,30857,41345,450,1796,121,5845
+BMW,3 Series,5,automatic,62,Convertible,4.3,24753,31521,199,1913,357,4441
+BMW,5 Series,5,automatic,75,Sedan,4.7,29368,37553,276,3744,231,6119
+BMW,3 Series,5,automatic,42,Sedan,4.8,20244,25890,428,1904,157,6618
+BMW,6 Series,5,automatic,46,Convertible,4.6,42644,61542,500,2244,126,5622
+BMW,1 Series,5,automatic,68,Convertible,4.2,21339,30900,354,1684,106,5411
+BMW,3 Series,5,manual,63,Coupe,4.2,29828,42749,462,3949,246,4188
+BMW,6 Series,5,automatic,63,Convertible,4.2,41100,52359,327,1752,238,5029
+bmw,750i,5,automatic,47,nan,3.9,30961,39986,145,2629,383,4808
+BMW,6 Series,5,automatic,57,Convertible,3.7,37839,54733,298,3320,303,6312
+BMW,M3,5,automatic,47,Convertible,4.4,36317,49729,494,2521,302,4596
+BMW,7 Series,5,automatic,43,Sedan,3.6,34336,51268,340,1407,113,6417
+Acura,TSX,5,automatic,80,Sedan,3.6,14797,22190,181,3236,237,4188
+Acura,TL,5,automatic,72,Sedan,3.6,18849,21550,489,2266,243,6277
+nan,nan,5,automatic,54,nan,4.1,39048,57622,287,1719,95,6214
+BMW,5 Series,5,automatic,69,Sedan,4.2,30891,40293,423,1923,108,5886
+BMW,3 Series,5,automatic,46,Coupe,4.7,16172,25665,175,2296,255,4733
+Acura,RDX,7,automatic,74,SUV,4.3,21334,27130,262,3717,383,5203
+BMW,6 Series,5,Manual,72,Convertible,4.6,35957,46325,199,1309,350,6682
+Acura,TSX,5,automatic,41,Sedan,4.8,17130,24814,184,1956,384,6517
+BMW,5 Series,5,automatic,79,Sedan,3.8,30708,39749,307,2539,191,5593
+BMW,3 Series,5,automatic,66,Coupe,5.0,20408,25866,137,3817,216,5785
+BMW,3 Series,5,automatic,76,Convertible,3.7,24251,36651,290,3994,244,6304
+Acura,TL,5,automatic,49,Sedan,5.0,15639,19713,299,3671,137,5682
+BMW,3 Series,5,automatic,56,Convertible,4.4,28332,36712,159,1640,204,5114
+bmw,750li,5,automatic,77,nan,4.4,37597,59690,263,3505,153,5481
+BMW,6 Series,5,automatic,43,Convertible,3.7,41854,52585,195,1569,191,5427
+BMW,5 Series,5,automatic,40,Sedan,4.1,30362,44075,288,1836,365,4267
+Acura,ZDX,5,automatic,46,Hatchback,3.6,24915,34484,392,1265,396,5014
+BMW,3 Series,5,automatic,72,Convertible,4.4,22326,31271,213,2015,184,5954
+BMW,3 Series,5,automatic,41,Sedan,3.8,25331,29971,247,3548,155,6278
+Audi,A4,5,automatic,45,Sedan,4.9,21863,29888,495,3687,286,5168
+BMW,1 Series,5,automatic,80,Convertible,4.6,21421,23938,321,3776,395,6982
+Acura,TSX,5,automatic,56,Sedan,3.9,17676,24096,444,1616,140,4624
+BMW,5 Series,5,automatic,49,Sedan,3.8,26231,33602,234,2742,92,4916
+BMW,5 Series,5,automatic,58,Sedan,4.1,20239,26782,495,3712,300,6028
+BMW,3 Series,5,automatic,79,Convertible,4.7,30039,37901,123,3500,139,4575
+BMW,5 Series,5,automatic,79,Sedan,3.8,22839,34706,189,3370,187,6236
+BMW,6 Series,5,automatic,59,Convertible,3.7,37046,52422,480,3727,314,4768
+BMW,5 Series,5,automatic,79,Sedan,4.3,24779,31763,303,3032,151,6131
+BMW,6 Series,5,automatic,52,Convertible,4.7,44207,56839,477,3619,267,4734
+Audi,A6,5,automatic,72,Sedan,4.3,26492,40472,278,2067,188,6210
+BMW,6 Series,5,automatic,49,Convertible,4.4,36841,46040,127,2835,322,4221
+Acura,TL,5,automatic,60,Sedan,4.7,19216,22943,194,3943,363,5735
+BMW,3 Series,5,automatic,74,Convertible,4.1,27542,38794,443,1946,277,4434
+BMW,3 Series,5,automatic,63,Coupe,4.7,15399,24246,190,3196,227,6130
+BMW,6 Series,5,automatic,57,Coupe,4.9,37983,54048,128,2887,176,5026
+BMW,7 Series,5,automatic,76,Sedan,3.8,30881,41265,197,2730,204,6834
+Acura,TSX,5,automatic,75,Sedan,3.6,12896,18055,466,1257,180,6405
+Acura,TSX,5,automatic,53,Sedan,3.9,17218,22162,377,2071,153,5697
+Audi,R8,5,automatic,66,Coupe,4.6,84680,108164,121,3929,392,5359
+BMW,3 Series,5,automatic,42,Sedan,4.2,18604,24722,226,2247,378,5616
+BMW,3 Series,5,automatic,40,Coupe,4.4,16925,25546,451,1424,300,5085
+Acura,TSX,5,automatic,76,Sedan,3.8,16901,21131,208,2925,358,5088
+BMW,3 Series,5,automatic,53,Coupe,3.8,19164,22787,426,1720,209,6409
+BMW,7 Series,5,automatic,80,Sedan,4.7,31536,42587,236,3555,378,4384
+bmw,750li,5,automatic,41,nan,3.7,39033,49705,197,1729,336,6016
+BMW,5 Series,5,automatic,68,Sedan,4.9,25301,31220,152,1838,189,4313
+Audi,A6,5,automatic,58,Sedan,4.1,26704,33935,460,3170,342,4780
+BMW,3 Series,5,automatic,70,Sedan,4.4,17734,27250,455,3090,357,5302
+BMW,6 Series,5,automatic,46,Convertible,4.1,36190,44555,284,3660,161,4588
+bmw,750li,5,automatic,41,nan,4.0,36424,53393,227,2088,332,6848
+bmw,750li,5,automatic,70,nan,3.7,33963,50012,485,3116,222,6807
+BMW,3 Series,5,automatic,46,Convertible,4.2,23676,36407,434,1710,231,6938
+Acura,MDX,7,automatic,56,SUV,3.6,26035,34790,153,1889,221,6997
+nan,nan,5,automatic,61,nan,4.2,31323,37688,465,3857,105,5312
+BMW,X3,7,automatic,69,SUV,4.6,25695,33806,398,1793,187,4140
+BMW,6 Series,5,automatic,55,Convertible,4.3,46998,64376,185,2409,280,6850
+Acura,TSX,5,automatic,60,Sedan,4.3,13519,20100,151,2068,322,4535
+BMW,5 Series,5,automatic,51,Sedan,4.9,22900,30035,196,3415,119,4407
+BMW,7 Series,5,automatic,41,Sedan,3.8,31131,39561,146,3333,115,6883
+MINI,Cooper Clubman,5,automatic,69,Hatchback,4.0,11139,15658,448,2380,194,4034
+BMW,3 Series,5,automatic,79,Sedan,4.0,14504,22620,304,2647,169,6219
+BMW,6 Series,5,automatic,79,Convertible,3.6,43109,61431,185,1642,236,5352
+bmw,750li,5,automatic,59,nan,4.0,38038,44252,487,1547,287,5805
+BMW,3 Series,5,automatic,55,Convertible,3.6,27138,40082,492,1539,179,5486
+BMW,6 Series,5,automatic,60,Convertible,4.0,45806,60851,214,1745,280,5404
+BMW,1 Series,5,automatic,45,Convertible,4.9,19086,25673,493,3511,235,6167
+BMW,X3,7,automatic,50,SUV,3.8,27211,36217,338,3061,346,5431
+bmw,750i,5,automatic,58,nan,4.4,28742,40983,342,2929,242,4557
+Acura,TL,5,automatic,60,Sedan,4.3,14620,22898,461,2292,306,4852
+Audi,S5,5,automatic,70,Coupe,3.5,34211,43645,354,1886,396,6684
+Audi,Q5,7,automatic,67,SUV,4.8,26353,33533,194,3182,397,4371
+bmw,750i,5,automatic,61,nan,4.7,37336,52542,167,2325,338,5536
+bmw,750li,5,automatic,71,nan,3.9,41362,46429,390,1598,356,5502
+Acura,MDX,7,automatic,59,SUV,4.3,28981,32957,233,2065,336,6619
+BMW,7 Series,5,automatic,57,Sedan,4.1,28934,41620,387,2131,325,6132
+BMW,5 Series,5,automatic,43,Sedan,4.4,29723,43671,441,2896,161,4272
+Audi,A6,5,automatic,73,Sedan,4.1,23087,32375,331,3941,204,6739
+bmw,750li,5,automatic,58,nan,3.8,32583,43142,147,1941,232,5772
+BMW,7 Series,5,automatic,44,Sedan,4.5,34901,49913,162,3925,221,4326
+BMW,5 Series,5,automatic,79,Sedan,4.4,29857,37948,276,2425,282,5129
+Acura,TSX,5,automatic,46,Sedan,4.7,13930,19145,353,2970,365,6029
+BMW,3 Series,5,automatic,58,Coupe,5.0,19349,26057,436,1612,196,4132
+Audi,A4,5,automatic,80,Sedan,4.8,16771,21417,363,2565,251,5356
+BMW,3 Series,5,automatic,74,Sedan,3.8,34425,47116,445,3429,161,5562
+BMW,3 Series,5,automatic,69,Convertible,4.2,22971,32016,363,1688,347,5993
+BMW,6 Series,5,automatic,55,Convertible,4.1,35491,52630,288,2734,321,6747
+Acura,ZDX,5,automatic,62,Hatchback,4.4,25852,29900,326,3992,337,6689
+Audi,A4,5,automatic,72,Sedan,3.9,18443,22884,267,3838,221,5815
+BMW,6 Series,5,automatic,53,Convertible,4.1,41008,54667,359,1782,351,4076
+BMW,3 Series,5,automatic,54,Convertible,3.6,23432,30815,267,3951,317,6679
+BMW,5 Series,5,automatic,61,Sedan,3.7,29463,36308,365,1217,394,5329
+BMW,5 Series,5,automatic,73,Sedan,4.4,28881,41181,223,2445,120,5462
+BMW,6 Series,5,automatic,57,Coupe,4.0,36700,44341,382,1364,96,5873
+bmw,750li,5,automatic,58,nan,4.1,39560,49039,355,3929,225,6676
+Acura,MDX,7,automatic,56,SUV,3.7,24540,33636,141,3093,133,4464
+BMW,5 Series,5,automatic,61,Sedan,4.3,27843,41906,327,3292,183,5010
+BMW,6 Series,5,automatic,63,Convertible,4.3,46724,59750,177,1931,370,4131
+Dodge,Avenger,5,automatic,59,Sedan,3.6,7286,9352,484,2527,255,6959
+Ford,E-Series Wagon,5,Automatic,46,Van,5.0,14663,18277,199,3104,252,6840
+Ford,Escape,7,automatic,60,SUV,3.5,11423,16978,124,3120,316,6895
+Dodge,Avenger,5,automatic,56,Sedan,4.1,8915,12088,190,2085,398,5177
+Ford,Edge,7,automatic,72,SUV,4.0,17236,23636,232,3890,369,5290
+BMW,X5,7,automatic,68,SUV,4.0,35981,44357,494,2682,186,5273
+Cadillac,SRX,7,automatic,68,SUV,4.3,13549,17495,387,2674,269,6609
+Chevrolet,Silverado 1500,5,automatic,53,Crew Cab,4.9,21637,25072,429,3885,299,6628
+Ford,Edge,7,automatic,44,SUV,4.0,19414,23803,412,3076,250,5771
+Ford,Focus,5,automatic,51,Hatchback,3.8,13066,16844,373,2174,132,5640
+Ford,Flex,5,Automatic,67,Wagon,4.2,14616,17643,265,3512,197,4160
+BMW,Z4,5,automatic,60,Convertible,3.7,27909,39971,208,2468,393,5002
+BMW,X5,7,automatic,51,SUV,5.0,29325,39492,312,2619,286,5245
+Chevrolet,Cruze,5,automatic,76,Sedan,4.6,7261,11242,458,1490,366,6531
+Chevrolet,Traverse,7,automatic,44,SUV,4.9,15227,22024,491,1348,158,6631
+Chevrolet,Malibu,5,automatic,77,Sedan,4.4,8500,11685,156,3604,143,5648
+Ford,Focus,5,automatic,75,Hatchback,4.8,12261,17149,421,3228,321,4695
+Ford,Focus,5,automatic,71,Sedan,3.5,7528,10434,277,2278,102,5658
+Chevrolet,Silverado 2500HD,5,automatic,47,Crew Cab,4.2,21567,27149,248,1882,393,4014
+Ford,F-350 Super Duty,5,automatic,65,Crew Cab,3.8,40340,48188,205,1925,326,6548
+Buick,Enclave,7,automatic,47,SUV,3.8,23174,31485,279,3658,342,5438
+Ford,Fiesta,5,automatic,48,Hatchback,3.9,5097,6977,429,2258,264,5363
+Chevrolet,Cruze,5,automatic,42,Sedan,4.4,7273,9734,307,3302,153,4263
+Ford,Escape,7,Automatic,40,SUV,3.6,5606,7237,445,1518,232,6804
+FIAT,500,5,manual,78,Hatchback,3.7,6498,9739,189,3817,346,4351
+BMW,X5,7,automatic,78,SUV,4.9,24056,34178,383,2429,332,6979
+Chrysler,200,5,automatic,42,Sedan,5.0,6226,8030,245,2684,297,5348
+Ford,Focus,5,automatic,53,Hatchback,3.9,7500,9903,160,3621,303,6975
+Ford,Fiesta,5,manual,47,Hatchback,3.9,7683,9621,407,1291,284,4758
+Ford,Edge,7,automatic,58,SUV,4.3,16118,23278,236,2176,350,5663
+Ford,Edge,7,automatic,59,SUV,3.9,16803,21710,246,3346,275,6787
+Ford,Escape,7,automatic,71,SUV,4.9,8307,12658,157,2302,296,5742
+Dodge,Journey,7,automatic,40,SUV,4.0,11782,15742,279,2146,302,5438
+Ford,Edge,7,automatic,67,SUV,4.6,9266,12802,432,2383,258,4327
+Ford,Focus,5,automatic,64,Sedan,4.6,8460,11530,431,1372,132,4874
+BMW,Z4,5,automatic,55,Convertible,4.4,26090,30413,371,2172,318,4481
+Dodge,Charger,5,automatic,48,Sedan,5.0,28264,40362,461,2600,137,6049
+Ford,Flex,5,automatic,42,Wagon,3.7,16248,22539,193,2944,253,4646
+Ford,Flex,5,automatic,61,Wagon,4.9,20503,30480,227,3079,216,6465
+BMW,X5,7,automatic,63,SUV,4.2,29876,39409,456,3460,327,5021
+ford,e350,5,automatic,44,nan,3.9,8661,12404,391,3000,237,4396
+Chevrolet,Cruze,5,manual,42,Sedan,3.6,7027,9471,358,1526,168,4318
+BMW,X5,7,automatic,46,SUV,3.7,38261,53116,173,3647,131,5065
+Chevrolet,Camaro,5,automatic,70,Convertible,4.9,14212,17517,429,3773,195,6765
+Chevrolet,Equinox,7,automatic,77,SUV,4.2,10394,14335,381,1854,321,6460
+Chrysler,300,5,automatic,44,Sedan,4.8,18579,24149,350,2974,371,4948
+Ford,F-150,5,Automatic,48,SuperCrew,4.0,16538,24915,491,2080,372,6732
+Ford,Explorer,7,automatic,56,SUV,3.8,16494,21209,155,3406,379,5542
+Ford,Escape,7,automatic,48,SUV,3.6,12750,16471,307,1736,132,6111
+BMW,X5,7,Manual,73,SUV,4.4,26271,35595,395,1615,99,6756
+FIAT,500,5,manual,45,Convertible,3.9,8219,11538,174,1744,282,5412
+BMW,X3,7,automatic,53,SUV,4.4,22857,32202,139,1874,338,6149
+Chevrolet,Malibu,5,automatic,67,Sedan,4.7,9384,11980,339,2238,143,6019
+Buick,Enclave,7,automatic,68,SUV,4.3,17796,25909,139,3706,151,5363
+Chevrolet,Captiva Sport,7,automatic,51,SUV,4.3,10151,14445,321,3584,279,6695
+Chevrolet,Impala,5,automatic,56,Sedan,3.6,8186,10376,171,2111,114,5158
+Chevrolet,Silverado 2500HD,5,automatic,49,Crew Cab,4.4,18991,24906,245,2283,230,4471
+Cadillac,Escalade,7,automatic,80,SUV,4.4,30519,40464,126,3397,237,6470
+Ford,Escape,7,automatic,52,SUV,3.6,12996,16824,153,2890,326,5004
+Dodge,Grand Caravan,5,automatic,50,Minivan,5.0,7201,10485,277,3191,338,5693
+Chevrolet,Cruze,5,automatic,66,Sedan,3.6,9615,13936,286,2387,99,5308
+Dodge,Grand Caravan,5,automatic,80,Minivan,4.6,10911,14003,126,1271,98,6394
+Ford,Edge,7,automatic,69,SUV,4.5,20628,24953,486,1353,327,6398
+Chrysler,200,5,automatic,66,Sedan,4.0,1060,1493,387,2432,367,4357
+Ford,Edge,7,automatic,71,SUV,4.0,13455,18018,203,1744,264,5202
+BMW,X6,7,automatic,68,SUV,3.8,33674,39491,282,2082,100,4552
+Ford,Focus,5,automatic,49,Hatchback,4.2,7826,9645,494,3882,164,5670
+Chevrolet,Cruze,5,automatic,61,Sedan,4.5,4551,6461,126,3989,201,4276
+Ford,Edge,7,automatic,61,SUV,4.6,13230,19333,457,3049,330,5701
+Chevrolet,Malibu,5,automatic,40,Sedan,4.4,8694,11712,198,3138,295,6581
+Ford,Fiesta,5,automatic,72,Sedan,3.6,2983,3768,365,1213,354,6149
+Cadillac,CTS Coupe,5,automatic,68,CTS Coupe,4.6,25988,34954,283,2495,385,6470
+Ford,Focus,5,automatic,63,Sedan,4.2,10743,14925,334,2644,325,6723
+Chevrolet,Silverado 1500,5,Manual,49,Extended Cab,3.6,19507,28972,225,2839,283,5193
+Chevrolet,Cruze,5,automatic,61,Sedan,4.4,6733,9537,455,3376,384,5462
+Dodge,Avenger,5,automatic,45,Sedan,4.2,6936,9782,224,2108,98,4221
+Ford,F-150,5,automatic,72,SuperCrew,4.6,24620,36342,406,2654,306,5128
+BMW,X5,7,automatic,40,SUV,3.7,34063,48540,265,2929,95,5471
+Ford,Edge,7,automatic,65,SUV,3.6,18164,23665,401,3369,382,5119
+Dodge,Grand Caravan,5,automatic,66,Minivan,4.3,10023,13784,424,1468,342,4144
+Ford,Edge,7,automatic,48,SUV,4.0,16824,20740,274,1466,306,5612
+Chrysler,Town and Country,5,automatic,59,Minivan,4.2,3558,5135,408,2584,123,4501
+Chevrolet,Impala,5,automatic,65,Sedan,4.0,6124,8133,314,3386,187,5922
+Chevrolet,Cruze,5,automatic,48,Sedan,3.6,7901,10358,434,2547,98,5145
+Ford,Focus,5,automatic,74,Hatchback,4.3,10472,11896,170,3662,241,5618
+Dodge,Grand Caravan,5,automatic,65,Minivan,3.6,8361,11393,428,1351,128,5145
+Cadillac,Escalade,7,automatic,68,SUV,3.6,30918,43000,481,1666,332,5494
+Ford,E-Series Van,5,automatic,71,E-Series Van,4.7,10368,12988,154,3448,149,5099
+Chevrolet,Volt,5,automatic,74,Hatchback,4.1,13236,16975,277,2489,258,4278
+Chevrolet,Cruze,5,automatic,63,Sedan,4.2,8790,10600,257,1310,385,4973
+Ford,Fusion,5,automatic,41,Sedan,4.4,13064,18238,483,3364,328,6861
+Ford,Focus,5,automatic,54,Sedan,4.9,8873,11230,396,2458,262,6845
+Ford,Focus,5,automatic,68,Hatchback,3.8,3709,4587,318,2366,233,6582
+Ford,Focus,5,automatic,64,Hatchback,4.1,10426,13306,123,2554,378,6712
+Chevrolet,Cruze,5,automatic,79,Sedan,4.5,9256,12418,266,1959,249,5201
+Chevrolet,Silverado 1500,5,automatic,69,Extended Cab,3.8,16379,26179,134,3905,223,4486
+BMW,X3,7,automatic,43,SUV,3.7,20454,28540,126,3009,281,5669
+Chevrolet,Malibu,5,automatic,60,Sedan,4.3,7798,10072,121,2522,123,5745
+Ford,E-Series Wagon,5,automatic,43,Van,4.4,13151,18568,469,3337,282,6001
+BMW,X5,7,automatic,57,SUV,4.7,31483,38330,165,2080,202,4749
+Ford,Escape,7,automatic,65,SUV,4.7,12523,15960,126,1506,255,4081
+Chevrolet,Express Cargo,5,automatic,49,Van,3.7,6426,9828,316,2800,289,5065
+Chevrolet,Impala,5,automatic,66,Sedan,4.4,6926,10833,337,3989,270,4255
+Chevrolet,Cruze,5,manual,48,Sedan,4.5,7194,10380,173,1845,361,5511
+ford,e150,5,automatic,56,nan,3.9,7745,10608,181,2067,253,4923
+Ford,Focus,5,automatic,74,Sedan,3.9,9816,11926,142,1999,150,5522
+Buick,Enclave,7,automatic,59,SUV,3.9,22540,27570,275,3544,176,6723
+BMW,X5,7,automatic,60,SUV,3.8,35090,47244,238,3341,339,4124
+Chevrolet,Cruze,5,automatic,63,Sedan,5.0,8049,9911,234,3246,354,5479
+Ford,Fusion,5,automatic,56,Sedan,3.9,7844,10065,325,2942,201,4281
+Dodge,Avenger,5,automatic,47,Sedan,4.2,6460,7423,437,2150,318,5141
+Chevrolet,Impala,5,automatic,57,Sedan,4.1,8077,11847,223,1464,165,4189
+Chevrolet,Impala,5,automatic,46,Sedan,4.0,7376,9792,435,2878,189,6982
+Chrysler,200,5,automatic,63,Sedan,4.8,6688,10097,333,3314,353,5119
+BMW,X5 M,7,automatic,66,SUV,4.6,45900,57638,195,2756,361,6616
+Ford,F-150,5,automatic,41,SuperCrew,4.4,26043,31866,238,2404,269,6445
+Ford,Escape,7,Automatic,63,SUV,3.8,11069,15679,363,1775,264,4203
+Ford,F-150,5,automatic,51,SuperCrew,4.5,15867,23638,310,2788,157,4581
+Chevrolet,Malibu,5,automatic,40,Sedan,4.2,7849,11176,480,1450,248,5701
+Chevrolet,Captiva Sport,7,automatic,53,SUV,4.3,8675,11859,430,2047,255,5451
+Ford,Fusion,5,automatic,44,Sedan,4.5,15184,20414,474,1423,259,4499
+Chevrolet,Silverado 1500,5,automatic,44,Crew Cab,3.8,17837,22661,194,3009,352,5889
+Ford,Edge,7,automatic,47,SUV,3.7,17612,24485,156,3215,172,4774
+Dodge,Charger,5,automatic,52,Sedan,4.0,18709,25548,126,1641,145,5832
+Chevrolet,Malibu,5,Automatic,57,Sedan,4.4,7735,11391,277,2794,117,4669
+Ford,E-Series Van,5,Automatic,44,E-Series Van,4.6,17021,21036,238,2137,176,5653
+Chevrolet,Cruze,5,manual,70,Sedan,4.3,9008,11261,500,2887,294,4353
+Ford,Escape,7,automatic,71,SUV,4.4,8252,12746,238,3862,93,6735
+Ford,Focus,5,automatic,71,Hatchback,4.8,6874,8273,166,3954,316,4938
+BMW,X5,7,automatic,52,SUV,4.8,31425,41476,285,2086,257,5203
+Ford,Edge,7,automatic,78,SUV,4.9,18459,25490,443,3472,350,5720
+Chevrolet,Cruze,5,automatic,46,Sedan,4.4,8381,12942,429,3879,159,5744
+Ford,Focus,5,automatic,50,Sedan,3.8,7959,9856,302,3208,209,5501
+Dodge,Journey,7,automatic,47,SUV,4.9,9030,12230,354,2405,163,6902
+Ford,Escape,7,automatic,65,SUV,3.6,15558,19796,334,1513,115,5400
+Chevrolet,Captiva Sport,7,automatic,55,SUV,4.4,8281,12994,239,2315,191,5560
+BMW,X5,7,automatic,47,SUV,4.3,34190,45220,132,1526,339,6493
+Ford,F-150,5,automatic,40,SuperCab,4.8,21709,27186,346,3452,395,4129
+Chevrolet,Malibu,5,automatic,63,Sedan,4.5,10146,15582,342,3286,286,4077
+Ford,Escape,7,automatic,54,SUV,3.6,7690,11692,495,2190,292,6794
+Ford,Expedition,7,automatic,52,SUV,3.6,23504,33871,452,3819,203,6187
+Ford,Explorer,7,automatic,79,SUV,3.8,19770,30809,399,2703,144,5102
+Chevrolet,Volt,5,automatic,46,Hatchback,4.4,15530,19565,449,3191,133,6041
+Chevrolet,Malibu,5,automatic,63,Sedan,4.2,6160,8752,180,3723,376,5945
+Chevrolet,Malibu,5,automatic,74,Sedan,4.0,7831,12146,264,2171,367,5284
+BMW,X5,7,automatic,58,SUV,4.3,27573,38436,274,1601,356,4048
+Ford,Edge,7,automatic,62,SUV,3.6,20947,29347,279,2530,267,5291
+Ford,Focus,5,automatic,74,Sedan,3.8,5582,6458,139,1912,388,5884
+Chrysler,200,5,Automatic,64,Sedan,4.7,7003,9405,299,3763,308,4286
+Ford,Edge,7,automatic,47,SUV,3.8,16107,25282,381,2356,258,6972
+Ford,Focus,5,manual,69,Sedan,4.8,6825,10257,314,2316,125,5636
+Chevrolet,Colorado,5,automatic,68,Extended Cab,4.4,7803,9815,228,1918,294,4367
+Chevrolet,Express,5,automatic,68,Van,3.9,17692,21186,454,1831,194,4385
+Ford,Focus,5,automatic,63,Sedan,4.6,7935,11962,345,1585,204,6332
+Chevrolet,Cruze,5,automatic,58,Sedan,3.6,7323,9746,375,3931,321,5732
+BMW,X5,7,automatic,57,SUV,4.4,35430,42201,285,1813,386,5639
+Chevrolet,Equinox,7,automatic,55,SUV,4.9,12793,17767,143,1284,319,4022
+Chevrolet,Impala,5,automatic,78,Sedan,4.5,7281,9598,152,2331,345,5968
+Ford,F-150,5,Manual,52,Regular Cab,3.8,11093,14964,390,2840,184,4158
+Chevrolet,Cruze,5,automatic,79,Sedan,4.8,9441,12488,400,1510,398,4419
+Ford,Explorer,7,automatic,45,SUV,4.0,21628,31175,385,1975,380,4069
+Ford,Edge,7,automatic,76,SUV,4.9,19380,25179,354,2070,298,6428
+Dodge,Grand Caravan,5,Manual,67,Minivan,4.1,10641,14293,122,1502,204,5350
+Ford,Fusion,5,automatic,60,Sedan,4.8,13462,15929,160,2107,100,5852
+BMW,X5,7,automatic,42,SUV,4.4,27772,34034,164,3143,197,4506
+Ferrari,California,5,automatic,44,Convertible,3.9,138407,181181,482,3245,336,5436
+Ford,Focus,5,automatic,72,Hatchback,4.0,10432,12010,333,1445,264,4080
+Chevrolet,Cruze,5,automatic,75,Sedan,4.2,9559,13015,181,3445,155,6529
+Ford,Edge,7,automatic,64,SUV,3.6,13327,19432,240,3332,118,4005
+Chevrolet,Malibu,5,automatic,59,Sedan,4.5,8938,12419,429,2257,285,4290
+Ford,Escape,7,automatic,61,SUV,3.6,10027,12871,467,1841,207,6175
+Cadillac,Escalade ESV,7,automatic,79,SUV,5.0,42930,49142,284,2368,149,5725
+BMW,X5,7,automatic,49,SUV,4.9,32462,42345,472,1213,323,6820
+BMW,X5,7,automatic,47,SUV,4.3,35127,52627,400,1414,332,6604
+Ford,Fiesta,5,automatic,62,Sedan,3.7,8642,12837,240,1865,149,6327
+Chevrolet,Malibu,5,automatic,58,Sedan,3.7,7167,9771,260,1690,204,6713
+Cadillac,Escalade,7,automatic,52,SUV,4.7,32569,46247,329,3789,318,5041
+Ford,Edge,7,automatic,52,SUV,4.7,15746,20090,377,1307,289,4908
+Cadillac,Escalade,7,automatic,40,SUV,4.7,37627,50498,189,2850,273,6321
+Ford,Fiesta,5,automatic,45,Hatchback,3.7,7372,9372,472,2361,298,5858
+Chevrolet,Malibu,5,automatic,42,Sedan,3.8,8989,12306,448,3921,230,4981
+Chrysler,Town and Country,5,automatic,56,Minivan,3.8,7259,10105,256,2714,383,6471
+Chevrolet,Silverado 1500,5,automatic,65,Extended Cab,4.9,16890,21931,186,1988,397,6324
+BMW,X5,7,automatic,70,SUV,4.9,33706,45666,326,2376,364,4280
+Chevrolet,Sonic,5,automatic,74,Sedan,4.7,4884,6226,206,1699,399,5953
+Cadillac,SRX,7,automatic,52,SUV,4.7,14796,21440,411,2705,114,5224
+Ford,Explorer,7,automatic,55,SUV,3.9,15303,20709,454,1860,323,6453
+Chevrolet,Impala,5,automatic,59,Sedan,3.6,7870,9984,306,3069,331,4589
+Chevrolet,Impala,5,automatic,77,Sedan,4.9,6967,9048,315,3281,381,6898
+Honda,Accord,5,automatic,40,Sedan,4.1,11725,15980,232,2795,377,6995
+Honda,CR-V,7,automatic,59,SUV,4.9,14958,20503,466,2517,168,5627
+Hyundai,Santa Fe,7,automatic,56,SUV,3.8,12855,16995,274,3499,171,5764
+Hyundai,Sonata,5,automatic,51,Sedan,4.8,11337,17373,294,3192,121,6507
+Honda,Accord,5,automatic,73,Sedan,4.7,10093,15498,374,1286,178,4420
+Hyundai,Elantra,5,automatic,70,Sedan,4.6,11642,16504,450,1805,159,4550
+Ford,Fusion,5,automatic,41,Sedan,4.2,10087,13775,249,2262,202,4943
+Infiniti,G Sedan,5,automatic,65,G Sedan,4.7,17082,24560,150,2004,231,5610
+Ford,Mustang,5,automatic,62,Coupe,4.8,10422,12968,336,2834,233,4725
+Hyundai,Elantra,5,automatic,42,Sedan,3.7,11371,14462,165,1844,323,4432
+Honda,Accord,5,automatic,66,Sedan,4.2,9840,15324,259,3416,351,4025
+Hyundai,Sonata,5,automatic,66,Sedan,3.6,9260,11127,337,1605,326,4071
+Honda,Accord,5,automatic,66,Sedan,4.7,14087,17890,382,3935,337,6582
+Ford,Mustang,5,automatic,57,Convertible,4.1,9109,12414,346,2084,146,4126
+Ford,Fusion,5,automatic,58,Sedan,3.6,7907,10462,211,3000,339,6659
+Infiniti,G Sedan,5,automatic,66,G Sedan,4.4,16390,20811,133,3625,394,5742
+Honda,Civic,5,automatic,60,Sedan,4.6,7761,9848,249,2609,169,6690
+Hyundai,Sonata,5,automatic,47,Sedan,4.0,12058,14834,161,2846,285,4438
+Hyundai,Genesis,5,automatic,53,Sedan,4.6,14056,18262,220,3765,176,4877
+Honda,Fit,5,manual,46,Hatchback,4.0,6366,7431,391,2914,126,4886
+Hyundai,Sonata,5,automatic,58,Sedan,3.7,10972,13997,466,2656,101,4425
+Honda,Accord,5,automatic,62,Sedan,3.6,10302,15816,292,2376,302,4236
+Honda,Pilot,7,automatic,74,SUV,4.7,12551,14916,340,3945,131,5993
+Hyundai,Sonata,5,automatic,68,Sedan,4.2,13382,17999,304,1611,200,4224
+Honda,Odyssey,5,automatic,52,Minivan,4.8,15978,22603,284,2435,171,4388
+Honda,Civic,5,automatic,54,Sedan,4.4,8595,11217,166,3308,228,6929
+Ford,Fusion,5,automatic,57,Sedan,4.5,9562,11323,383,2619,173,5010
+Honda,Civic,5,automatic,76,Sedan,3.9,11902,13920,410,3692,187,6101
+Honda,Civic,5,automatic,71,Sedan,4.3,3505,5111,423,3241,356,4473
+Ford,Mustang,5,Manual,79,Convertible,4.0,10552,15134,224,3649,325,6677
+Honda,Civic,5,automatic,61,Sedan,4.3,9927,13979,422,3509,175,6800
+Honda,Civic,5,automatic,62,Sedan,4.2,10513,12979,462,1828,287,5601
+Ford,Fusion,5,automatic,67,Sedan,4.2,7980,11092,141,3364,150,5106
+Hyundai,Elantra,5,automatic,44,Sedan,4.1,7909,12052,122,2850,271,5087
+Ford,Fusion,5,automatic,66,Sedan,3.8,10378,13993,215,1258,273,6054
+Honda,Accord,5,automatic,75,Coupe,3.8,12627,15714,321,2336,122,5988
+Hyundai,Tucson,7,automatic,80,SUV,4.5,11291,15257,259,1657,335,6209
+Hyundai,Sonata Hybrid,5,automatic,52,Sedan,4.2,15333,17814,171,3215,373,4134
+Hyundai,Genesis,5,automatic,69,Sedan,3.6,16211,21972,468,2285,155,4489
+Honda,Accord,5,automatic,55,Sedan,4.2,11909,16815,237,3576,380,6897
+Hyundai,Sonata,5,automatic,46,Sedan,3.5,11351,14708,264,1462,395,5356
+Honda,CR-V,7,automatic,54,SUV,3.6,15165,19858,347,1876,199,5845
+Ford,Fusion,5,automatic,42,Sedan,3.9,8381,11217,385,3264,253,5470
+Hyundai,Sonata,5,automatic,72,Sedan,4.5,14633,17976,125,1410,159,4247
+Hyundai,Elantra,5,automatic,51,Sedan,4.5,9921,11628,436,2071,386,4494
+Hyundai,Elantra,5,automatic,50,Sedan,4.8,7485,9094,176,3626,150,5433
+Hyundai,Accent,5,automatic,78,Hatchback,3.7,7254,10435,283,3540,207,6738
+Honda,Accord,5,automatic,65,Sedan,3.5,10500,16143,473,2625,271,4288
+Honda,Accord,5,automatic,55,Sedan,4.8,11853,15925,378,3687,264,4330
+Honda,Pilot,7,automatic,48,SUV,4.0,19006,26039,275,3985,235,4699
+Honda,Accord,5,automatic,67,Coupe,3.6,16133,22113,329,3672,159,6130
+Honda,Accord,5,automatic,49,Sedan,4.6,12133,16263,435,3751,184,4539
+Honda,Odyssey,5,automatic,50,Minivan,4.0,18208,24624,240,3466,351,5091
+Hyundai,Sonata,5,automatic,57,Sedan,4.3,9674,12192,145,2443,104,6814
+Honda,Accord,5,automatic,76,Sedan,4.4,10436,15033,317,3522,275,4865
+Ford,Mustang,5,automatic,41,Convertible,5.0,10541,12688,342,3265,207,6124
+Infiniti,G Sedan,5,automatic,44,G Sedan,3.5,17468,23427,121,3443,150,5240
+Honda,Civic,5,automatic,68,Coupe,3.5,10367,12251,149,3743,117,4458
+Honda,Accord,5,automatic,43,Sedan,4.5,12309,16272,372,3534,279,4010
+Honda,Pilot,7,automatic,47,SUV,3.8,24422,33197,206,2817,96,4091
+Ford,Mustang,5,manual,64,Coupe,4.4,16610,24490,415,1709,307,5601
+Honda,Civic,5,automatic,68,Sedan,4.6,8081,10122,438,2283,270,6653
+Infiniti,G Sedan,5,automatic,66,G Sedan,4.4,15863,23642,445,3308,158,5879
+Honda,CR-V,7,automatic,68,SUV,4.3,17031,24644,304,1463,199,4306
+Hyundai,Sonata,5,automatic,44,Sedan,4.3,6654,9595,358,3102,103,4575
+Hyundai,Sonata,5,automatic,45,Sedan,4.6,15391,20231,326,2395,238,6551
+Hyundai,Accent,5,automatic,77,Hatchback,4.2,7081,9170,423,3635,138,4808
+Honda,Accord,5,automatic,50,Sedan,3.8,10531,16166,488,1368,160,6127
+Hyundai,Tucson,7,automatic,80,SUV,4.7,11407,16558,461,1549,268,4933
+Honda,Accord,5,automatic,64,Sedan,5.0,11821,14369,235,2392,376,5539
+Ford,Mustang,5,automatic,75,Convertible,4.6,8379,9942,491,1820,123,5198
+Infiniti,G Sedan,5,automatic,42,G Sedan,4.2,16983,21341,245,1978,208,4682
+Honda,Pilot,7,automatic,53,SUV,5.0,14434,21422,202,2335,302,4412
+Ford,Fusion,5,automatic,62,Sedan,3.7,5532,7168,497,2178,138,4073
+Hyundai,Elantra,5,automatic,75,Sedan,4.5,9467,14298,360,1753,390,5661
+Honda,Civic,5,automatic,70,Coupe,4.2,6487,8353,370,3731,248,6206
+Honda,Civic,5,automatic,80,Sedan,3.6,10097,15682,452,3477,134,5986
+Hyundai,Elantra,5,automatic,56,Sedan,4.0,9555,12980,416,3234,236,6378
+Hyundai,Tucson,7,automatic,66,SUV,3.7,8229,11152,461,1447,233,6446
+Infiniti,G Sedan,5,automatic,49,G Sedan,4.6,16432,21610,172,3287,250,4204
+Infiniti,G Sedan,5,automatic,65,G Sedan,5.0,16352,26013,308,3306,232,4994
+Infiniti,G Sedan,5,automatic,50,G Sedan,4.2,21043,27975,305,3284,171,5102
+Honda,Accord,5,automatic,56,Sedan,3.6,11469,15094,321,1539,400,5527
+Honda,Civic,5,automatic,51,Sedan,4.9,10328,13001,127,1544,390,6310
+Hyundai,Elantra,5,automatic,48,Sedan,4.7,9630,12250,380,1970,180,6315
+Honda,Accord,5,automatic,49,Sedan,3.7,12847,16237,192,1272,169,4712
+Hyundai,Sonata,5,automatic,51,Sedan,4.2,11994,17161,472,1211,330,5006
+Honda,Crosstour,5,automatic,78,Hatchback,3.9,18997,22222,213,1267,306,5676
+Hyundai,Genesis,5,automatic,50,Sedan,3.7,16360,19908,204,1562,123,5119
+Ford,Fusion,5,automatic,80,Sedan,4.4,6000,7370,398,3738,277,5750
+Honda,Accord,5,automatic,74,Sedan,4.5,10624,16968,178,1743,377,6940
+Honda,Civic,5,automatic,55,Sedan,4.0,9910,13977,307,3575,259,4402
+Hyundai,Genesis,5,automatic,57,Sedan,4.2,12653,17004,207,3376,397,4471
+Ford,Transit Connect,5,automatic,54,Minivan,5.0,10574,14837,481,2791,353,6701
+Infiniti,G Sedan,5,automatic,51,G Sedan,4.3,14702,22698,450,1448,322,6129
+Hyundai,Genesis,5,automatic,75,Sedan,4.2,15033,19576,489,1539,341,6404
+GMC,Terrain,7,automatic,59,SUV,3.7,12723,16691,409,3553,312,5987
+Ford,Fusion,5,automatic,55,Sedan,4.2,13176,16306,174,1962,124,6463
+Hyundai,Santa Fe,7,automatic,68,SUV,3.7,10596,16083,397,1427,156,6499
+Honda,CR-V,7,automatic,74,SUV,4.9,15551,19567,283,1526,384,5975
+Honda,Civic,5,automatic,56,Sedan,3.5,10826,15323,466,3352,275,6430
+Honda,Civic,5,automatic,78,Sedan,4.0,10511,12903,307,3945,116,5730
+Hyundai,Accent,5,automatic,45,Hatchback,4.6,8177,12219,165,1567,316,6240
+Infiniti,G Sedan,5,automatic,72,G Sedan,4.5,16505,22175,418,1783,224,4800
+Honda,Accord,5,automatic,49,Sedan,4.8,11081,17544,356,1957,107,5877
+Ford,Fusion,5,automatic,41,Sedan,3.9,5292,7991,317,2016,187,6547
+Ford,Fusion,5,automatic,72,Sedan,4.9,9423,12896,236,3269,172,5800
+Honda,Accord,5,automatic,43,Sedan,4.7,13440,19030,167,1324,308,4470
+Honda,Odyssey,5,automatic,45,Minivan,4.0,18302,25788,433,3272,393,4939
+Hyundai,Elantra,5,automatic,62,Sedan,4.2,10289,13170,268,1773,240,5664
+Ford,Mustang,5,automatic,48,Convertible,4.5,9688,12794,391,2901,96,6729
+Hyundai,Azera,5,automatic,41,Sedan,4.4,14600,20580,329,3078,383,6563
+Ford,Fusion,5,automatic,60,Sedan,3.7,8251,12510,426,2891,348,5062
+Hyundai,Elantra,5,automatic,56,Sedan,4.6,10346,12934,236,2477,296,5178
+Ford,Fusion,5,automatic,75,Sedan,4.0,9796,11644,263,3285,129,4151
+Honda,Accord,5,automatic,54,Coupe,4.7,10975,12760,223,2559,147,4512
+Ford,Fusion,5,automatic,54,Sedan,4.7,7783,10745,263,1369,347,5935
+Honda,Accord,5,automatic,47,Sedan,3.6,12475,16217,464,1432,309,6673
+Infiniti,G Sedan,5,automatic,46,G Sedan,3.7,17490,26238,319,1625,332,4213
+Ford,Taurus,5,automatic,41,Sedan,4.5,9755,12270,233,1785,386,5921
+Infiniti,G Sedan,5,automatic,70,G Sedan,4.8,14716,19804,474,2749,340,6093
+Honda,Pilot,7,automatic,78,SUV,5.0,15625,20326,198,2461,240,5444
+Honda,Pilot,7,automatic,42,SUV,5.0,19851,24252,304,2258,350,4002
+Honda,Accord,5,automatic,60,Sedan,4.1,11684,16121,359,1700,228,5826
+Honda,Pilot,7,automatic,67,SUV,3.9,19701,30718,191,2571,120,5402
+Ford,Taurus,5,automatic,80,Sedan,3.9,9334,13936,319,3843,120,6012
+Hyundai,Sonata,5,automatic,49,Sedan,4.1,11505,15648,269,1598,256,4181
+Ford,Fusion,5,automatic,46,Sedan,4.3,10200,15584,462,2316,117,5866
+Honda,Civic,5,automatic,52,Sedan,3.8,8154,10798,175,2427,242,5932
+Honda,Pilot,7,automatic,51,SUV,5.0,20594,25151,484,3055,134,5112
+Infiniti,G Coupe,5,automatic,72,G Coupe,3.7,20683,27489,331,2182,272,5964
+Ford,Fusion,5,Manual,47,Sedan,5.0,6900,10898,239,1609,345,6133
+Honda,Civic,5,automatic,64,Sedan,4.2,9274,11377,437,2736,340,4299
+Hyundai,Sonata Hybrid,5,automatic,56,Sedan,4.5,15554,19241,237,3845,222,4145
+Hyundai,Genesis,5,automatic,40,Sedan,4.5,17030,23931,332,1514,324,4775
+Hyundai,Tucson,7,automatic,71,SUV,4.7,11322,14748,192,3195,144,5564
+Infiniti,G Convertible,5,automatic,70,G Convertible,4.0,23966,27627,364,2232,139,6534
+Ford,Mustang,5,automatic,76,Coupe,4.8,11149,12833,137,3477,356,4310
+Ford,Fusion,5,automatic,63,Sedan,3.9,10472,13745,143,3501,330,6743
+Honda,Odyssey,5,Manual,48,Minivan,3.8,18991,24691,215,1655,156,6004
+Honda,Accord,5,automatic,43,Sedan,3.8,12496,17153,339,2133,354,4008
+Honda,Pilot,7,automatic,48,SUV,5.0,15111,20920,335,1764,238,4691
+Honda,Accord,5,automatic,61,Sedan,4.4,12634,15140,435,3566,175,4477
+Honda,Pilot,7,automatic,80,SUV,3.5,20674,29689,121,1903,123,5606
+Honda,Accord,5,automatic,47,Sedan,4.6,11818,15687,217,2790,337,5430
+Hyundai,Sonata,5,automatic,51,Sedan,4.7,10444,14703,293,1973,242,6794
+Infiniti,G Sedan,5,automatic,46,G Sedan,4.0,17410,21187,127,2647,164,6374
+Ford,Fusion,5,automatic,54,Sedan,3.6,10177,13466,297,1265,384,4560
+Ford,Fusion,5,automatic,62,Sedan,4.3,8122,11397,216,3981,155,5868
+Honda,Accord,5,automatic,53,Sedan,3.7,12257,17139,213,3972,156,5561
+Hyundai,Sonata,5,automatic,73,Sedan,3.9,11301,14742,418,2213,327,5668
+Ford,Fusion,5,automatic,70,Sedan,4.7,8224,9903,140,1442,251,4626
+Ford,Mustang,5,automatic,55,Convertible,4.8,9732,12177,442,1533,240,5022
+Hyundai,Genesis,5,automatic,43,Sedan,4.3,11208,15494,349,1833,221,4185
+Infiniti,G Sedan,5,automatic,58,G Sedan,4.5,18663,25633,163,3232,317,5697
+Honda,Pilot,7,automatic,43,SUV,4.0,20424,30728,492,3551,386,5367
+Hyundai,Sonata,5,automatic,80,Sedan,3.6,13180,18114,442,3836,356,5354
+Ford,Mustang,5,automatic,76,Coupe,4.0,12382,16888,157,3058,135,6604
+Honda,Accord,5,automatic,74,Sedan,4.0,14690,17373,191,2323,209,5243
+Ford,Mustang,5,Automatic,75,Convertible,4.2,17543,26903,149,3287,339,6418
+Hyundai,Accent,5,automatic,54,Sedan,3.7,7513,8516,156,3574,107,4412
+Hyundai,Sonata,5,automatic,78,Sedan,4.3,9613,14853,247,2519,135,6278
+Honda,Accord,5,automatic,43,Sedan,4.4,12092,15500,457,1860,359,6995
+Honda,Accord,5,automatic,43,Sedan,3.5,11845,15146,267,1297,271,5159
+Hyundai,Sonata,5,automatic,49,Sedan,4.9,9184,12282,221,3616,99,6825
+Honda,Civic,5,automatic,42,Sedan,4.2,10391,14472,250,3877,227,5010
+Honda,Civic,5,automatic,68,Coupe,4.1,8563,12487,483,3741,207,5831
+Honda,Accord,5,automatic,48,Sedan,4.4,9853,14444,459,2867,126,4897
+Hyundai,Genesis,5,automatic,48,Sedan,4.3,15911,21035,430,2339,280,6231
+Honda,Odyssey,5,automatic,43,Minivan,3.9,12440,17348,343,3458,304,4743
+Hyundai,Elantra,5,automatic,61,Sedan,3.9,11931,16453,220,1739,105,6527
+Honda,Civic,5,automatic,79,Coupe,4.5,7675,11145,173,3010,274,6174
+Infiniti,G Sedan,5,automatic,65,G Sedan,3.7,17982,21009,195,2878,149,5606
+Honda,Civic,5,automatic,78,Sedan,3.8,9804,14852,446,1586,168,5529
+Honda,Civic,5,automatic,69,Sedan,4.9,10860,14076,308,1693,140,4882
+Hyundai,Elantra,5,automatic,68,Sedan,3.8,6021,8380,204,1631,274,5435
+Hyundai,Azera,5,automatic,68,Sedan,3.8,15523,20397,122,3417,215,6387
+Honda,Accord,5,automatic,75,Sedan,4.4,10490,15305,443,2766,133,4778
+Ford,Fusion,5,automatic,60,Sedan,4.4,7479,8827,345,3343,286,4497
+Ford,Fusion,5,automatic,51,Sedan,4.1,10115,14895,348,3457,162,6173
+Hyundai,Sonata,5,automatic,49,Sedan,3.8,9688,13941,195,3247,192,4402
+Honda,Civic,5,automatic,77,Coupe,4.6,9308,12301,212,3023,320,4957
+Ford,Fusion,5,automatic,40,Sedan,3.8,11240,13364,401,2747,377,4739
+Honda,Odyssey,5,automatic,50,Minivan,4.7,16937,24418,288,3288,309,6498
+Ford,Fusion,5,automatic,44,Sedan,4.5,11270,14026,158,3153,318,4703
+Honda,Accord,5,automatic,49,Sedan,5.0,14526,19453,265,3920,112,5942
+Hyundai,Genesis,5,automatic,74,Sedan,3.8,10755,14821,480,3636,295,6501
+Infiniti,G Sedan,5,automatic,79,G Sedan,3.9,12363,15822,291,1445,180,4466
+Honda,Civic,5,automatic,43,Sedan,3.9,10000,12103,257,1571,109,5866
+Hyundai,Accent,5,automatic,70,Sedan,3.6,7412,8704,265,1784,111,4112
+Ford,Taurus,5,automatic,66,Sedan,4.2,9114,12686,245,2410,95,4059
+Honda,Accord,5,automatic,78,Sedan,4.1,14868,18883,496,2081,172,6947
+Ford,Transit Connect,5,automatic,68,Minivan,4.8,9980,13240,293,3084,120,5739
+Ford,Taurus,5,automatic,63,Sedan,4.4,9369,11420,260,3669,287,5438
+Hyundai,Sonata,5,automatic,48,Sedan,4.3,9160,11624,231,2584,202,4437
+Honda,Crosstour,5,automatic,72,Hatchback,4.2,16130,22237,128,2988,276,6139
+Honda,Civic,5,automatic,53,Sedan,4.6,9376,13759,419,1568,366,6388
+Infiniti,FX,7,automatic,61,SUV,4.0,22733,32967,205,3064,133,5037
+Honda,Crosstour,5,automatic,41,Hatchback,4.7,13891,21064,340,3858,110,5020
+Hyundai,Elantra,5,automatic,46,Sedan,3.6,9036,13411,496,1528,134,5824
+Hyundai,Sonata,5,automatic,75,Sedan,4.4,12008,17068,464,3274,284,4622
+Infiniti,G Convertible,5,automatic,66,G Convertible,4.7,23657,35247,388,2609,114,4120
+Infiniti,G Sedan,5,automatic,52,G Sedan,3.9,15332,24313,265,3106,171,6925
+Infiniti,G Sedan,5,automatic,70,G Sedan,4.9,16831,23198,345,3373,124,4763
+GMC,Yukon,7,automatic,53,SUV,4.3,24420,31171,295,3776,208,4927
+Infiniti,G Coupe,5,automatic,78,G Coupe,3.9,21700,29349,403,2589,362,4700
+Hyundai,Genesis,5,automatic,77,Sedan,4.1,13090,15644,433,2242,197,6426
+Hyundai,Veracruz,7,automatic,59,SUV,3.7,15692,24214,467,3134,274,6331
+Honda,Odyssey,5,automatic,77,Minivan,4.6,24863,31415,478,1432,314,5205
+Honda,Civic,5,automatic,47,Sedan,4.5,11063,17235,178,1500,344,6698
+Honda,Civic,5,automatic,79,Sedan,4.5,9838,13281,405,1545,215,4938
+Infiniti,G Sedan,5,automatic,51,G Sedan,3.8,17043,23970,224,2189,329,6671
+Honda,Civic,5,automatic,73,Coupe,4.9,9953,12740,292,2331,194,6179
+Honda,Accord,5,automatic,54,Sedan,4.0,13777,16781,307,3170,302,4301
+Mercedes-Benz,C-Class,5,automatic,66,Sedan,3.8,21220,25593,490,3808,289,4473
+Infiniti,G Sedan,5,automatic,65,G Sedan,4.8,21469,27409,400,3389,116,4456
+MINI,Cooper Clubman,5,Manual,51,Hatchback,4.4,12619,18501,139,2856,202,4692
+Infiniti,G Sedan,5,automatic,60,G Sedan,3.6,20070,24480,485,2157,225,4721
+MINI,Cooper Clubman,5,automatic,47,Hatchback,3.6,12557,16480,484,3241,221,4678
+MINI,Cooper,5,automatic,51,Hatchback,4.5,11563,16989,146,1698,192,4958
+Kia,Forte,5,automatic,47,Sedan,3.7,8670,11355,145,2600,292,4578
+Jaguar,XJ,5,automatic,68,Sedan,3.6,43809,61379,183,1635,236,6517
+MINI,Cooper,5,automatic,42,Hatchback,3.7,11954,13924,228,3011,94,4721
+Infiniti,G Sedan,5,automatic,70,G Sedan,4.8,19234,26171,324,2665,204,4521
+Mercedes-Benz,E-Class,5,automatic,67,Sedan,4.0,22413,33751,433,1418,319,5206
+Jeep,Liberty,7,automatic,74,SUV,4.8,11537,14774,396,1728,208,5398
+Lexus,IS 250,5,automatic,67,Sedan,4.6,17028,21248,128,1694,223,6457
+MINI,Cooper,5,automatic,51,Hatchback,4.6,11190,14085,408,3118,241,6214
+Infiniti,G Sedan,5,automatic,79,G Sedan,4.7,20005,29020,286,2382,118,5661
+Land Rover,LR4,7,automatic,57,SUV,4.7,40200,53923,259,2385,119,4535
+MINI,Cooper Countryman,5,automatic,58,Wagon,3.5,15162,17438,328,3654,180,5956
+Jaguar,XK,5,automatic,69,Convertible,4.9,46107,66918,238,3037,182,5003
+Lexus,IS 250,5,automatic,43,Sedan,4.2,9475,12445,414,2433,375,6920
+Infiniti,QX,7,automatic,73,SUV,4.5,30948,39337,130,3955,250,4564
+Lexus,RX 350,7,automatic,45,SUV,3.5,19032,28556,420,3411,120,5603
+Infiniti,G Sedan,5,automatic,59,G Sedan,3.8,19846,26154,355,1425,186,6186
+Infiniti,G Coupe,5,automatic,62,G Coupe,4.3,17848,26769,193,2847,133,5073
+MINI,Cooper,5,automatic,61,Hatchback,4.8,12530,15363,195,1442,319,4567
+Lexus,CT 200h,5,automatic,71,Hatchback,4.8,20923,31098,349,2247,327,6292
+Jeep,Wrangler,7,automatic,71,SUV,3.6,22515,26714,120,2337,99,5197
+MINI,Cooper,5,automatic,50,Hatchback,3.8,9949,13898,346,2401,331,5529
+Mazda,Mazda6,5,automatic,51,Sedan,4.8,8217,10661,435,2400,334,6800
+Lincoln,MKZ,5,automatic,59,Sedan,4.1,12460,17268,441,3747,157,4331
+Lexus,RX 350,7,automatic,66,SUV,4.9,20407,28159,389,2102,400,4096
+Kia,Sorento,7,automatic,53,SUV,3.6,10327,15381,240,3485,372,5623
+MINI,Cooper Clubman,5,manual,40,Hatchback,4.9,16606,23948,293,3517,124,5311
+Lincoln,Navigator,7,automatic,55,SUV,4.4,29304,36384,136,1513,196,4370
+MINI,Cooper,5,automatic,52,Hatchback,4.9,12545,14921,191,2720,284,4766
+Jaguar,XJ,5,automatic,51,Sedan,3.7,46984,57831,397,1482,195,6993
+Lexus,RX 350,7,automatic,48,SUV,3.9,29139,35918,230,3821,213,4523
+Infiniti,G Sedan,5,automatic,74,G Sedan,4.4,21186,25763,153,1409,98,6226
+Kia,Forte,5,automatic,58,Hatchback,3.9,6255,7512,147,1716,394,4017
+Kia,Sportage,7,automatic,46,SUV,4.8,15023,19884,164,1501,229,5652
+Mazda,Mazda6,5,automatic,41,Sedan,4.8,14612,16916,341,3429,273,4327
+MINI,Cooper,5,automatic,55,Hatchback,3.8,14457,17383,178,1537,383,6641
+Lincoln,Navigator,7,Manual,74,SUV,4.8,28923,37916,324,2214,209,6644
+MINI,Cooper,5,automatic,48,Hatchback,4.0,12007,17017,293,1731,296,5876
+Jeep,Grand Cherokee,7,automatic,53,SUV,3.6,15372,21699,410,2653,358,6295
+Lexus,RX 350,7,automatic,73,SUV,3.7,24229,32430,364,1612,386,6563
+MINI,Cooper,5,manual,43,Hatchback,4.2,13052,17774,343,2676,94,5421
+Jeep,Wrangler,7,automatic,48,SUV,3.9,18402,26620,370,2514,149,6843
+Lexus,IS 250,5,automatic,77,Sedan,4.5,15290,24026,197,3309,192,4658
+Jaguar,XJ,5,automatic,58,Sedan,4.4,34214,52273,247,3296,128,6565
+MINI,Cooper,5,automatic,64,Hatchback,4.4,11581,18132,198,3501,184,5944
+Jaguar,XK,5,automatic,56,Convertible,4.2,47985,59401,490,1880,222,4770
+Infiniti,G Sedan,5,automatic,80,G Sedan,3.6,13955,20350,422,1833,135,6603
+Infiniti,G Sedan,5,automatic,42,G Sedan,4.3,18265,21779,185,3728,259,5286
+MINI,Cooper Clubman,5,automatic,72,Hatchback,3.8,15271,24193,133,2188,282,4386
+Mercedes-Benz,C-Class,5,automatic,54,Sedan,4.4,17959,26203,164,2847,190,5500
+Infiniti,G Sedan,5,automatic,57,G Sedan,4.2,16982,22978,300,2050,280,5598
+Infiniti,M,5,automatic,60,Sedan,4.0,26436,32109,290,3827,237,6370
+Jaguar,XK,5,automatic,40,Coupe,5.0,39515,45702,468,3207,134,5812
+Mercedes-Benz,E-Class,5,automatic,66,Convertible,4.5,23661,34585,236,3066,172,6482
+Infiniti,G Sedan,5,manual,41,G Sedan,5.0,23304,26800,334,1808,292,6920
+MINI,Cooper,5,manual,62,Hatchback,3.7,9519,14484,305,2660,221,6239
+Mercedes-Benz,C-Class,5,automatic,80,Sedan,4.3,20817,24042,345,2637,256,5680
+MINI,Cooper,5,automatic,45,Hatchback,3.9,14973,18594,441,1810,152,4950
+Infiniti,G Sedan,5,automatic,67,G Sedan,4.5,19140,24438,189,1576,291,5319
+Infiniti,M,5,automatic,52,Sedan,4.5,22293,31501,327,1515,327,5867
+Jaguar,XF,5,automatic,41,Sedan,4.7,27418,37122,203,2194,382,6385
+Infiniti,M,5,automatic,49,Sedan,4.7,20678,25935,233,2262,305,4119
+Mazda,CX-9,7,automatic,74,SUV,4.9,22554,27816,202,2554,273,5705
+Infiniti,M,5,automatic,42,Sedan,4.2,22920,34027,187,3852,186,4831
+Kia,Sportage,7,automatic,74,SUV,4.4,12534,15601,176,2883,218,6116
+Mercedes-Benz,E-Class,5,automatic,72,Coupe,4.3,21477,32888,166,1552,124,6774
+Infiniti,M,5,automatic,44,Sedan,3.7,22501,33083,331,3247,133,5977
+MINI,Cooper,5,manual,55,Hatchback,4.0,12694,17441,317,2915,313,4850
+MINI,Cooper,5,automatic,80,Hatchback,4.3,11471,14981,374,2870,281,6662
+Mazda,Mazda3,5,automatic,54,Sedan,4.8,10944,16639,249,2640,176,6702
+Kia,Sorento,7,automatic,63,SUV,4.7,13154,15238,185,3213,266,6897
+MINI,Cooper,5,automatic,62,Hatchback,4.7,11353,15083,386,1297,218,6177
+MINI,Cooper,5,automatic,60,Hatchback,4.2,14644,18616,122,2328,295,6360
+Mercedes-Benz,C-Class,5,automatic,59,Sedan,4.0,17157,25560,326,3761,164,6438
+Kia,Forte,5,automatic,67,Sedan,5.0,8553,12361,248,3157,269,5715
+Land Rover,Range Rover,7,automatic,80,SUV,4.9,33044,44191,167,1259,365,4418
+Jaguar,XF,5,automatic,52,Sedan,4.8,28276,36430,267,2542,341,4526
+Infiniti,G Sedan,5,automatic,72,G Sedan,4.2,21748,27811,348,3389,257,5384
+MINI,Cooper Countryman,5,automatic,51,Wagon,4.7,15090,23489,283,2365,136,4266
+Infiniti,G Coupe,5,automatic,51,G Coupe,4.1,17753,23596,392,1400,271,6727
+Kia,Sorento,7,automatic,55,SUV,4.6,13096,19224,120,1782,317,4460
+MINI,Cooper,5,automatic,73,Convertible,4.3,15230,20376,335,2740,126,5493
+Infiniti,G Sedan,5,automatic,79,G Sedan,4.8,17916,26911,141,1657,238,4379
+Kia,Optima,5,automatic,80,Sedan,3.9,14042,20174,230,1551,285,5105
+MINI,Cooper,5,automatic,79,Hatchback,3.7,12221,17412,250,1824,221,5891
+Infiniti,M,5,automatic,40,Sedan,4.1,24705,30716,470,2842,130,4439
+Jeep,Grand Cherokee,7,automatic,46,SUV,3.9,12149,16400,154,3878,131,6208
+MINI,Cooper,5,manual,54,Hatchback,4.2,15075,19231,358,1857,276,5942
+Jaguar,XF,5,automatic,60,Sedan,3.8,26416,32133,310,2828,146,6596
+Kia,Forte,5,automatic,60,Koup,4.3,10674,13940,305,1908,217,5822
+Mercedes-Benz,SL-Class,5,automatic,70,Convertible,4.6,54797,68076,369,2794,354,6104
+MINI,Cooper,5,automatic,66,Hatchback,3.8,11664,14867,305,1272,399,5680
+Kia,Optima,5,automatic,78,Sedan,4.3,12181,16417,285,1934,295,6609
+MINI,Cooper,5,automatic,48,Hatchback,4.6,12397,18756,414,3844,261,6347
+Infiniti,G Sedan,5,automatic,59,G Sedan,4.6,17494,25514,308,2343,259,4144
+Lexus,RX 350,7,automatic,75,SUV,3.8,26410,32168,254,1676,246,4456
+Infiniti,G Sedan,5,automatic,46,G Sedan,3.6,20068,25061,261,2081,234,6411
+Mercedes-Benz,C-Class,5,automatic,79,Sedan,3.7,20095,24660,359,1855,389,5493
+Mazda,Mazda6,5,automatic,57,Sedan,4.0,9916,11432,446,2472,106,5534
+MINI,Cooper,5,manual,69,Hatchback,4.5,10081,15486,159,1759,335,6655
+Mercedes-Benz,C-Class,5,automatic,54,Sedan,4.7,17983,23905,428,2382,254,4184
+Infiniti,G Sedan,5,automatic,76,G Sedan,3.6,14306,21207,267,3614,267,5283
+MINI,Cooper,5,automatic,49,Convertible,3.9,13836,17922,486,2885,271,4067
+Kia,Soul,5,automatic,64,Wagon,3.9,8830,11452,205,2767,174,4595
+Jaguar,XJ,5,automatic,77,Sedan,4.3,32946,39302,236,2598,125,4275
+Mazda,Mazda3,5,automatic,55,Sedan,4.5,9354,14071,354,3351,252,6942
+Mercedes-Benz,E-Class,5,automatic,75,Sedan,4.4,21362,27621,283,1305,241,4432
+Infiniti,G Sedan,5,automatic,48,G Sedan,3.8,17815,24729,328,3241,272,6334
+MINI,Cooper,5,automatic,45,Convertible,5.0,14053,15966,393,3844,217,4180
+Mercedes-Benz,E-Class,5,automatic,75,Sedan,3.7,23736,30982,351,1560,342,4928
+MINI,Cooper Coupe,5,automatic,53,Hatchback,3.8,14885,19456,489,1789,172,6186
+Mazda,Mazda3,5,automatic,70,Hatchback,4.1,12866,15987,410,1683,244,5510
+Infiniti,G Coupe,5,automatic,71,G Coupe,3.7,18287,24187,333,3798,311,5011
+Infiniti,G Sedan,5,automatic,77,G Sedan,4.6,17172,24399,467,3057,315,5163
+Jaguar,XJ,5,automatic,43,Sedan,3.9,33203,44398,345,2196,279,5009
+Lexus,RX 350,7,automatic,52,SUV,3.8,24841,32823,313,2412,139,4885
+Infiniti,G Coupe,5,automatic,55,G Coupe,3.9,16301,21394,187,1867,266,5307
+Infiniti,M,5,automatic,58,Sedan,4.7,19811,30684,408,1293,345,6759
+Infiniti,G Sedan,5,automatic,68,G Sedan,4.9,20244,26494,200,1206,341,4001
+Kia,Sedona,5,automatic,62,Minivan,4.6,7511,9523,143,2375,312,6486
+Infiniti,M,5,automatic,49,Sedan,4.8,23922,31308,484,1348,357,6099
+Mercedes-Benz,E-Class,5,automatic,80,Convertible,4.8,23161,30102,401,1918,141,5720
+Infiniti,G Sedan,5,automatic,52,G Sedan,3.8,18340,25163,289,1609,364,6296
+Infiniti,G Coupe,5,automatic,51,G Coupe,4.6,20077,25452,465,1849,243,6352
+MINI,Cooper,5,manual,61,Hatchback,4.1,9349,13091,258,1574,287,6988
+Lexus,IS 250,5,automatic,73,Sedan,4.3,21008,25066,416,2258,307,5951
+MINI,Cooper,5,automatic,80,Hatchback,3.5,13399,17986,494,3977,153,5232
+Lexus,IS 250,5,automatic,53,Sedan,4.2,20216,25930,271,2098,133,6751
+Kia,Soul,5,automatic,42,Wagon,4.2,7798,10365,346,2446,255,5201
+Jeep,Wrangler,7,automatic,67,SUV,4.7,21003,25619,369,1826,111,5779
+Land Rover,Range Rover Sport,7,automatic,49,SUV,4.8,41670,54399,353,1316,253,6545
+MINI,Cooper,5,automatic,54,Hatchback,4.3,12981,18128,411,1723,302,5643
+Kia,Optima,5,automatic,45,Sedan,4.2,15387,20314,293,3400,372,6395
+Infiniti,M,5,automatic,77,Sedan,4.0,24355,28955,370,2205,353,4866
+MINI,Cooper,5,automatic,68,Hatchback,3.9,13994,16029,343,2937,333,6171
+Mazda,Mazda3,5,automatic,73,Hatchback,4.1,13584,15786,156,2803,173,6010
+Kia,Optima,5,automatic,80,Sedan,4.5,13608,19793,130,3169,111,4475
+Infiniti,QX,7,automatic,61,SUV,4.4,38655,49487,256,3223,150,4309
+Infiniti,G Sedan,5,automatic,47,G Sedan,4.9,17329,22298,225,3822,267,6870
+Kia,Optima,5,automatic,62,Sedan,4.0,8201,12751,390,2708,237,5533
+Mercedes-Benz,C-Class,5,automatic,45,Sedan,4.7,17740,25608,250,1730,355,6501
+Infiniti,G Coupe,5,automatic,67,G Coupe,4.5,19539,22169,257,1330,153,6853
+Infiniti,G Sedan,5,automatic,71,G Sedan,4.1,18343,26672,175,2876,349,5380
+Infiniti,G Sedan,5,automatic,59,G Sedan,3.8,15884,23122,249,3727,157,4909
+Jeep,Wrangler,7,automatic,45,SUV,3.8,18279,22009,212,2689,240,5972
+Infiniti,G Sedan,5,automatic,40,G Sedan,4.3,18386,25532,200,1685,104,6676
+MINI,Cooper,5,manual,46,Hatchback,3.6,11257,15213,279,3278,322,6366
+MINI,Cooper,5,automatic,41,Hatchback,4.2,13384,17749,216,2373,303,5265
+Infiniti,M,5,automatic,44,Sedan,4.0,23772,30782,342,3451,293,5518
+Jaguar,XJ,5,automatic,54,Sedan,3.6,30680,37455,283,2052,174,6975
+Lexus,ES 350,5,automatic,73,Sedan,4.2,20039,30356,269,1716,106,6702
+Jaguar,XF,5,automatic,68,Sedan,4.9,26252,33197,348,3334,137,6242
+Mazda,Mazda3,5,manual,44,Sedan,3.6,8197,11959,306,1221,200,5582
+Kia,Soul,5,automatic,68,Wagon,4.3,10264,13661,263,1640,346,6877
+MINI,Cooper,5,automatic,40,Hatchback,4.8,15629,17930,122,1551,120,4303
+MINI,Cooper,5,manual,71,Hatchback,4.6,14184,17721,473,1476,219,5154
+Lincoln,MKZ,5,automatic,78,Sedan,3.8,12918,15655,334,3655,116,4161
+Infiniti,G Sedan,5,automatic,69,G Sedan,4.3,18309,21886,232,3902,195,5874
+Kia,Optima,5,automatic,75,Sedan,4.8,14727,18738,296,1481,310,5675
+Kia,Optima,5,automatic,44,Sedan,4.2,13307,18004,465,3397,118,4778
+MINI,Cooper Coupe,5,automatic,71,Hatchback,4.7,11690,15478,245,2720,217,6889
+Kia,Optima,5,automatic,57,Sedan,4.3,13954,17734,198,3748,159,5170
+Infiniti,G Coupe,5,automatic,55,G Coupe,4.2,16642,24195,326,3381,276,4610
+MINI,Cooper Countryman,5,automatic,42,Wagon,3.6,15105,22992,137,1875,284,4966
+Mercedes-Benz,E-Class,5,automatic,47,Sedan,3.9,27509,31946,202,1888,351,5254
+Infiniti,M,5,automatic,41,Sedan,4.5,23471,35966,238,3637,103,6622
+Infiniti,G Coupe,5,manual,44,G Coupe,4.3,22075,28121,388,1222,345,6886
+Lexus,IS 250,5,automatic,45,Sedan,4.5,18378,24479,371,1484,263,4546
+Infiniti,G Coupe,5,manual,78,G Coupe,4.2,22373,33516,352,1441,214,6270
+nan,nan,5,automatic,65,nan,4.5,36968,45622,190,2508,100,4072
+Mazda,Mazda5,5,automatic,65,Minivan,4.0,8870,13733,373,3102,302,6235
+Kia,Soul,5,automatic,69,Wagon,4.4,3317,4087,309,2685,215,5363
+Lexus,ES 350,5,automatic,55,Sedan,4.5,19417,28305,287,2803,381,4467
+Lexus,IS 250,5,automatic,78,Sedan,4.4,19942,24936,438,3246,140,6018
+Infiniti,G Sedan,5,automatic,79,G Sedan,3.8,17458,25842,399,2660,165,6302
+Infiniti,M,5,automatic,54,Sedan,4.9,22746,29544,143,2469,273,5213
+Infiniti,G Sedan,5,automatic,74,G Sedan,3.7,19691,30134,326,1416,380,4252
+Kia,Sorento,7,automatic,61,SUV,4.1,17134,22259,479,3718,270,5061
+Infiniti,G Sedan,5,automatic,79,G Sedan,4.4,14384,19072,186,1741,137,4330
+Infiniti,G Sedan,5,automatic,49,G Sedan,4.6,18936,25843,246,3632,362,4346
+Jeep,Liberty,7,automatic,63,SUV,4.7,12338,15292,235,1694,169,5722
+Infiniti,G Sedan,5,automatic,50,G Sedan,4.9,17195,23343,329,2420,326,5249
+Infiniti,G Sedan,5,automatic,62,G Sedan,4.1,19075,25153,412,3070,197,6707
+Infiniti,M,5,automatic,67,Sedan,4.7,24398,33269,292,3402,393,4128
+MINI,Cooper,5,automatic,77,Hatchback,4.4,11152,17318,350,1679,324,4318
+Infiniti,M,5,automatic,57,Sedan,4.5,21267,27918,343,3976,225,6588
+Infiniti,G Sedan,5,automatic,59,G Sedan,3.9,17789,24657,226,1449,335,6305
+Infiniti,G Coupe,5,automatic,41,G Coupe,4.3,18901,27027,421,1530,304,6800
+Infiniti,G Coupe,5,automatic,63,G Coupe,4.6,21302,27894,151,1401,395,5069
+Lexus,IS 350,5,automatic,47,Sedan,3.7,17476,26612,200,2128,160,5487
+Mazda,Mazda3,5,automatic,69,Sedan,3.6,9714,14561,362,2558,204,5703
+Infiniti,G Sedan,5,automatic,77,G Sedan,3.8,21217,29487,359,1480,109,5611
+MINI,Cooper,5,automatic,47,Hatchback,4.9,11649,16956,265,1678,185,4716
+Mercedes-Benz,C-Class,5,automatic,71,Sedan,4.4,20700,26898,439,1952,341,5059
+nan,nan,5,automatic,53,nan,3.6,39611,49133,469,1277,117,4230
+MINI,Cooper,5,manual,57,Hatchback,3.7,12093,15007,437,2404,97,5692
+Infiniti,M,5,automatic,52,Sedan,3.7,22908,30670,363,2085,116,5319
+Jeep,Liberty,7,automatic,56,SUV,4.1,14162,16686,214,1337,164,6041
+MINI,Cooper,5,automatic,80,Hatchback,4.8,10315,13159,349,2437,103,5957
+Infiniti,M,5,automatic,79,Sedan,4.0,27852,32470,377,3034,363,4165
+Jaguar,XF,5,automatic,64,Sedan,3.9,28650,34326,383,3127,244,4923
+MINI,Cooper,5,automatic,56,Hatchback,3.6,11560,14285,288,2199,336,4258
+Mercedes-Benz,E-Class,5,automatic,66,Sedan,4.6,24791,34673,415,2116,100,5453
+Jeep,Patriot,7,automatic,46,SUV,3.8,5375,6937,133,2516,251,5003
+Infiniti,G Sedan,5,automatic,50,G Sedan,4.5,19242,25470,127,2910,115,6533
+Kia,Forte,5,automatic,70,Sedan,4.2,5801,7361,141,3957,251,4438
+Mercedes-Benz,C-Class,5,automatic,75,Sedan,4.4,16171,25810,357,3556,242,6509
+Infiniti,G Sedan,5,automatic,46,G Sedan,4.5,18147,22615,422,1216,284,4090
+Kia,Sedona,5,Automatic,65,Minivan,4.7,7779,11007,153,1495,343,4422
+MINI,Cooper,5,automatic,70,Hatchback,4.5,12121,15573,403,1214,94,6982
+Infiniti,M,5,automatic,47,Sedan,4.1,21958,28204,255,1753,337,4747
+Lincoln,Navigator,7,Automatic,51,SUV,4.8,26232,38189,274,3949,224,4787
+Land Rover,Range Rover Sport,7,automatic,47,SUV,4.2,30387,36322,170,1559,230,5633
+MINI,Cooper,5,manual,48,Hatchback,4.7,16361,20130,431,3845,262,4458
+Infiniti,G Sedan,5,automatic,43,G Sedan,4.8,19037,23786,382,3761,99,5576
+Mazda,Mazda3,5,automatic,44,Sedan,4.9,7889,10769,220,1706,114,5253
+Nissan,Altima,5,automatic,66,Sedan,4.3,8821,11650,390,2934,90,5576
+Mercedes-Benz,S-Class,5,automatic,54,Sedan,3.5,32582,49083,388,3458,294,4101
+mitsubishi,galant,5,automatic,58,nan,3.6,7886,10512,270,3741,380,5877
+Nissan,Sentra,5,automatic,52,Sedan,3.9,8810,11976,295,2646,322,6356
+Mercedes-Benz,SL-Class,5,automatic,61,Convertible,4.5,18429,22341,208,3660,189,4076
+Nissan,Versa,5,Manual,56,Hatchback,3.6,6998,9665,479,2423,100,4961
+Nissan,Leaf,5,automatic,47,Hatchback,4.0,11239,15429,396,1934,343,5123
+Nissan,Altima,5,automatic,40,Sedan,3.5,10716,14990,448,1717,339,4232
+Ram,1500,5,Automatic,53,Regular Cab,3.9,20637,27221,188,2418,287,6794
+Nissan,Altima,5,automatic,74,Sedan,3.8,8665,10478,218,1680,286,5142
+Ram,1500,5,automatic,56,Regular Cab,3.6,9299,12645,481,1348,367,4547
+Nissan,Altima,5,automatic,67,Sedan,4.9,10897,14736,337,2145,350,4251
+Nissan,Versa,5,Automatic,46,Hatchback,3.8,7693,10851,335,2208,104,6059
+Nissan,Altima,5,automatic,46,Sedan,3.5,7217,9174,307,2449,97,6242
+Nissan,Sentra,5,Manual,45,Sedan,4.4,4747,6135,292,3807,379,4308
+Toyota,Avalon,5,automatic,63,Sedan,4.2,15655,19721,413,3997,119,5004
+Nissan,Maxima,5,automatic,41,Sedan,3.9,9118,11385,482,3943,363,6959
+mitsubishi,galant,5,automatic,61,nan,4.4,6987,8677,181,2016,231,6990
+mitsubishi,galant,5,automatic,63,nan,4.2,7023,8814,480,2602,211,6737
+Nissan,Altima,5,automatic,48,Sedan,4.5,9131,11284,496,3217,296,6662
+Nissan,Versa,5,automatic,65,Hatchback,4.2,2321,3141,137,2677,371,5169
+Nissan,Altima,5,automatic,52,Sedan,4.1,9834,12415,154,3365,108,4952
+Nissan,Altima,5,automatic,61,Sedan,4.9,10565,12763,459,1510,185,6432
+Nissan,Altima,5,automatic,62,Sedan,3.9,10165,13516,493,2254,247,5071
+Nissan,Altima,5,automatic,77,Sedan,4.2,10982,16198,199,1952,266,6682
+Nissan,Versa,5,automatic,80,Hatchback,4.9,7455,10318,412,2624,264,4767
+Nissan,Altima,5,automatic,66,Sedan,4.2,9802,13860,251,3192,132,4877
+Nissan,NV,5,automatic,62,Van,4.5,9374,13160,193,3516,171,6859
+Nissan,Maxima,5,automatic,75,Sedan,5.0,12920,16054,220,1370,308,6680
+Subaru,Impreza,5,manual,50,Hatchback,4.1,21138,29106,335,2150,180,5259
+Toyota,Camry Hybrid,5,automatic,78,Sedan,4.0,12490,18464,240,1892,210,4202
+Nissan,Altima,5,automatic,68,Sedan,4.9,12280,16888,349,3710,250,5184
+Nissan,Altima,5,automatic,51,Sedan,4.6,9603,12735,175,2982,206,5300
+Nissan,Sentra,5,automatic,59,Sedan,4.5,6424,8114,385,2257,213,6128
+Nissan,Armada,7,automatic,46,SUV,3.9,22852,32368,475,1708,381,6378
+Nissan,GT-R,5,automatic,48,Coupe,4.9,50183,64439,479,3032,331,4561
+Nissan,Leaf,5,automatic,68,Hatchback,3.7,9406,14166,321,2186,107,6724
+Mercedes-Benz,M-Class,7,automatic,73,SUV,4.6,30537,45657,394,3486,186,4416
+Mercedes-Benz,M-Class,7,automatic,42,SUV,4.8,29793,39753,302,3335,180,4452
+Nissan,Altima,5,automatic,53,Sedan,4.4,8550,11682,132,1915,241,4767
+Nissan,Versa,5,automatic,44,Hatchback,3.9,6895,9770,259,3241,195,4100
+mitsubishi,galant,5,automatic,75,nan,4.6,4880,7299,404,2825,300,4757
+Mercedes-Benz,GL-Class,7,automatic,50,SUV,5.0,26024,36481,491,2875,183,6269
+Nissan,Leaf,5,automatic,68,Hatchback,4.3,8646,12564,254,2282,316,6632
+Mercedes-Benz,GL-Class,7,automatic,51,SUV,4.4,25574,30890,216,3554,371,4666
+Porsche,Cayenne,7,automatic,69,SUV,4.7,33951,48912,484,3093,127,6830
+Nissan,Armada,7,automatic,44,SUV,4.2,22434,29327,349,2574,91,6902
+Nissan,Altima,5,automatic,51,Sedan,4.1,12466,18558,273,1720,299,5820
+Porsche,Panamera,5,automatic,60,Sedan,4.2,40506,53311,366,1572,183,6263
+Toyota,Camry,5,automatic,48,Sedan,4.6,11277,16566,347,2607,188,4967
+Nissan,Altima,5,automatic,61,Sedan,3.6,13278,16164,489,1400,394,5502
+Subaru,Forester,7,automatic,50,SUV,4.3,14974,18015,209,3987,293,5423
+Ram,1500,5,automatic,40,Quad Cab,3.9,14713,19310,404,2527,355,5039
+Nissan,Altima,5,automatic,42,Sedan,4.2,10408,13486,185,3185,354,4141
+Porsche,Panamera,5,automatic,73,Sedan,5.0,48722,55680,481,2687,243,6027
+Scion,tC,5,automatic,53,Hatchback,4.3,10516,15225,379,3518,101,5892
+Mercedes-Benz,GL-Class,7,automatic,45,SUV,4.4,21853,27341,210,1407,302,5276
+Nissan,Altima,5,automatic,77,Sedan,4.7,10001,13396,462,2769,191,6022
+Nissan,Altima,5,automatic,43,Coupe,3.8,8328,12674,298,1791,234,4220
+Porsche,Cayenne,7,automatic,77,SUV,4.6,37245,49510,262,2977,175,4307
+mitsubishi,galant,5,automatic,66,nan,3.6,5452,7839,398,2525,191,5731
+Nissan,Sentra,5,automatic,63,Sedan,3.7,4655,5524,481,1626,103,5735
+Mercedes-Benz,S-Class,5,automatic,60,Sedan,4.6,26589,39454,285,1886,129,6074
+Scion,tC,5,manual,72,Hatchback,3.6,12288,16259,471,2818,308,5632
+Nissan,Altima,5,automatic,46,Sedan,3.9,7573,10020,122,1997,295,4617
+Nissan,Altima,5,automatic,77,Sedan,4.4,16430,23128,408,2887,204,5503
+Nissan,Versa,5,Automatic,53,Hatchback,3.6,10083,12395,137,2049,108,6846
+Nissan,Altima,5,automatic,74,Sedan,4.8,12520,16725,163,2025,295,4799
+Mercedes-Benz,S-Class,5,automatic,40,Sedan,3.5,32678,43747,459,3844,302,4342
+Mercedes-Benz,GL-Class,7,automatic,44,SUV,3.9,21047,32086,410,3696,246,6127
+Nissan,Altima,5,automatic,74,Sedan,3.8,10792,13807,319,3735,274,5852
+Ram,1500,5,automatic,42,Quad Cab,4.7,13852,18105,202,3790,302,5813
+Mercedes-Benz,S-Class,5,automatic,40,Sedan,4.6,36653,48369,399,1411,245,4013
+Nissan,Altima,5,automatic,75,Sedan,3.8,12138,14774,306,2184,194,6039
+Mercedes-Benz,GL-Class,7,automatic,56,SUV,4.9,21912,32880,394,1290,208,5285
+Ram,2500,5,manual,65,Crew Cab,3.7,30589,39398,472,3365,129,4192
+Nissan,Altima,5,automatic,74,Sedan,4.7,12426,15846,274,2351,115,5457
+Nissan,Sentra,5,Automatic,74,Sedan,3.8,6698,10175,211,1241,391,4194
+Nissan,Sentra,5,Manual,56,Sedan,4.8,6480,9445,300,2990,199,5747
+Porsche,911,5,automatic,46,Coupe,4.9,59838,93678,365,2871,226,4896
+Nissan,Altima,5,automatic,60,Sedan,4.8,11103,15403,474,2490,356,5901
+Nissan,Altima,5,automatic,70,Sedan,3.8,10191,13236,288,2058,385,4715
+Nissan,Leaf,5,automatic,63,Hatchback,3.9,10116,13351,451,3739,322,6012
+Nissan,Altima,5,automatic,46,Sedan,4.5,10517,13125,259,2459,352,4815
+Nissan,Altima,5,automatic,63,Sedan,4.5,8650,12225,124,3851,200,5181
+Nissan,Altima,5,automatic,55,Sedan,3.9,12300,16013,467,3080,307,5364
+Nissan,Altima,5,automatic,51,Sedan,4.7,10377,15115,487,2402,122,5444
+Mercedes-Benz,GL-Class,7,automatic,59,SUV,4.2,24292,35809,122,3885,152,4422
+Nissan,Versa,5,automatic,52,Hatchback,4.6,8023,10399,281,3013,272,6603
+Nissan,Rogue,7,automatic,71,SUV,4.4,13706,20391,226,2969,320,5969
+Nissan,Altima,5,automatic,62,Sedan,4.5,11572,16268,381,2859,355,5068
+Nissan,Altima,5,automatic,71,Sedan,4.8,12345,16721,174,3948,333,4443
+Nissan,Altima,5,automatic,45,Sedan,4.2,10596,13594,400,1645,324,5945
+Nissan,Altima,5,automatic,76,Coupe,4.5,14450,16925,411,3969,111,4475
+Nissan,Altima,5,automatic,60,Sedan,5.0,11950,16097,341,2431,137,4949
+Nissan,Altima,5,automatic,40,Sedan,4.8,11341,15604,338,2062,271,6144
+Porsche,Panamera,5,automatic,51,Sedan,3.8,45757,53361,335,2054,195,4400
+Scion,xB,5,automatic,52,Wagon,4.3,11701,14647,183,2564,299,5805
+Porsche,Cayenne,7,automatic,72,SUV,4.3,40033,53576,291,2408,325,5068
+Nissan,Altima,5,automatic,51,Sedan,4.9,7759,9646,289,1689,112,5568
+Mitsubishi,Galant,5,automatic,72,Sedan,4.5,7778,11435,497,2792,385,5677
+Nissan,Altima,5,automatic,61,Sedan,5.0,9853,15468,298,1578,345,5338
+Nissan,Altima,5,automatic,67,Sedan,4.2,10259,12718,334,1908,215,4105
+Toyota,Camry,5,automatic,68,Sedan,4.6,10458,13830,296,2938,222,6105
+Nissan,Altima,5,automatic,56,Sedan,4.7,10104,12238,282,3785,256,4731
+Nissan,Frontier,5,automatic,42,King Cab,4.4,4705,6554,252,1479,355,4649
+Nissan,Altima,5,automatic,61,Sedan,4.1,12024,16270,184,2211,386,6046
+Nissan,Altima,5,automatic,46,Sedan,4.9,8881,10860,288,3171,167,4525
+Mercedes-Benz,E-Class,5,automatic,49,Sedan,4.4,19735,30824,478,3266,305,5236
+Mercedes-Benz,S-Class,5,automatic,40,Sedan,4.3,35147,54629,299,1464,129,5151
+Nissan,Altima,5,automatic,71,Sedan,5.0,9949,14043,201,3839,385,6890
+Toyota,Camry,5,automatic,51,Sedan,4.6,4400,5126,191,3189,158,5919
+Nissan,Altima,5,automatic,76,Sedan,3.9,10045,14362,482,3182,329,6095
+Mercedes-Benz,M-Class,7,automatic,67,SUV,4.8,26718,37551,254,1352,377,5610
+Nissan,Altima,5,automatic,43,Coupe,4.3,10158,13866,493,2754,222,5305
+Nissan,Armada,7,automatic,71,SUV,3.6,20506,25673,313,3039,203,6971
+Nissan,Altima,5,automatic,45,Sedan,4.0,9275,11705,127,3772,175,6387
+Nissan,Altima,5,automatic,50,Sedan,3.5,9454,14106,145,2715,259,6748
+Nissan,Leaf,5,automatic,66,Hatchback,4.7,11338,15899,369,1824,270,6300
+Nissan,Altima,5,automatic,72,Sedan,3.7,10112,14793,192,2899,326,6300
+Mitsubishi,Outlander Sport,7,automatic,45,SUV,3.8,10557,12839,173,1960,154,6262
+Nissan,Altima,5,automatic,80,Sedan,3.7,11841,13224,468,2185,247,6611
+Mercedes-Benz,GL-Class,7,automatic,65,SUV,3.7,25345,35641,473,3690,156,5986
+Nissan,Altima,5,automatic,76,Sedan,4.4,10956,13497,267,3774,103,4580
+Mitsubishi,Outlander,7,automatic,61,SUV,3.8,12204,13712,160,3953,145,6135
+Nissan,Rogue,7,automatic,72,SUV,4.4,14326,19108,359,2666,287,6243
+Nissan,Altima,5,automatic,75,Sedan,3.6,8798,13878,434,2005,179,6261
+Nissan,Altima,5,automatic,61,Sedan,4.3,12681,15493,396,2816,96,4168
+Subaru,Impreza,5,manual,44,Sedan,3.7,18702,22831,440,2735,112,5635
+Nissan,Leaf,5,automatic,55,Hatchback,4.8,7348,10798,319,1669,368,4167
+Nissan,Leaf,5,automatic,58,Hatchback,4.8,10634,13314,427,1440,263,6184
+Nissan,Altima,5,automatic,78,Sedan,4.2,9644,12228,406,2606,372,5791
+Nissan,Altima,5,automatic,61,Sedan,4.6,10713,14219,252,2001,256,5269
+Nissan,Sentra,5,automatic,57,Sedan,4.5,8568,12717,395,2504,131,5001
+Nissan,Leaf,5,automatic,61,Hatchback,4.4,9256,13473,150,2605,285,4427
+Nissan,Versa,5,automatic,79,Hatchback,4.6,8192,11014,132,3778,212,5977
+Nissan,Rogue,7,automatic,65,SUV,4.4,12250,16893,473,1738,337,6629
+Nissan,Altima,5,automatic,41,Sedan,3.6,14678,17254,337,3170,391,6564
+Nissan,Altima,5,automatic,61,Sedan,4.4,10404,13339,170,2920,246,6359
+Subaru,Legacy,5,automatic,72,Sedan,4.4,10627,15227,463,3782,166,6209
+Mercedes-Benz,GL-Class,7,automatic,50,SUV,3.8,22781,26897,489,2437,334,6345
+Mitsubishi,Outlander,7,automatic,44,SUV,4.0,11699,13336,370,2890,392,5011
+Nissan,Rogue,7,automatic,63,SUV,4.0,11002,14037,158,2296,142,4352
+Mercedes-Benz,GL-Class,7,automatic,40,SUV,3.5,24520,27905,173,3174,94,5492
+Nissan,Frontier,5,automatic,51,Crew Cab,4.0,11805,16790,450,2404,264,6292
+Mercedes-Benz,M-Class,7,automatic,51,SUV,3.7,25470,35571,428,3394,123,5732
+Mercedes-Benz,GL-Class,7,automatic,63,SUV,4.6,26489,31491,494,2644,390,5359
+Nissan,Altima,5,automatic,77,Coupe,4.8,12672,15331,478,1480,94,4061
+Nissan,Altima,5,automatic,73,Sedan,4.9,6800,9282,470,3922,347,4252
+Mercedes-Benz,GL-Class,7,automatic,50,SUV,3.8,30910,46365,194,3518,156,5994
+Nissan,Altima,5,automatic,45,Sedan,3.9,11452,14455,191,3664,337,6919
+Nissan,Rogue,7,automatic,62,SUV,4.7,11941,16840,298,3909,93,4090
+Nissan,Altima,5,automatic,59,Sedan,4.1,9015,11136,171,3725,258,5342
+Nissan,Altima,5,automatic,61,Sedan,3.8,11113,13979,255,2469,385,5564
+Nissan,Leaf,5,automatic,47,Hatchback,3.9,10603,15542,227,3597,216,6438
+Nissan,Leaf,5,automatic,58,Hatchback,4.7,11105,14290,445,3830,214,6263
+Nissan,Sentra,5,automatic,48,Sedan,3.5,8261,10393,306,1247,291,5927
+Nissan,Altima,5,automatic,80,Sedan,4.6,10381,13785,420,3600,251,5875
+Nissan,Altima,5,automatic,80,Sedan,4.5,8884,12308,381,3816,145,6782
+Mercedes-Benz,GL-Class,7,automatic,55,SUV,3.9,19184,26209,453,1606,319,6886
+Mercedes-Benz,GL-Class,7,automatic,69,SUV,4.9,23304,32597,219,1284,307,6798
+Nissan,Maxima,5,automatic,50,Sedan,3.8,13789,18108,309,1650,196,4752
+Mercedes-Benz,M-Class,7,Automatic,70,SUV,4.9,16165,22357,395,2350,151,4949
+Mercedes-Benz,GL-Class,7,automatic,72,SUV,4.0,27049,37149,397,2515,159,4567
+Toyota,Camry,5,automatic,73,Sedan,3.7,14265,18028,151,1819,131,5491
+Nissan,Altima,5,automatic,49,Sedan,3.7,9812,12643,268,3182,177,6225
+Nissan,Altima,5,automatic,78,Sedan,3.9,9423,12600,167,2113,382,5085
+Nissan,Versa,5,Automatic,68,Sedan,4.0,9835,13844,136,3741,273,4998
+Nissan,Leaf,5,automatic,71,Hatchback,4.3,10174,13111,341,3885,96,4853
+Nissan,Altima,5,automatic,65,Sedan,4.4,9442,13282,132,3054,203,6586
+Ram,1500,5,automatic,65,Quad Cab,4.0,14618,17617,186,1239,183,5957
+Nissan,Altima,5,automatic,68,Sedan,3.7,10532,15803,323,1279,365,6097
+Nissan,Versa,5,automatic,53,Sedan,4.3,7235,10437,429,3749,350,4734
+smart,fortwo,5,automatic,60,Hatchback,4.1,5948,8239,278,3915,104,6904
+Nissan,Altima,5,automatic,80,Sedan,4.8,12283,14992,234,3773,136,6456
+mitsubishi,galant,5,automatic,74,nan,3.7,7555,10177,419,3209,357,5247
+Nissan,Altima,5,automatic,66,Sedan,4.6,10234,16107,364,3674,299,4001
+BMW,3 Series,5,automatic,62,Coupe,4.5,18926,23575,309,3221,334,5520
+BMW,3 Series,5,automatic,69,Convertible,4.8,23681,31744,483,1775,101,4691
+BMW,3 Series,5,automatic,69,Sedan,3.6,15975,21484,378,3466,113,5748
+BMW,3 Series,5,automatic,52,Sedan,3.5,19311,25090,416,2826,173,4812
+BMW,3 Series,5,automatic,74,Sedan,3.7,21442,27246,469,2823,259,6569
+BMW,5 Series,5,automatic,62,Sedan,4.0,26284,33455,392,2183,102,5521
+Audi,A4,5,automatic,80,Sedan,5.0,12836,18337,163,2293,182,6146
+Toyota,Corolla,5,automatic,73,Sedan,3.9,7247,10693,223,3066,321,4064
+Volkswagen,GLI,5,automatic,41,Sedan,4.3,9947,13772,142,3792,302,5979
+BMW,3 Series,5,automatic,55,Sedan,4.4,22543,27587,419,2700,323,4789
+BMW,3 Series,5,automatic,80,Sedan,3.9,16308,24700,152,2027,346,4557
+BMW,3 Series,5,automatic,65,Sedan,4.8,16518,21668,135,3982,163,4169
+Toyota,Prius,5,automatic,51,Hatchback,4.6,14155,19357,145,3962,363,6317
+BMW,3 Series,5,automatic,49,Sedan,4.8,25280,35142,371,1378,166,4909
+Volvo,S60,5,automatic,50,Sedan,4.3,13664,19936,362,3660,117,6985
+BMW,5 Series Gran Turismo,5,automatic,52,Hatchback,3.8,29490,37402,336,1476,193,6783
+BMW,3 Series,5,automatic,74,Sedan,4.2,20264,28276,353,2936,255,4289
+BMW,3 Series,5,automatic,62,Sedan,4.5,19211,25172,377,1478,142,6368
+BMW,3 Series,5,automatic,44,Sedan,5.0,19863,25394,278,2350,138,4768
+Volvo,XC90,7,automatic,74,SUV,3.7,19949,24351,468,2970,226,4012
+Acura,RDX,7,automatic,46,SUV,3.8,17057,21502,221,3628,390,6666
+BMW,3 Series,5,automatic,76,Sedan,4.2,19494,24467,248,3175,104,6930
+BMW,3 Series,5,automatic,54,Sedan,3.6,18235,26834,370,1274,322,6866
+Audi,A5,5,automatic,57,Coupe,4.3,18958,25665,439,1693,274,4364
+Volvo,S60,5,automatic,70,Sedan,4.0,13251,17261,418,3144,313,4212
+BMW,3 Series,5,automatic,72,Sedan,4.4,27870,31849,485,2502,114,5405
+BMW,3 Series,5,automatic,60,Sedan,4.8,17263,22733,330,3592,201,6776
+Toyota,Highlander,7,automatic,41,SUV,4.5,17336,27707,311,1685,260,4186
+Volkswagen,Tiguan,7,automatic,52,SUV,5.0,9565,12454,477,3766,123,5667
+BMW,3 Series,5,automatic,66,Convertible,3.8,26267,34904,223,1540,97,5469
+BMW,3 Series,5,automatic,48,Sedan,4.2,16713,26929,224,3626,282,6816
+BMW,3 Series,5,automatic,53,Sedan,4.7,17596,20357,148,2072,380,5445
+BMW,3 Series,5,automatic,67,Sedan,4.3,16112,23991,495,2613,225,5137
+BMW,5 Series,5,automatic,42,Sedan,4.5,22741,32862,229,2157,182,4982
+BMW,3 Series,5,automatic,51,Sedan,3.9,21609,31002,328,1311,397,5965
+BMW,3 Series,5,automatic,46,Sedan,4.2,16479,26236,488,1606,245,5709
+BMW,5 Series,5,automatic,51,Sedan,4.1,25161,29606,149,3609,344,4464
+BMW,3 Series,5,automatic,53,Sedan,3.8,19208,28054,273,3434,94,5683
+BMW,3 Series,5,automatic,72,Sedan,4.5,21210,28728,269,1374,359,6816
+BMW,5 Series,5,automatic,60,Sedan,4.1,22072,25983,468,1351,212,4285
+BMW,3 Series,5,automatic,50,Sedan,4.8,15477,20384,349,3702,162,4113
+BMW,3 Series,5,automatic,51,Sedan,4.1,15952,18878,249,3093,108,4784
+BMW,3 Series,5,automatic,53,Sedan,4.3,19437,26275,128,2127,165,4070
+BMW,3 Series,5,automatic,74,Sedan,3.6,14858,21206,375,2464,340,6806
+BMW,3 Series,5,automatic,77,Sedan,4.0,13678,17529,492,1764,118,4188
+Toyota,Corolla,5,automatic,79,Sedan,4.6,8845,11540,455,2174,95,6278
+BMW,3 Series,5,automatic,52,Sedan,3.6,19566,24305,372,3020,284,6191
+Audi,Q5,7,automatic,63,SUV,4.5,23199,26416,212,3228,322,5776
+Volvo,XC60,7,automatic,73,SUV,4.8,13842,16725,127,2499,390,4612
+BMW,3 Series,5,automatic,61,Sedan,4.1,20909,26244,192,2424,294,6165
+Toyota,Highlander,7,automatic,60,SUV,3.8,19776,28701,355,2249,216,6202
+Volkswagen,GTI,5,automatic,41,Hatchback,4.8,11095,13883,311,3757,286,4209
+BMW,3 Series,5,automatic,73,Sedan,4.2,21298,32368,227,1501,126,6273
+BMW,3 Series,5,automatic,65,Sedan,3.6,15204,21146,484,1614,327,6585
+BMW,3 Series,5,automatic,46,Sedan,4.2,15268,22644,151,3894,164,6940
+Volvo,S60,5,automatic,71,Sedan,4.3,17309,22839,335,1333,289,5602
+BMW,3 Series,5,automatic,72,Sedan,3.6,15501,19390,152,2621,144,4539
+Volkswagen,Passat,5,automatic,76,Sedan,3.7,9145,13264,339,1248,301,6766
+BMW,3 Series,5,automatic,58,Sedan,3.9,20166,26058,495,1268,204,5117
+Audi,S4,5,automatic,55,Sedan,3.6,27619,35996,430,1661,211,6730
+BMW,M3,5,automatic,53,Sedan,3.5,39360,47650,455,2385,377,6925
+BMW,3 Series,5,automatic,62,Sedan,4.4,15772,23064,275,1670,270,5085
+BMW,3 Series,5,automatic,68,Sedan,3.6,17286,21661,279,2994,266,5991
+BMW,3 Series,5,automatic,58,Sedan,4.2,18022,27750,262,2234,392,5536
+BMW,3 Series,5,automatic,65,Convertible,3.7,24920,33933,200,3066,208,5395
+BMW,3 Series,5,automatic,52,Sedan,4.7,18379,23589,145,1348,217,5928
+BMW,3 Series,5,automatic,66,Coupe,4.4,20492,28158,370,3886,356,5652
+BMW,3 Series,5,Automatic,74,Convertible,4.4,21950,30937,409,2374,368,4118
+BMW,3 Series,5,automatic,58,Convertible,3.8,22158,30449,428,2312,185,4009
+BMW,7 Series,5,automatic,48,Sedan,4.5,24690,31076,497,3724,114,4400
+BMW,M3,5,automatic,55,Convertible,3.8,34361,43262,148,3261,206,4257
+Volvo,S60,5,automatic,48,Sedan,4.5,14256,18680,435,3101,374,4413
+BMW,3 Series,5,automatic,76,Sedan,4.3,18169,27965,299,1561,170,6802
+BMW,3 Series,5,automatic,80,Sedan,4.3,20269,29190,448,2633,218,5488
+BMW,3 Series,5,automatic,41,Sedan,4.6,21731,30256,410,3839,235,5815
+BMW,3 Series,5,automatic,71,Sedan,4.3,21816,29138,174,3553,245,6151
+BMW,5 Series Gran Turismo,5,automatic,68,Hatchback,3.9,22719,28635,184,2410,157,5274
+Toyota,Tundra,5,automatic,45,CrewMax Cab,3.6,17250,21486,333,1330,252,4131
+BMW,3 Series,5,automatic,63,Sedan,4.6,17286,24926,414,1511,379,5664
+BMW,3 Series,5,automatic,49,Sedan,4.1,20014,25787,284,2277,109,4554
+BMW,3 Series,5,automatic,42,Sedan,4.2,18499,28095,346,2520,120,6596
+BMW,3 Series,5,automatic,44,Sedan,4.1,17915,27186,403,3765,112,5053
+Toyota,Prius,5,automatic,75,Hatchback,3.9,12210,18104,366,2363,247,6383
+Volkswagen,CC,5,automatic,80,Sedan,4.8,13671,16471,455,1610,132,6760
+BMW,5 Series,5,automatic,75,Sedan,3.6,24795,31860,267,1516,139,6766
+BMW,3 Series,5,automatic,53,Sedan,4.5,18947,22423,390,2441,258,4745
+BMW,M3,5,automatic,46,Sedan,4.4,39404,51995,278,3196,153,5462
+BMW,3 Series,5,automatic,68,Sedan,5.0,16761,24629,487,3278,189,4286
+Volvo,S60,5,automatic,50,Sedan,4.4,19655,24331,131,1575,126,4820
+Toyota,Corolla,5,automatic,70,Sedan,4.1,8203,11739,432,3531,267,4683
+BMW,3 Series,5,automatic,74,Sedan,3.9,16255,21835,240,2142,313,4807
+BMW,5 Series,5,automatic,70,Sedan,4.3,15146,18362,211,2776,396,5923
+Audi,Q7,7,Manual,47,SUV,4.5,22534,29937,349,2552,170,6776
+BMW,3 Series,5,automatic,43,Wagon,4.0,23389,26239,132,3484,137,5149
+BMW,3 Series,5,automatic,68,Sedan,3.6,17312,22883,294,2514,122,4792
+BMW,3 Series,5,automatic,59,Sedan,4.3,19375,24023,393,1806,221,4408
+Toyota,Corolla,5,automatic,50,Sedan,4.1,7273,10645,120,1484,135,6821
+Volkswagen,GTI,5,automatic,56,Hatchback,4.9,13708,20726,123,2501,179,5735
+Volvo,S60,5,automatic,71,Sedan,3.7,11209,14378,279,2163,222,5578
+BMW,3 Series,5,automatic,76,Sedan,4.8,18434,24098,466,2467,161,5639
+BMW,3 Series,5,automatic,60,Convertible,3.7,19349,25847,461,2933,318,6896
+BMW,3 Series,5,automatic,53,Sedan,5.0,19953,25885,224,3683,195,6425
+BMW,5 Series,5,automatic,78,Sedan,3.9,27058,35173,364,3046,236,4976
+BMW,3 Series,5,automatic,57,Sedan,3.6,16435,22453,328,3658,137,5589
+Acura,MDX,7,automatic,44,SUV,4.2,23477,32217,397,2122,385,6105
+BMW,3 Series,5,automatic,80,Coupe,3.5,14153,19671,409,2200,155,5118
+Toyota,Corolla,5,automatic,78,Sedan,3.9,9513,13068,368,1719,217,4440
+Volvo,S60,5,automatic,59,Sedan,4.6,14115,18788,151,3742,99,4844
+BMW,5 Series,5,automatic,78,Sedan,4.3,22744,34358,451,2750,286,5869
+Toyota,Camry Hybrid,5,automatic,48,Sedan,4.3,14797,20119,132,3081,332,4056
+BMW,3 Series,5,automatic,66,Sedan,3.9,19686,24276,395,1940,390,5780
+BMW,3 Series,5,automatic,80,Sedan,4.5,19000,22584,396,3011,363,5921
+BMW,3 Series,5,automatic,71,Sedan,3.8,14998,22224,134,3346,339,6221
+Volvo,S60,5,automatic,40,Sedan,4.1,13796,19985,366,2291,361,5649
+Volkswagen,Beetle,5,automatic,55,Hatchback,5.0,9243,12226,462,2449,226,5400
+BMW,3 Series,5,automatic,53,Sedan,4.9,18939,25603,336,2669,146,5389
+Audi,Q7,7,automatic,60,SUV,4.9,23702,34722,240,3590,105,4288
+BMW,3 Series,5,automatic,49,Sedan,3.7,17792,24929,326,3035,129,4018
+Audi,S5,5,automatic,60,Convertible,4.8,24804,35879,316,3918,387,4983
+BMW,3 Series,5,automatic,80,Convertible,4.2,25683,37567,261,2691,312,6356
+Toyota,Highlander Hybrid,7,automatic,54,SUV,4.1,23291,31799,449,3212,358,6842
+Volkswagen,Jetta,5,automatic,68,Sedan,4.1,7907,10350,397,3964,377,6906
+Volkswagen,Jetta,5,automatic,72,Sedan,4.1,7881,11350,377,3097,321,4213
+BMW,3 Series,5,automatic,69,Coupe,3.7,16048,22240,312,2118,133,4769
+Audi,Q5,7,automatic,74,SUV,4.1,23060,34357,188,3357,253,6769
+Volkswagen,CC,5,automatic,80,Sedan,3.8,13942,18027,380,2134,385,4760
+BMW,5 Series,5,automatic,64,Sedan,3.5,22851,27804,447,3451,124,5109
+BMW,3 Series,5,automatic,51,Sedan,4.9,20711,30203,316,3725,190,5211
+BMW,3 Series,5,automatic,72,Sedan,4.6,16635,24736,219,3033,313,5672
+Toyota,Camry,5,automatic,63,Sedan,4.6,14757,19937,199,2239,260,5907
+BMW,3 Series,5,automatic,78,Sedan,5.0,18486,26039,350,3955,97,5602
+BMW,3 Series,5,automatic,62,Sedan,4.7,16386,20472,178,2092,196,4545
+BMW,3 Series,5,automatic,70,Sedan,3.9,16893,20574,219,2170,129,5048
+Volkswagen,Jetta,5,automatic,70,Sedan,4.1,7133,10715,487,1480,139,5476
+Toyota,Sienna,5,automatic,62,Minivan,3.7,15691,19257,206,1233,366,5657
+BMW,5 Series,5,automatic,59,Sedan,3.5,18709,24282,420,2245,120,4938
+BMW,3 Series,5,automatic,41,Coupe,3.5,14631,18282,459,2315,355,5690
+BMW,3 Series,5,automatic,80,Sedan,4.2,17082,22969,162,2648,392,5408
+BMW,3 Series,5,automatic,51,Convertible,4.2,25077,32995,470,3956,146,4513
+BMW,3 Series,5,automatic,44,Sedan,4.5,17527,26422,156,2208,139,4887
+Volkswagen,Jetta,5,automatic,55,Sedan,4.8,6258,8475,243,1586,200,5007
+BMW,5 Series,5,automatic,49,Sedan,4.3,25635,34582,253,3938,98,6888
+BMW,3 Series,5,automatic,76,Sedan,3.9,24442,33004,203,3660,171,6836
+BMW,3 Series,5,automatic,51,Sedan,4.3,20054,24394,324,1900,355,4111
+Toyota,RAV4,7,automatic,46,SUV,4.3,6775,10585,410,2425,353,5430
+BMW,3 Series,5,automatic,53,Sedan,4.0,21686,29781,497,2524,243,5063
+BMW,3 Series,5,automatic,64,Convertible,3.6,25148,34213,359,1754,95,5282
+BMW,3 Series,5,manual,46,Coupe,3.6,19470,24135,416,3085,146,4975
+BMW,3 Series,5,automatic,54,Sedan,3.5,19692,28110,396,2332,137,6987
+BMW,5 Series,5,automatic,53,Sedan,4.3,24091,34060,315,1494,217,4599
+Acura,TSX,5,automatic,66,Sedan,3.6,14458,19600,252,3966,174,4499
+BMW,3 Series,5,automatic,54,Sedan,4.8,19172,23991,132,2792,185,4036
+BMW,3 Series,5,automatic,40,Sedan,3.9,19179,26634,248,1732,360,6662
+Toyota,Tundra,5,automatic,43,Double Cab,4.4,18521,24831,196,2728,277,4840
+Volkswagen,Jetta,5,automatic,76,Sedan,3.8,7548,10393,385,3281,361,4247
+BMW,3 Series,5,automatic,64,Sedan,4.9,17635,21513,376,3723,352,4738
+BMW,3 Series,5,automatic,58,Sedan,3.9,18560,26097,372,1970,175,5914
+BMW,3 Series,5,automatic,70,Convertible,3.8,24505,31987,404,2736,109,5363
+BMW,3 Series,5,automatic,68,Sedan,4.3,18146,26940,230,1353,186,4697
+Volvo,XC70,5,automatic,72,Wagon,4.3,23456,34100,456,3726,254,4404
+BMW,3 Series,5,automatic,74,Sedan,4.6,18174,22379,492,1944,189,4642
+Volvo,S60,5,automatic,71,Sedan,5.0,13788,17314,268,2148,234,5408
+BMW,3 Series,5,automatic,60,Coupe,3.8,15524,22362,499,2271,328,6328
+Volkswagen,Jetta,5,automatic,71,Sedan,4.7,6190,9497,294,1826,227,5820
+BMW,3 Series,5,automatic,45,Sedan,4.0,17708,20516,297,1966,137,4935
+Volkswagen,Jetta SportWagen,5,automatic,61,Wagon,4.8,6520,10350,293,1253,243,6266
+BMW,3 Series,5,automatic,77,Coupe,4.1,14761,19391,276,1746,127,6356
+Volkswagen,GTI,5,automatic,70,Hatchback,3.7,12853,19382,306,3286,300,5732
+BMW,3 Series,5,automatic,45,Sedan,4.5,17667,26933,177,2064,347,5017
+BMW,3 Series,5,automatic,60,Sedan,3.9,20091,28826,172,2454,183,5099
+BMW,3 Series,5,automatic,79,Sedan,3.7,17617,22194,259,1940,298,5112
+BMW,3 Series,5,automatic,79,Sedan,4.9,18458,25894,439,1802,318,4790
+BMW,3 Series,5,automatic,53,Sedan,4.4,15934,22058,134,2609,295,4809
+Audi,A3,5,automatic,76,Wagon,4.4,13808,18139,162,2375,383,4534
+BMW,5 Series,5,automatic,71,Sedan,3.9,24118,31295,391,2078,183,5168
+Volvo,S60,5,automatic,68,Sedan,3.9,10687,13487,444,1450,350,4530
+Volkswagen,Tiguan,7,automatic,50,SUV,4.0,12173,15369,349,3681,308,6499
+BMW,3 Series,5,automatic,42,Sedan,4.0,19149,27273,226,2360,92,4410
+BMW,3 Series,5,automatic,65,Convertible,4.1,24365,34427,257,1259,175,4601
+BMW,3 Series,5,automatic,69,Sedan,4.3,17472,20263,270,3219,390,4639
+BMW,5 Series,5,automatic,70,Sedan,4.9,29316,40036,240,3931,221,6182
+Volkswagen,Passat,5,Automatic,40,Sedan,3.5,8296,11642,451,2662,138,4833
+BMW,3 Series,5,automatic,59,Convertible,4.7,20706,29963,429,3369,319,4421
+BMW,3 Series,5,automatic,72,Sedan,3.8,18100,23335,233,1412,364,4399
+BMW,3 Series,5,automatic,65,Sedan,4.4,17694,21985,336,3832,227,4147
+Volvo,S60,5,automatic,54,Sedan,3.7,14804,20236,430,3357,265,4176
+BMW,3 Series,5,automatic,80,Sedan,4.9,17345,23769,414,3297,397,4379
+BMW,3 Series,5,automatic,48,Sedan,4.4,16287,20918,186,1978,137,5746
+Toyota,Prius Plug-in,5,automatic,70,Hatchback,4.5,19878,27024,221,1474,227,4877
+Toyota,Corolla,5,automatic,70,Sedan,4.7,9613,11752,229,1296,135,5315
+Audi,A4,5,automatic,68,Sedan,4.0,11656,18038,232,1963,367,5322
+Volvo,XC60,7,automatic,51,SUV,3.7,13804,18302,479,3663,342,6724
+BMW,3 Series,5,automatic,72,Sedan,4.7,17822,20792,195,2043,362,6567
+BMW,3 Series,5,automatic,40,Sedan,4.0,19758,22874,311,3013,378,6679
+Ford,Fusion,5,automatic,50,Sedan,3.7,5605,7195,229,3575,355,5787
+Infiniti,G Sedan,5,automatic,54,G Sedan,4.3,14679,20500,122,2470,172,6426
+Dodge,Charger,5,automatic,71,Sedan,4.8,11353,14307,454,3834,243,5464
+Infiniti,G Sedan,5,automatic,60,G Sedan,5.0,15735,19016,313,1214,228,5762
+Infiniti,G Sedan,5,automatic,74,G Sedan,4.9,16374,22305,486,2794,135,5412
+Infiniti,G Sedan,5,automatic,59,G Sedan,3.6,13610,21699,187,2250,198,5400
+Infiniti,G Sedan,5,automatic,43,G Sedan,3.6,15893,18685,387,3428,96,6254
+Chrysler,200,5,automatic,78,Sedan,4.8,6528,9249,286,3361,200,4803
+Chevrolet,Equinox,7,automatic,78,SUV,3.7,10734,15943,419,1348,314,5724
+Ford,Escape,7,automatic,75,SUV,3.9,7944,11835,289,3555,318,4390
+Ford,Fiesta,5,automatic,72,Sedan,4.5,6346,7827,243,3112,181,4373
+Ford,Edge,7,automatic,67,SUV,4.4,18572,22936,292,2375,307,6153
+BMW,X3,7,automatic,80,SUV,4.4,22077,32082,451,3295,146,5792
+Chevrolet,Silverado 1500,5,automatic,79,Extended Cab,4.4,12014,14030,122,1558,117,5975
+Honda,Accord,5,automatic,76,Sedan,4.7,11550,16536,321,2238,338,6326
+Honda,Accord,5,automatic,52,Sedan,4.9,11224,14830,229,1382,267,6766
+ford,e150,5,automatic,47,nan,4.9,12598,15393,427,2785,291,5288
+Honda,CR-Z,5,manual,79,Hatchback,4.1,7916,10493,427,2340,347,5362
+Ford,F-150,5,automatic,74,SuperCrew,3.9,18442,26432,364,1304,324,5644
+Infiniti,G Sedan,5,automatic,66,G Sedan,4.0,12886,15599,419,1380,291,5197
+Hyundai,Sonata,5,automatic,74,Sedan,3.9,10058,13332,301,3677,272,5880
+Chrysler,300,5,automatic,73,Sedan,4.5,18361,21098,404,2983,163,4691
+Chevrolet,Malibu,5,automatic,63,Sedan,4.8,8446,11584,209,2776,370,6352
+Dodge,Grand Caravan,5,automatic,61,Minivan,4.1,6900,10173,452,2524,243,6909
+Infiniti,G Sedan,5,automatic,79,G Sedan,4.5,14551,19471,452,2499,145,5610
+Ford,Fusion,5,automatic,41,Sedan,4.6,4331,6112,246,2204,355,4220
+Hyundai,Santa Fe,7,automatic,59,SUV,4.9,11578,14323,152,3486,259,5511
+Ford,F-150,5,automatic,48,SuperCab,4.1,23717,31237,176,3406,94,5888
+Infiniti,EX,7,automatic,47,SUV,4.3,19129,28640,446,3911,269,5556
+BMW,X5,7,automatic,73,SUV,3.5,20674,30252,262,1659,303,5494
+Ford,Edge,7,automatic,58,SUV,3.9,15273,21715,249,2233,270,5769
+Chevrolet,Suburban,7,automatic,41,SUV,3.8,17482,24082,146,3066,303,5314
+Ford,Fusion,5,automatic,65,Sedan,4.2,7272,10782,162,3585,305,5943
+Infiniti,G Sedan,5,automatic,40,G Sedan,4.0,15993,20827,239,3878,189,4391
+BMW,X5,7,automatic,74,SUV,4.2,31692,41245,372,2804,192,5104
+Infiniti,G Sedan,5,automatic,73,G Sedan,3.7,13200,17817,251,2396,132,4000
+Chevrolet,Traverse,7,automatic,54,SUV,3.8,9747,13096,471,2388,318,6785
+Hyundai,Sonata,5,automatic,52,Sedan,4.1,10891,14375,253,3352,367,4376
+GMC,Sierra 1500,5,automatic,41,Extended Cab,4.3,15796,20817,489,3692,201,5670
+Ford,Mustang,5,automatic,61,Coupe,3.6,14070,17498,443,2202,292,6388
+Ford,Transit Connect,5,automatic,55,Minivan,4.4,8051,11063,240,1476,230,6910
+Infiniti,G Sedan,5,automatic,49,G Sedan,5.0,14776,19058,427,2157,332,4684
+BMW,M3,5,automatic,54,Sedan,3.5,31752,42270,314,1745,143,5588
+Buick,LaCrosse,5,automatic,78,Sedan,4.7,12561,16367,400,2813,311,6771
+Chevrolet,HHR,5,automatic,68,Wagon,3.7,5461,7079,201,1222,385,6780
+Ford,Edge,7,automatic,59,SUV,4.9,6652,9071,148,3523,238,5351
+Chevrolet,Impala,5,automatic,79,Sedan,4.0,5418,6896,478,2662,264,5021
+Ford,Fusion,5,automatic,77,Sedan,4.5,8762,12978,186,3219,288,4211
+Ford,F-150,5,automatic,65,Regular Cab,4.2,11079,12838,492,2967,321,5611
+Honda,Accord,5,automatic,51,Sedan,3.8,10252,13915,317,1681,219,4121
+Honda,Accord,5,automatic,40,Sedan,3.7,9113,13222,424,3802,90,4766
+Honda,Accord Crosstour,5,automatic,75,Hatchback,4.0,12606,19070,287,2338,306,4228
+Ford,Edge,7,automatic,66,SUV,3.5,14856,20983,282,3189,290,4641
+Chevrolet,Silverado 2500HD,5,automatic,60,Crew Cab,4.0,24324,38158,430,3512,388,4837
+Infiniti,G Sedan,5,automatic,46,G Sedan,4.4,13628,19187,477,3321,127,5869
+Ford,Escape,7,automatic,53,SUV,4.6,11546,14602,120,1741,237,6731
+Hyundai,Sonata,5,automatic,53,Sedan,3.8,10377,12801,497,2070,148,6488
+Infiniti,G Sedan,5,automatic,57,G Sedan,4.0,15804,22401,355,3902,334,5513
+Ford,Fusion,5,automatic,75,Sedan,4.3,5961,7890,483,1854,113,5972
+Chevrolet,Traverse,7,automatic,76,SUV,4.0,14786,18595,278,2105,141,6032
+Hyundai,Equus,5,automatic,54,Sedan,3.8,21424,30359,140,3228,122,5809
+BMW,X3,7,automatic,52,SUV,3.6,26759,31248,245,3345,257,4470
+Hyundai,Sonata,5,automatic,74,Sedan,4.5,9677,14647,402,1855,277,6651
+Buick,LaCrosse,5,automatic,52,Sedan,4.2,15416,22942,235,2730,124,6976
+Hyundai,Elantra,5,automatic,43,Sedan,3.9,4734,6805,478,2953,166,5305
+Infiniti,G Sedan,5,automatic,62,G Sedan,3.7,15019,18995,213,1683,194,5500
+Honda,CR-V,7,automatic,74,SUV,3.7,10933,16214,128,3367,348,6162
+Infiniti,G Sedan,5,automatic,50,G Sedan,4.2,15659,21240,290,2924,361,5243
